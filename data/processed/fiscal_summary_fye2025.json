@@ -1,0 +1,159 @@
+{
+  "fye": "2024-25",
+  "sources": {
+    "expenditure": "ONS Country and regional public sector finances expenditure tables (FYE 2025)",
+    "revenue": "ONS Country and regional public sector finances revenue tables (FYE 2025)",
+    "per_head": "ONS Country and regional public sector finances supplementary tables (FYE 2025)"
+  },
+  "uk": {
+    "revenue_bn": 1134.4,
+    "expenditure_tme_bn": 1290.6,
+    "expenditure_identifiable_bn": 935.6,
+    "non_identifiable_and_accounting_bn": 355.0,
+    "fiscal_deficit_bn": 156.2,
+    "debt_interest_bn": 126.5,
+    "spending_by_function_bn": {
+      "1. General public services": 159.7,
+      "2. Defence": 63.7,
+      "3. Public order and safety": 51.7,
+      "4. Economic affairs": 88.5,
+      "5. Environment protection": 17.1,
+      "6. Housing and community amenities": 21.9,
+      "7. Health": 242.5,
+      "8. Recreation, culture and religion": 15.0,
+      "9. Education (includes training)": 122.7,
+      "10. Social protection": 386.5
+    },
+    "spending_by_function_pct_of_tme": {
+      "1. General public services": 12.4,
+      "2. Defence": 4.9,
+      "3. Public order and safety": 4.0,
+      "4. Economic affairs": 6.9,
+      "5. Environment protection": 1.3,
+      "6. Housing and community amenities": 1.7,
+      "7. Health": 18.8,
+      "8. Recreation, culture and religion": 1.2,
+      "9. Education (includes training)": 9.5,
+      "10. Social protection": 30.0
+    }
+  },
+  "regions": [
+    {
+      "region": "North East",
+      "revenue_bn": 32.9,
+      "identifiable_expenditure_bn": 38.9,
+      "net_fiscal_balance_identifiable_bn": 6.0,
+      "revenue_per_head_gbp": 11977.0,
+      "expenditure_per_head_gbp": 19071.0,
+      "net_balance_per_head_gbp": 7094.0
+    },
+    {
+      "region": "North West",
+      "revenue_bn": 105.7,
+      "identifiable_expenditure_bn": 107.0,
+      "net_fiscal_balance_identifiable_bn": 1.4,
+      "revenue_per_head_gbp": 13722.0,
+      "expenditure_per_head_gbp": 18829.0,
+      "net_balance_per_head_gbp": 5107.0
+    },
+    {
+      "region": "Yorkshire and The Humber",
+      "revenue_bn": 76.1,
+      "identifiable_expenditure_bn": 72.5,
+      "net_fiscal_balance_identifiable_bn": -3.6,
+      "revenue_per_head_gbp": 13484.0,
+      "expenditure_per_head_gbp": 17705.0,
+      "net_balance_per_head_gbp": 4221.0
+    },
+    {
+      "region": "East Midlands",
+      "revenue_bn": 67.0,
+      "identifiable_expenditure_bn": 61.6,
+      "net_fiscal_balance_identifiable_bn": -5.4,
+      "revenue_per_head_gbp": 13287.0,
+      "expenditure_per_head_gbp": 16808.0,
+      "net_balance_per_head_gbp": 3521.0
+    },
+    {
+      "region": "West Midlands",
+      "revenue_bn": 81.5,
+      "identifiable_expenditure_bn": 81.4,
+      "net_fiscal_balance_identifiable_bn": -0.1,
+      "revenue_per_head_gbp": 13237.0,
+      "expenditure_per_head_gbp": 18225.0,
+      "net_balance_per_head_gbp": 4988.0
+    },
+    {
+      "region": "East of England",
+      "revenue_bn": 107.1,
+      "identifiable_expenditure_bn": 80.9,
+      "net_fiscal_balance_identifiable_bn": -26.2,
+      "revenue_per_head_gbp": 16349.0,
+      "expenditure_per_head_gbp": 16971.0,
+      "net_balance_per_head_gbp": 621.0
+    },
+    {
+      "region": "London",
+      "revenue_bn": 239.9,
+      "identifiable_expenditure_bn": 138.3,
+      "net_fiscal_balance_identifiable_bn": -101.6,
+      "revenue_per_head_gbp": 26454.0,
+      "expenditure_per_head_gbp": 21017.0,
+      "net_balance_per_head_gbp": -5438.0
+    },
+    {
+      "region": "South East",
+      "revenue_bn": 181.2,
+      "identifiable_expenditure_bn": 116.0,
+      "net_fiscal_balance_identifiable_bn": -65.2,
+      "revenue_per_head_gbp": 18855.0,
+      "expenditure_per_head_gbp": 17162.0,
+      "net_balance_per_head_gbp": -1692.0
+    },
+    {
+      "region": "South West",
+      "revenue_bn": 89.4,
+      "identifiable_expenditure_bn": 73.2,
+      "net_fiscal_balance_identifiable_bn": -16.2,
+      "revenue_per_head_gbp": 15248.0,
+      "expenditure_per_head_gbp": 17684.0,
+      "net_balance_per_head_gbp": 2436.0
+    },
+    {
+      "region": "England",
+      "revenue_bn": 980.8,
+      "identifiable_expenditure_bn": 769.9,
+      "net_fiscal_balance_identifiable_bn": -210.9,
+      "revenue_per_head_gbp": 16795.0,
+      "expenditure_per_head_gbp": 18235.0,
+      "net_balance_per_head_gbp": 1440.0
+    },
+    {
+      "region": "Wales",
+      "revenue_bn": 41.5,
+      "identifiable_expenditure_bn": 48.3,
+      "net_fiscal_balance_identifiable_bn": 6.8,
+      "revenue_per_head_gbp": 13083.0,
+      "expenditure_per_head_gbp": 20168.0,
+      "net_balance_per_head_gbp": 7085.0
+    },
+    {
+      "region": "Scotland",
+      "revenue_bn": 87.7,
+      "identifiable_expenditure_bn": 86.3,
+      "net_fiscal_balance_identifiable_bn": -1.4,
+      "revenue_per_head_gbp": 15880.0,
+      "expenditure_per_head_gbp": 21117.0,
+      "net_balance_per_head_gbp": 5238.0
+    },
+    {
+      "region": "Northern Ireland",
+      "revenue_bn": 24.4,
+      "identifiable_expenditure_bn": 31.1,
+      "net_fiscal_balance_identifiable_bn": 6.7,
+      "revenue_per_head_gbp": 12714.0,
+      "expenditure_per_head_gbp": 20866.0,
+      "net_balance_per_head_gbp": 8152.0
+    }
+  ]
+}
