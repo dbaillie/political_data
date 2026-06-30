@@ -81,25 +81,66 @@ def build_coverage() -> dict:
         f"{len(rev_years)} financial years.",
     )
     add(
-        "HM Treasury CRA database",
+        "HM Treasury CRA database (current edition)",
         "2020-21",
         "2024-25",
         "UK, ITL1",
         "Department segment × function × region",
         "HM Treasury",
         "cra2025_db.xlsx",
-        "Older CRA editions available back to 1999 on GOV.UK.",
+        "Single-edition snapshot; use merged history for longer series.",
     )
+
+    cra_history = OUT / "cra_expenditure_history.json"
+    if cra_history.exists():
+        cra = json.loads(cra_history.read_text())
+        add(
+            "HM Treasury CRA — merged historical editions",
+            cra.get("first_year") or "2008-09",
+            cra.get("last_year") or "2024-25",
+            "UK, ITL1",
+            "Identifiable expenditure by COFOG function and region",
+            "HM Treasury GOV.UK (editions 2013–2025)",
+            "hm_treasury/cra/cra_*_database.xlsx",
+            f"{len(cra.get('financial_years', []))} years merged; run scripts/build_cra_history.py.",
+        )
+
     add(
-        "HM Treasury PESA Chapter 1",
+        "HM Treasury PESA Chapter 1 (current edition)",
         "2020-21",
         "2025-26",
         "UK",
-        "TME budgetary aggregates",
+        "Departmental DEL / TME budget tables",
         "HM Treasury",
         "pesa_ch1.xlsx",
-        "PESA functional tables (Ch 4–5) go back to 1999-00.",
+        "Single-edition snapshot from PESA 2025.",
     )
+
+    pesa_history = OUT / "pesa_expenditure_history.json"
+    if pesa_history.exists():
+        pesa = json.loads(pesa_history.read_text())
+        tme = pesa.get("tme", {})
+        func = pesa.get("spending_by_function", {})
+        add(
+            "HM Treasury PESA — TME (merged chapter 4 table 4.1)",
+            tme.get("first_year") or "1967-68",
+            tme.get("last_year") or "2025-26",
+            "UK",
+            "Total managed expenditure, nominal £ billion",
+            "HM Treasury GOV.UK (editions 2010–2025)",
+            "hm_treasury/pesa/pesa_*_chapter4.*",
+            f"{len(tme.get('financial_years', []))} years; run scripts/build_pesa_history.py.",
+        )
+        add(
+            "HM Treasury PESA — spending by function (merged chapter 4 table 4.2)",
+            func.get("first_year") or "1987-88",
+            func.get("last_year") or "2024-25",
+            "UK",
+            "COFOG Level 0 functions, nominal £ billion",
+            "HM Treasury GOV.UK (editions 2010–2025)",
+            "hm_treasury/pesa/pesa_*_chapter4.*",
+            f"{len(func.get('financial_years', []))} years.",
+        )
     add(
         "HMRC Income Tax Liabilities Statistics",
         "1999-2000",
@@ -143,6 +184,9 @@ def build_coverage() -> dict:
 
     coverage["summary"] = {
         "longest_revenue_expenditure_series": "ONS CR PSF: FYE 2000-01 to 2024-25",
+        "longest_uk_tme_series": "HM Treasury PESA merged: 1967-68 to 2025-26",
+        "longest_cofog_function_series": "HM Treasury PESA merged: 1987-88 to 2024-25",
+        "longest_regional_spend_series": "HM Treasury CRA merged: 2008-09 to 2024-25",
         "longest_property_band_series": "VOA CTSOP: 1993 to 2024 (England & Wales)",
         "longest_income_tax_band_series": "HMRC ITLS: tax years 1999-2000 to 2024-2025",
         "cra_segment_data": "2020-21 to 2024-25 in current file",

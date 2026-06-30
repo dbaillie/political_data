@@ -22,24 +22,54 @@
       "notes": "25 financial years."
     },
     {
-      "name": "HM Treasury CRA database",
+      "name": "HM Treasury CRA database (current edition)",
       "period_start": "2020-21",
       "period_end": "2024-25",
       "geography": "UK, ITL1",
       "granularity": "Department segment \u00d7 function \u00d7 region",
       "source": "HM Treasury",
       "file": "cra2025_db.xlsx",
-      "notes": "Older CRA editions available back to 1999 on GOV.UK."
+      "notes": "Single-edition snapshot; use merged history for longer series."
     },
     {
-      "name": "HM Treasury PESA Chapter 1",
+      "name": "HM Treasury CRA \u2014 merged historical editions",
+      "period_start": "2008-09",
+      "period_end": "2024-25",
+      "geography": "UK, ITL1",
+      "granularity": "Identifiable expenditure by COFOG function and region",
+      "source": "HM Treasury GOV.UK (editions 2013\u20132025)",
+      "file": "hm_treasury/cra/cra_*_database.xlsx",
+      "notes": "17 years merged; run scripts/build_cra_history.py."
+    },
+    {
+      "name": "HM Treasury PESA Chapter 1 (current edition)",
       "period_start": "2020-21",
       "period_end": "2025-26",
       "geography": "UK",
-      "granularity": "TME budgetary aggregates",
+      "granularity": "Departmental DEL / TME budget tables",
       "source": "HM Treasury",
       "file": "pesa_ch1.xlsx",
-      "notes": "PESA functional tables (Ch 4\u20135) go back to 1999-00."
+      "notes": "Single-edition snapshot from PESA 2025."
+    },
+    {
+      "name": "HM Treasury PESA \u2014 TME (merged chapter 4 table 4.1)",
+      "period_start": "1967-68",
+      "period_end": "2025-26",
+      "geography": "UK",
+      "granularity": "Total managed expenditure, nominal \u00a3 billion",
+      "source": "HM Treasury GOV.UK (editions 2010\u20132025)",
+      "file": "hm_treasury/pesa/pesa_*_chapter4.*",
+      "notes": "59 years; run scripts/build_pesa_history.py."
+    },
+    {
+      "name": "HM Treasury PESA \u2014 spending by function (merged chapter 4 table 4.2)",
+      "period_start": "1987-88",
+      "period_end": "2024-25",
+      "geography": "UK",
+      "granularity": "COFOG Level 0 functions, nominal \u00a3 billion",
+      "source": "HM Treasury GOV.UK (editions 2010\u20132025)",
+      "file": "hm_treasury/pesa/pesa_*_chapter4.*",
+      "notes": "38 years."
     },
     {
       "name": "HMRC Income Tax Liabilities Statistics",
@@ -84,6 +114,9 @@
   ],
   "summary": {
     "longest_revenue_expenditure_series": "ONS CR PSF: FYE 2000-01 to 2024-25",
+    "longest_uk_tme_series": "HM Treasury PESA merged: 1967-68 to 2025-26",
+    "longest_cofog_function_series": "HM Treasury PESA merged: 1987-88 to 2024-25",
+    "longest_regional_spend_series": "HM Treasury CRA merged: 2008-09 to 2024-25",
     "longest_property_band_series": "VOA CTSOP: 1993 to 2024 (England & Wales)",
     "longest_income_tax_band_series": "HMRC ITLS: tax years 1999-2000 to 2024-2025",
     "cra_segment_data": "2020-21 to 2024-25 in current file",

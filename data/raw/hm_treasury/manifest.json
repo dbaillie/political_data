@@ -1,0 +1,322 @@
+{
+  "cra": [
+    {
+      "edition": 2013,
+      "status": "ok",
+      "page": "https://www.gov.uk/government/statistics/country-and-regional-analysis-2013",
+      "url": "https://assets.publishing.service.gov.uk/media/5a7c307340f0b67d0b11f726/CRA_2013_Combined_Database_for_Publication.xlsx",
+      "path": "raw/hm_treasury/cra/cra_2013_database.xlsx",
+      "bytes": 1803914
+    },
+    {
+      "edition": 2014,
+      "status": "ok",
+      "page": "https://www.gov.uk/government/statistics/country-and-regional-analysis-2014",
+      "url": "https://assets.publishing.service.gov.uk/media/5a7db53740f0b65d8b4e302a/CRA_2014_Combined_Database_for_Publication.xlsx",
+      "path": "raw/hm_treasury/cra/cra_2014_database.xlsx",
+      "bytes": 2211582
+    },
+    {
+      "edition": 2015,
+      "status": "ok",
+      "page": "https://www.gov.uk/government/statistics/country-and-regional-analysis-2015",
+      "url": "https://assets.publishing.service.gov.uk/media/5a7f2fb9ed915d74e6228e9e/CRA_2015_Combined_Database_for_Publication.xlsx",
+      "path": "raw/hm_treasury/cra/cra_2015_database.xlsx",
+      "bytes": 1760977
+    },
+    {
+      "edition": 2016,
+      "status": "ok",
+      "page": "https://www.gov.uk/government/statistics/country-and-regional-analysis-2016",
+      "url": "https://assets.publishing.service.gov.uk/media/5a74e13ded915d3c7d528a99/CRA_2016_Database_for_Publication.xlsx",
+      "path": "raw/hm_treasury/cra/cra_2016_database.xlsx",
+      "bytes": 1720083
+    },
+    {
+      "edition": 2017,
+      "status": "ok",
+      "page": "https://www.gov.uk/government/statistics/country-and-regional-analysis-2017",
+      "url": "https://assets.publishing.service.gov.uk/media/5a750423ed915d502d6ccd33/CRA_2017_Database.xlsx",
+      "path": "raw/hm_treasury/cra/cra_2017_database.xlsx",
+      "bytes": 1774421
+    },
+    {
+      "edition": 2018,
+      "status": "ok",
+      "page": "https://www.gov.uk/government/statistics/country-and-regional-analysis-2018",
+      "url": "https://assets.publishing.service.gov.uk/media/5bfd558140f0b65ad612fd16/CRA_2018_Database_for_Publication_rvsd.xlsx",
+      "path": "raw/hm_treasury/cra/cra_2018_database.xlsx",
+      "bytes": 1839473
+    },
+    {
+      "edition": 2019,
+      "status": "ok",
+      "page": "https://www.gov.uk/government/statistics/country-and-regional-analysis-2019",
+      "url": "https://assets.publishing.service.gov.uk/media/5dd411cce5274a06d8e3f5b7/CRA_2019_Database_for_Publication.xlsx",
+      "path": "raw/hm_treasury/cra/cra_2019_database.xlsx",
+      "bytes": 2324818
+    },
+    {
+      "edition": 2020,
+      "status": "ok",
+      "page": "https://www.gov.uk/government/statistics/country-and-regional-analysis-2020",
+      "url": "https://assets.publishing.service.gov.uk/media/5fb3e8658fa8f54ab961bc74/CRA_2020_Database_for_Publication.xlsx",
+      "path": "raw/hm_treasury/cra/cra_2020_database.xlsx",
+      "bytes": 2304475
+    },
+    {
+      "edition": 2021,
+      "status": "ok",
+      "page": "https://www.gov.uk/government/statistics/country-and-regional-analysis-2021",
+      "url": "https://assets.publishing.service.gov.uk/media/619cd45ce90e07043f2b96ac/CRA_2021_Database_for_Publication.xlsx",
+      "path": "raw/hm_treasury/cra/cra_2021_database.xlsx",
+      "bytes": 2301188
+    },
+    {
+      "edition": 2022,
+      "status": "ok",
+      "page": "https://www.gov.uk/government/statistics/country-and-regional-analysis-2022",
+      "url": "https://assets.publishing.service.gov.uk/media/63735ee7d3bf7f4a574c144e/CRA_2022_Database_for_Publication.xlsx",
+      "path": "raw/hm_treasury/cra/cra_2022_database.xlsx",
+      "bytes": 2764278
+    },
+    {
+      "edition": 2023,
+      "status": "ok",
+      "page": "https://www.gov.uk/government/statistics/country-and-regional-analysis-2023",
+      "url": "https://assets.publishing.service.gov.uk/media/65807c9023b70a0013234b6b/CRA_2023_Database_for_Publication.xlsx",
+      "path": "raw/hm_treasury/cra/cra_2023_database.xlsx",
+      "bytes": 2577024
+    },
+    {
+      "edition": 2024,
+      "status": "ok",
+      "page": "https://www.gov.uk/government/statistics/country-and-regional-analysis-2024",
+      "url": "https://assets.publishing.service.gov.uk/media/673c6cf29a48a5ab14acc374/CRA_2024_Database_for_Publication.xlsx",
+      "path": "raw/hm_treasury/cra/cra_2024_database.xlsx",
+      "bytes": 2537230
+    },
+    {
+      "edition": 2025,
+      "status": "ok",
+      "page": "https://www.gov.uk/government/statistics/country-and-regional-analysis-2025",
+      "url": "https://assets.publishing.service.gov.uk/media/691b09e484a267da57d705d2/CRA_2025_Database_for_Publication.xlsx",
+      "path": "raw/hm_treasury/cra/cra_2025_database.xlsx",
+      "bytes": 2221680
+    }
+  ],
+  "pesa": [
+    {
+      "edition": 2010,
+      "status": "ok",
+      "page": "https://www.gov.uk/government/statistics/public-expenditure-statistical-analyses-2010",
+      "files": {
+        "chapter_1": "raw/hm_treasury/pesa/pesa_2010_chapter1.xls",
+        "chapter_4": "raw/hm_treasury/pesa/pesa_2010_chapter4.xls"
+      },
+      "urls": {
+        "chapter_1": "https://assets.publishing.service.gov.uk/media/5a7c5ee1ed915d696ccfc51c/pesa_2010_tables_chapter1.xls",
+        "chapter_4": "https://assets.publishing.service.gov.uk/media/5a7c7025ed915d6969f44dbb/pesa_2010_tables_chapter4.xls"
+      }
+    },
+    {
+      "edition": 2011,
+      "status": "ok",
+      "page": "https://www.gov.uk/government/statistics/public-expenditure-statistical-analyses-2011",
+      "files": {
+        "chapter_1": "raw/hm_treasury/pesa/pesa_2011_chapter1.xlsx",
+        "chapter_4": "raw/hm_treasury/pesa/pesa_2011_chapter4.xlsx"
+      },
+      "urls": {
+        "chapter_1": "https://assets.publishing.service.gov.uk/media/5a7cbeb4ed915d63cc65c98e/pesa_2011_tables_chapter1.xlsx",
+        "chapter_4": "https://assets.publishing.service.gov.uk/media/5a7ca60e40f0b65b3de0a451/pesa_2011_tables_chapter4.xlsx"
+      }
+    },
+    {
+      "edition": 2012,
+      "status": "ok",
+      "page": "https://www.gov.uk/government/statistics/public-expenditure-statistical-analyses-2012",
+      "files": {
+        "chapter_1": "raw/hm_treasury/pesa/pesa_2012_chapter1.xlsx",
+        "chapter_4": "raw/hm_treasury/pesa/pesa_2012_chapter4.xlsx"
+      },
+      "urls": {
+        "chapter_1": "https://assets.publishing.service.gov.uk/media/5a756b69e5274a1baf95e6f2/pesa_2012_tables_chapter1.1.xlsx",
+        "chapter_4": "https://assets.publishing.service.gov.uk/media/5a7c5e0eed915d6969f4461a/pesa_2012_tables_chapter4.xlsx"
+      }
+    },
+    {
+      "edition": 2013,
+      "status": "ok",
+      "page": "https://www.gov.uk/government/statistics/public-expenditure-statistical-analyses-2013",
+      "files": {
+        "chapter_1": "raw/hm_treasury/pesa/pesa_2013_chapter1.xlsx",
+        "chapter_4": "raw/hm_treasury/pesa/pesa_2013_chapter4.xlsx"
+      },
+      "urls": {
+        "chapter_1": "https://assets.publishing.service.gov.uk/media/5a7c2cf640f0b67d0b11f5a8/PESA_2013_Cm_Chapter_1_Tables.xlsx",
+        "chapter_4": "https://assets.publishing.service.gov.uk/media/5a7c3847ed915d7d70d1d624/PESA_2013_Cm_Chapter_4_Tables.xlsx"
+      }
+    },
+    {
+      "edition": 2014,
+      "status": "ok",
+      "page": "https://www.gov.uk/government/statistics/public-expenditure-statistical-analyses-2014",
+      "files": {
+        "chapter_1": "raw/hm_treasury/pesa/pesa_2014_chapter1.xlsx",
+        "chapter_4": "raw/hm_treasury/pesa/pesa_2014_chapter4.xlsx"
+      },
+      "urls": {
+        "chapter_1": "https://assets.publishing.service.gov.uk/media/5a7e35c240f0b62305b81827/PESA_2014_CM_Chapter_1_tables.xlsx",
+        "chapter_4": "https://assets.publishing.service.gov.uk/media/5a7db66de5274a5eaea65e14/PESA_2014_CM_Chapter_4_Tables.xlsx"
+      }
+    },
+    {
+      "edition": 2015,
+      "status": "ok",
+      "page": "https://www.gov.uk/government/statistics/public-expenditure-statistical-analyses-2015",
+      "files": {
+        "chapter_1": "raw/hm_treasury/pesa/pesa_2015_chapter1.xlsx",
+        "chapter_4": "raw/hm_treasury/pesa/pesa_2015_chapter4.xlsx"
+      },
+      "urls": {
+        "chapter_1": "https://assets.publishing.service.gov.uk/media/5a801d2040f0b62305b8941d/PESA_2015_CM_Chapter_1_Tables.xlsx",
+        "chapter_4": "https://assets.publishing.service.gov.uk/media/5a74da33ed915d502d6cb81e/PESA_2015_CM_Chapter_4_Tables.xlsx"
+      }
+    },
+    {
+      "edition": 2016,
+      "status": "ok",
+      "page": "https://www.gov.uk/government/statistics/public-expenditure-statistical-analyses-2016",
+      "files": {
+        "chapter_1": "raw/hm_treasury/pesa/pesa_2016_chapter1.xlsx",
+        "chapter_4": "raw/hm_treasury/pesa/pesa_2016_chapter4.xlsx"
+      },
+      "urls": {
+        "chapter_1": "https://assets.publishing.service.gov.uk/media/5a75b2f4ed915d6faf2b5027/PESA_2016_Chapter_1_Tables.xlsx",
+        "chapter_4": "https://assets.publishing.service.gov.uk/media/5a80cbd1ed915d74e33fc74c/PESA_2016_Chapter_4_tables.xlsx"
+      }
+    },
+    {
+      "edition": 2017,
+      "status": "ok",
+      "page": "https://www.gov.uk/government/statistics/public-expenditure-statistical-analyses-2017",
+      "files": {
+        "chapter_1": "raw/hm_treasury/pesa/pesa_2017_chapter1.xlsx",
+        "chapter_4": "raw/hm_treasury/pesa/pesa_2017_chapter4.xlsx"
+      },
+      "urls": {
+        "chapter_1": "https://assets.publishing.service.gov.uk/media/5a82b11940f0b6230269c333/PESA_2017_Chapter_1_Tables.xlsx",
+        "chapter_4": "https://assets.publishing.service.gov.uk/media/5a82a894ed915d74e6236f9d/PESA_2017_Chapter_4_Tables.xlsx"
+      }
+    },
+    {
+      "edition": 2018,
+      "status": "ok",
+      "page": "https://www.gov.uk/government/statistics/public-expenditure-statistical-analyses-2018",
+      "files": {
+        "chapter_1": "raw/hm_treasury/pesa/pesa_2018_chapter1.ods",
+        "chapter_4": "raw/hm_treasury/pesa/pesa_2018_chapter4.ods"
+      },
+      "urls": {
+        "chapter_1": "https://assets.publishing.service.gov.uk/media/5b4f40a6e5274a73119d7634/PESA_2018_Chapter_1_tables.ods",
+        "chapter_4": "https://assets.publishing.service.gov.uk/media/5b4f40f5ed915d43776f3fdb/PESA_2018_Chapter_4_tables.ods"
+      }
+    },
+    {
+      "edition": 2019,
+      "status": "ok",
+      "page": "https://www.gov.uk/government/statistics/public-expenditure-statistical-analyses-2019",
+      "files": {
+        "chapter_1": "raw/hm_treasury/pesa/pesa_2019_chapter1.ods",
+        "chapter_4": "raw/hm_treasury/pesa/pesa_2019_chapter4.ods"
+      },
+      "urls": {
+        "chapter_1": "https://assets.publishing.service.gov.uk/media/5d43f5cbed915d705940544c/PESA_2019_Chapter_1_tables.ods",
+        "chapter_4": "https://assets.publishing.service.gov.uk/media/5d43f5db40f0b674a3a6f01a/PESA_2019_Chapter_4_tables.ods"
+      }
+    },
+    {
+      "edition": 2020,
+      "status": "ok",
+      "page": "https://www.gov.uk/government/statistics/public-expenditure-statistical-analyses-2020",
+      "files": {
+        "chapter_1": "raw/hm_treasury/pesa/pesa_2020_chapter1.ods",
+        "chapter_4": "raw/hm_treasury/pesa/pesa_2020_chapter4.ods"
+      },
+      "urls": {
+        "chapter_1": "https://assets.publishing.service.gov.uk/media/5f1066b4e90e075e8947b39f/PESA_2020_CP_Chapter_1_tables.ods",
+        "chapter_4": "https://assets.publishing.service.gov.uk/media/5f1066eee90e075e8a5d39b9/PESA_2020_CP_Chapter_4_tables.ods"
+      }
+    },
+    {
+      "edition": 2021,
+      "status": "ok",
+      "page": "https://www.gov.uk/government/statistics/public-expenditure-statistical-analyses-2021",
+      "files": {
+        "chapter_1": "raw/hm_treasury/pesa/pesa_2021_chapter1.xlsx",
+        "chapter_4": "raw/hm_treasury/pesa/pesa_2021_chapter4.xlsx"
+      },
+      "urls": {
+        "chapter_1": "https://assets.publishing.service.gov.uk/media/60f573818fa8f50c774582c7/PESA_2021_CP_Chapter_1.xlsx",
+        "chapter_4": "https://assets.publishing.service.gov.uk/media/60f573b88fa8f50c76838770/PESA_2021_CP_Chapter_4.xlsx"
+      }
+    },
+    {
+      "edition": 2022,
+      "status": "ok",
+      "page": "https://www.gov.uk/government/statistics/public-expenditure-statistical-analyses-2022",
+      "files": {
+        "chapter_1": "raw/hm_treasury/pesa/pesa_2022_chapter1.xlsx",
+        "chapter_4": "raw/hm_treasury/pesa/pesa_2022_chapter4.xlsx"
+      },
+      "urls": {
+        "chapter_1": "https://assets.publishing.service.gov.uk/media/62d6700b8fa8f50bfafb09b6/PESA_2022_CP_Chapter_1_tables.xlsx",
+        "chapter_4": "https://assets.publishing.service.gov.uk/media/62d67039d3bf7f28671e921a/PESA_2022_CP_Chapter_4_tables.xlsx"
+      }
+    },
+    {
+      "edition": 2023,
+      "status": "ok",
+      "page": "https://www.gov.uk/government/statistics/public-expenditure-statistical-analyses-2023",
+      "files": {
+        "chapter_1": "raw/hm_treasury/pesa/pesa_2023_chapter1.xlsx",
+        "chapter_4": "raw/hm_treasury/pesa/pesa_2023_chapter4.xlsx"
+      },
+      "urls": {
+        "chapter_1": "https://assets.publishing.service.gov.uk/media/64b67a0871749c001389ed6a/PESA_2023_CP_Chapter_1_tables.xlsx",
+        "chapter_4": "https://assets.publishing.service.gov.uk/media/64b67a310ea2cb001315e4a9/PESA_2023_CP_Chapter_4_tables.xlsx"
+      }
+    },
+    {
+      "edition": 2024,
+      "status": "ok",
+      "page": "https://www.gov.uk/government/statistics/public-expenditure-statistical-analyses-2024",
+      "files": {
+        "chapter_1": "raw/hm_treasury/pesa/pesa_2024_chapter1.xlsx",
+        "chapter_4": "raw/hm_treasury/pesa/pesa_2024_chapter4.xlsx"
+      },
+      "urls": {
+        "chapter_1": "https://assets.publishing.service.gov.uk/media/66a8dddcce1fd0da7b592f99/PESA_2024_CP_Chapter_1_tables.xlsx",
+        "chapter_4": "https://assets.publishing.service.gov.uk/media/66a8de37ce1fd0da7b592f9a/PESA_2024_CP_Chapter_4_tables.xlsx"
+      }
+    },
+    {
+      "edition": 2025,
+      "status": "ok",
+      "page": "https://www.gov.uk/government/statistics/public-expenditure-statistical-analyses-2025",
+      "files": {
+        "chapter_1": "raw/hm_treasury/pesa/pesa_2025_chapter1.xlsx",
+        "chapter_4": "raw/hm_treasury/pesa/pesa_2025_chapter4.xlsx"
+      },
+      "urls": {
+        "chapter_1": "https://assets.publishing.service.gov.uk/media/6874fa8f92691289bdb7d394/PESA_2025_CP_Chapter_1_tables.xlsx",
+        "chapter_4": "https://assets.publishing.service.gov.uk/media/6874fe33b1b4ebc2c2e46574/PESA_2025_CP_Chapter_4_tables.xlsx"
+      }
+    }
+  ],
+  "notes": {
+    "cra": "Each edition contains ~5 outturn years; merge with build_cra_history.py",
+    "pesa": "Chapter 1 = TME/budget aggregates; Chapter 4 = spending by function"
+  }
+}

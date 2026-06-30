@@ -1,0 +1,211 @@
+{
+  "financial_years": [
+    "2008-09",
+    "2009-10",
+    "2010-11",
+    "2011-12",
+    "2012-13",
+    "2013-14",
+    "2014-15",
+    "2015-16",
+    "2016-17",
+    "2017-18",
+    "2018-19",
+    "2019-20",
+    "2020-21",
+    "2021-22",
+    "2022-23",
+    "2023-24",
+    "2024-25"
+  ],
+  "first_year": "2008-09",
+  "last_year": "2024-25",
+  "source_editions": [
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "uk_by_function": {},
+  "identifiable_expenditure_by_region_gbp_bn": {
+    "2008-09": {
+      "Northern Ireland": 0.33,
+      "OUTSIDE UK": -5.5,
+      "SCOTLAND": 0.33,
+      "WALES": 0.19
+    },
+    "2009-10": {
+      "Northern Ireland": 0.4,
+      "OUTSIDE UK": -8.26,
+      "SCOTLAND": 0.28,
+      "WALES": 0.3
+    },
+    "2010-11": {
+      "Northern Ireland": 0.47,
+      "OUTSIDE UK": -5.18,
+      "SCOTLAND": 0.56,
+      "WALES": 0.3
+    },
+    "2011-12": {
+      "Northern Ireland": 0.93,
+      "OUTSIDE UK": -1.1,
+      "SCOTLAND": 0.48,
+      "WALES": 0.3
+    },
+    "2012-13": {
+      "Northern Ireland": 0.65,
+      "OUTSIDE UK": -0.5,
+      "SCOTLAND": 0.22,
+      "WALES": 0.15
+    },
+    "2013-14": {
+      "Northern Ireland": 0.18,
+      "OUTSIDE UK": 2.35,
+      "SCOTLAND": 0.78,
+      "WALES": 0.28
+    },
+    "2014-15": {
+      "Northern Ireland": 0.36,
+      "OUTSIDE UK": 2.5,
+      "SCOTLAND": 1.08,
+      "WALES": 0.29
+    },
+    "2015-16": {
+      "Northern Ireland": 0.0,
+      "OUTSIDE UK": 2.77,
+      "SCOTLAND": 0.71,
+      "WALES": 0.13
+    },
+    "2016-17": {
+      "Northern Ireland": 0.42,
+      "OUTSIDE UK": 2.6,
+      "SCOTLAND": 0.85,
+      "WALES": 0.39
+    },
+    "2017-18": {
+      "Northern Ireland": 0.0,
+      "OUTSIDE UK": 3.02,
+      "SCOTLAND": 0.0,
+      "WALES": 0.01
+    },
+    "2018-19": {
+      "Northern Ireland": 0.0,
+      "OUTSIDE UK": 3.17,
+      "SCOTLAND": 0.01,
+      "WALES": 0.01
+    },
+    "2019-20": {
+      "Northern Ireland": 0.0,
+      "OUTSIDE UK": 2.74,
+      "SCOTLAND": 0.0,
+      "WALES": 0.01
+    },
+    "2020-21": {
+      "Northern Ireland": 0.0,
+      "OUTSIDE UK": 1.98,
+      "SCOTLAND": 0.01,
+      "WALES": 0.01
+    },
+    "2021-22": {
+      "Northern Ireland": 0.0,
+      "OUTSIDE UK": 0.02,
+      "SCOTLAND": 0.0,
+      "WALES": 0.01
+    },
+    "2022-23": {
+      "Northern Ireland": 0.0,
+      "OUTSIDE UK": 0.03,
+      "SCOTLAND": 0.0,
+      "WALES": 0.02
+    },
+    "2023-24": {
+      "Northern Ireland": 0.0,
+      "OUTSIDE UK": -0.31,
+      "SCOTLAND": 0.0,
+      "WALES": 0.01
+    },
+    "2024-25": {
+      "Northern Ireland": 0.0,
+      "OUTSIDE UK": 0.22,
+      "SCOTLAND": 0.01,
+      "WALES": 0.01
+    }
+  },
+  "load_log": [
+    {
+      "edition": 2013,
+      "file": "cra_2013_database.xlsx",
+      "status": "ok"
+    },
+    {
+      "edition": 2014,
+      "file": "cra_2014_database.xlsx",
+      "status": "ok"
+    },
+    {
+      "edition": 2015,
+      "file": "cra_2015_database.xlsx",
+      "status": "ok"
+    },
+    {
+      "edition": 2016,
+      "file": "cra_2016_database.xlsx",
+      "status": "ok"
+    },
+    {
+      "edition": 2017,
+      "file": "cra_2017_database.xlsx",
+      "status": "ok"
+    },
+    {
+      "edition": 2018,
+      "file": "cra_2018_database.xlsx",
+      "status": "ok"
+    },
+    {
+      "edition": 2019,
+      "file": "cra_2019_database.xlsx",
+      "status": "ok"
+    },
+    {
+      "edition": 2020,
+      "file": "cra_2020_database.xlsx",
+      "status": "ok"
+    },
+    {
+      "edition": 2021,
+      "file": "cra_2021_database.xlsx",
+      "status": "ok"
+    },
+    {
+      "edition": 2022,
+      "file": "cra_2022_database.xlsx",
+      "status": "ok"
+    },
+    {
+      "edition": 2023,
+      "file": "cra_2023_database.xlsx",
+      "status": "ok"
+    },
+    {
+      "edition": 2024,
+      "file": "cra_2024_database.xlsx",
+      "status": "ok"
+    },
+    {
+      "edition": 2025,
+      "file": "cra_2025_database.xlsx",
+      "status": "ok"
+    }
+  ],
+  "method": "Merged HM Treasury CRA database editions from GOV.UK. Overlapping years use the latest available edition. Values are identifiable expenditure in \u00a3 thousands."
+}
