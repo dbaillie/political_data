@@ -61,6 +61,65 @@ ONS allocates spending on a **“who benefits”** basis (where residents/enterp
 
 ---
 
+## Tax income by type and region (FYE 2024-25)
+
+ONS **Table S9** breaks down public sector receipts by tax type for each ITL1 region. The pipeline also layers **HMRC Income Tax Liabilities Statistics** for income tax by marginal rate band.
+
+### UK revenue mix
+
+| Tax type | £bn | % of revenue |
+|---|---:|---:|
+| Income tax | 306 | 26.7% |
+| National insurance | 174 | 15.2% |
+| VAT | 173 | 15.1% |
+| Corporation tax | 93 | 8.1% |
+| Council tax | 47 | 4.1% |
+| Business rates | 29 | 2.5% |
+| Capital gains tax | 14 | 1.2% |
+| Fuel & excise duties | 45 | 3.9% |
+| Other (incl. interest, GOS) | 263 | 23.1% |
+
+### How the mix shifts by region
+
+| Region | Income tax | NIC | VAT | Corp tax | Council tax |
+|---|---:|---:|---:|---:|---:|
+| **UK** | 27% | 15% | 15% | 8% | 4% |
+| London | **33%** | 15% | 10% | **14%** | 3% |
+| South East | 30% | 15% | 14% | 9% | 4% |
+| North East | 22% | 16% | 17% | 5% | 6% |
+| Wales | 21% | 16% | 18% | 5% | 7% |
+| Scotland | 24% | 16% | 16% | 7% | 5% |
+
+London's revenue is skewed toward **income tax and corporation tax** (high earners and businesses by residence); Wales and the North East rely more on **VAT and council tax** as a share of local revenue.
+
+### Income tax by marginal band (modelled by region)
+
+HMRC does not publish regional receipts by band directly. The pipeline estimates band shares using:
+
+1. **Payer counts** by marginal band and region (HMRC ITLS Table 2.2)
+2. **UK average liability** per payer in each band (ITLS Table 2.5)
+3. **Scaled** to ONS regional income tax totals (Table S9)
+
+| Region | Basic rate | Higher rate | Additional rate | Total IT £bn |
+|---|---:|---:|---:|---:|
+| London | 15% | 28% | **57%** | 79.2 |
+| South East | 28% | 38% | 34% | 39.5 |
+| North East | 44% | 35% | 21% | 7.1 |
+| Wales | 42% | 36% | 22% | 8.7 |
+
+London is dominated by additional-rate payers; poorer regions have more basic-rate payers.
+
+**Caveats:**
+
+- Revenue is on an **accruals** basis and allocated by **residence**, not workplace
+- ITLS 2024-25 band data is **projected** from 2021-22 SPI
+- Scottish/Welsh rates appear in payer classification, not as separate band names
+- **Council tax property bands** (A–H) are a different concept — not yet in the pipeline
+
+**Output:** `data/processed/revenue_by_type_region_fye2025.json` (run `python scripts/build_fiscal_summary.py`)
+
+---
+
 ## The right fiscal totals to use
 
 Different publications measure slightly different things. For “as close as possible to total tax in vs all outgoings including interest”, use:
@@ -207,6 +266,11 @@ data/processed/
 
 scripts/
   build_fiscal_summary.py     # Pulls latest numbers from ONS workbooks
+  revenue_breakdown.py        # Tax revenue by type, region, and IT band
+
+data/processed/
+  fiscal_summary_fye2025.json
+  revenue_by_type_region_fye2025.json
 ```
 
 Run:

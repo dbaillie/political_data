@@ -4,9 +4,13 @@
 from __future__ import annotations
 
 import json
+import sys
 from pathlib import Path
 
 import pandas as pd
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from revenue_breakdown import build_revenue_breakdown
 
 DATA_DIR = Path(__file__).resolve().parents[1] / "data"
 RAW = DATA_DIR / "raw"
@@ -124,6 +128,7 @@ def build_summary() -> dict:
             "expenditure": "ONS Country and regional public sector finances expenditure tables (FYE 2025)",
             "revenue": "ONS Country and regional public sector finances revenue tables (FYE 2025)",
             "per_head": "ONS Country and regional public sector finances supplementary tables (FYE 2025)",
+            "revenue_by_type": "ONS supplementary Table S9 + HMRC ITLS for income tax bands",
         },
         "uk": {
             "revenue_bn": round(revenue["UK"], 1),
@@ -150,6 +155,7 @@ def build_summary() -> dict:
             for region in REGIONS
             if region != "UK"
         ],
+        "revenue_breakdown": build_revenue_breakdown(),
     }
 
 
@@ -159,6 +165,10 @@ def main() -> None:
     out_path = OUT / "fiscal_summary_fye2025.json"
     out_path.write_text(json.dumps(summary, indent=2))
     print(f"Wrote {out_path}")
+
+    revenue_path = OUT / "revenue_by_type_region_fye2025.json"
+    revenue_path.write_text(json.dumps(summary["revenue_breakdown"], indent=2))
+    print(f"Wrote {revenue_path}")
 
 
 if __name__ == "__main__":
