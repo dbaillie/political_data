@@ -1,0 +1,96 @@
+{
+  "description": "Historical span of datasets currently in data/raw and used by the pipeline. FYE = financial year ending 31 March. Tax year runs 6 April to 5 April.",
+  "datasets": [
+    {
+      "name": "ONS Country & Regional PSF \u2014 expenditure",
+      "period_start": "2000-2001",
+      "period_end": "2024-2025",
+      "geography": "UK, 4 nations, 9 English regions (ITL1)",
+      "granularity": "COFOG function; identifiable expenditure",
+      "source": "ONS",
+      "file": "crpsf_fye2025_exp.xlsx",
+      "notes": "25 financial years in current workbook."
+    },
+    {
+      "name": "ONS Country & Regional PSF \u2014 revenue",
+      "period_start": "2000-2001",
+      "period_end": "2024-2025",
+      "geography": "UK, 4 nations, 9 English regions (ITL1)",
+      "granularity": "~58 revenue lines incl. tax type",
+      "source": "ONS Table S9 in supplementary tables",
+      "file": "crpsf_fye2025_supp.xlsx",
+      "notes": "25 financial years."
+    },
+    {
+      "name": "HM Treasury CRA database",
+      "period_start": "2020-21",
+      "period_end": "2024-25",
+      "geography": "UK, ITL1",
+      "granularity": "Department segment \u00d7 function \u00d7 region",
+      "source": "HM Treasury",
+      "file": "cra2025_db.xlsx",
+      "notes": "Older CRA editions available back to 1999 on GOV.UK."
+    },
+    {
+      "name": "HM Treasury PESA Chapter 1",
+      "period_start": "2020-21",
+      "period_end": "2025-26",
+      "geography": "UK",
+      "granularity": "TME budgetary aggregates",
+      "source": "HM Treasury",
+      "file": "pesa_ch1.xlsx",
+      "notes": "PESA functional tables (Ch 4\u20135) go back to 1999-00."
+    },
+    {
+      "name": "HMRC Income Tax Liabilities Statistics",
+      "period_start": "1999-2000",
+      "period_end": "2024-2025",
+      "geography": "UK; ITL1 for payer counts (Table 2.2)",
+      "granularity": "Income tax marginal bands",
+      "source": "HMRC SPI / ITLS",
+      "file": "hmrc_itls.ods",
+      "notes": "2022-23 to 2024-25 are projections from 2021-22 SPI."
+    },
+    {
+      "name": "VOA Council Tax stock of properties (CTSOP)",
+      "period_start": "1993",
+      "period_end": "2024",
+      "geography": "England & Wales",
+      "granularity": "Property count by band A\u2013H (I in Wales); region/LA",
+      "source": "Valuation Office Agency",
+      "file": "ctsop1.0_supp_2024.xlsx",
+      "notes": "Time series in ctsop1.0_timeseries.xlsx (1993\u20132024 per year sheet)."
+    },
+    {
+      "name": "NRS Scotland dwelling estimates",
+      "period_start": "2005",
+      "period_end": "2024",
+      "geography": "Scotland",
+      "granularity": "Council tax band A\u2013H by data zone",
+      "source": "National Records of Scotland",
+      "file": "scotland_dwelling_est_2024.xlsx",
+      "notes": "Aggregated to Scotland total in pipeline."
+    },
+    {
+      "name": "MHCLG Council Taxbase (England LA)",
+      "period_start": "1993",
+      "period_end": "2024",
+      "geography": "England billing authorities",
+      "granularity": "Band D equivalent taxbase, discounts",
+      "source": "MHCLG",
+      "file": "council_taxbase_la_2024.ods",
+      "notes": "Annual collection; multi-year on GOV.UK."
+    }
+  ],
+  "summary": {
+    "longest_revenue_expenditure_series": "ONS CR PSF: FYE 2000-01 to 2024-25",
+    "longest_property_band_series": "VOA CTSOP: 1993 to 2024 (England & Wales)",
+    "longest_income_tax_band_series": "HMRC ITLS: tax years 1999-2000 to 2024-2025",
+    "cra_segment_data": "2020-21 to 2024-25 in current file",
+    "not_in_pipeline_yet": [
+      "Local authority revenue outturn (England): 2017-18 to 2024-25 on GOV.UK",
+      "Wales council tax dwellings by band: StatsWales from 2014-15",
+      "Northern Ireland domestic rates (no council tax bands)"
+    ]
+  }
+}

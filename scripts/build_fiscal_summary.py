@@ -12,6 +12,11 @@ import pandas as pd
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from revenue_breakdown import build_revenue_breakdown
 
+try:
+    from data_coverage import build_coverage
+except ImportError:
+    build_coverage = None
+
 DATA_DIR = Path(__file__).resolve().parents[1] / "data"
 RAW = DATA_DIR / "raw"
 OUT = DATA_DIR / "processed"
@@ -169,6 +174,11 @@ def main() -> None:
     revenue_path = OUT / "revenue_by_type_region_fye2025.json"
     revenue_path.write_text(json.dumps(summary["revenue_breakdown"], indent=2))
     print(f"Wrote {revenue_path}")
+
+    if build_coverage:
+        coverage_path = OUT / "data_coverage.json"
+        coverage_path.write_text(json.dumps(build_coverage(), indent=2))
+        print(f"Wrote {coverage_path}")
 
 
 if __name__ == "__main__":

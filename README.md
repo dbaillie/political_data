@@ -9,3 +9,5 @@ Research guide and starter data pipeline for **where government money is spent**
 - [Full guide](docs/uk-government-spending.md)
 - Run `python scripts/build_fiscal_summary.py` after placing ONS workbooks in `data/raw/`
 - Revenue by tax type and income tax band by region: `data/processed/revenue_by_type_region_fye2025.json`
+- Council tax by property band (A–H): included in the same file under `council_tax_by_band_and_region`
+- Historical data coverage: `data/processed/data_coverage.json`

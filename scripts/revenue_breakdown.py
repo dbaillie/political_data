@@ -7,6 +7,8 @@ from pathlib import Path
 
 import pandas as pd
 
+from council_tax_bands import build_council_tax_breakdown
+
 DATA_DIR = Path(__file__).resolve().parents[1] / "data"
 RAW = DATA_DIR / "raw"
 FYE_LABEL = "2024 to 2025"
@@ -291,6 +293,7 @@ def build_revenue_breakdown() -> dict:
     df_s9 = parse_table_s9()
     revenue = aggregate_revenue_by_group(df_s9)
     income_tax_bands = estimate_income_tax_by_band(df_s9)
+    council_tax = build_council_tax_breakdown(df_s9)
 
     return {
         "fye": "2024-25",
@@ -301,6 +304,10 @@ def build_revenue_breakdown() -> dict:
             "income_tax_bands": (
                 "HMRC Income Tax Liabilities Statistics tables 2.2 and 2.5, "
                 "scaled to ONS regional income tax totals"
+            ),
+            "council_tax_bands": (
+                "VOA CTSOP 1.0 (England/Wales) + NRS dwelling estimates (Scotland), "
+                "receipts allocated by Band-D-equivalent stock"
             ),
         },
         "notes": {
@@ -326,6 +333,7 @@ def build_revenue_breakdown() -> dict:
         "revenue_by_type_and_region": revenue["summary"],
         "revenue_detailed_lines": revenue["detailed"],
         "income_tax_by_band_and_region": income_tax_bands,
+        "council_tax_by_band_and_region": council_tax,
     }
 
 

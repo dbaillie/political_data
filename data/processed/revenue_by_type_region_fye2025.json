@@ -2,7 +2,8 @@
   "fye": "2024-25",
   "sources": {
     "revenue_by_type_region": "ONS Country and regional public sector finances supplementary Table S9",
-    "income_tax_bands": "HMRC Income Tax Liabilities Statistics tables 2.2 and 2.5, scaled to ONS regional income tax totals"
+    "income_tax_bands": "HMRC Income Tax Liabilities Statistics tables 2.2 and 2.5, scaled to ONS regional income tax totals",
+    "council_tax_bands": "VOA CTSOP 1.0 (England/Wales) + NRS dwelling estimates (Scotland), receipts allocated by Band-D-equivalent stock"
   },
   "notes": {
     "revenue_basis": "Accrued public sector current receipts on a residence basis ('who pays'), consistent with ONS Country and Regional PSF.",
@@ -3515,6 +3516,401 @@
         "additional": 11.0
       },
       "all_payers_k": 922.0
+    }
+  },
+  "council_tax_by_band_and_region": {
+    "reference_date": "2024-09-15 (England/Wales VOA); 2024-12 (Scotland NRS)",
+    "method": "Property counts from VOA CTSOP (England regions, Wales) and NRS dwelling estimates (Scotland). Receipts allocated to bands proportionally to Band-D-equivalent dwellings (A=6/9 \u2026 H=18/9, I=21/9), scaled to ONS regional council tax totals.",
+    "northern_ireland_note": "Northern Ireland has no council tax; domestic rates are reported separately in ONS revenue tables (not split by property band).",
+    "by_region": {
+      "North East": {
+        "council_tax_total_bn": 1.789,
+        "dwellings_by_band": {
+          "A": 667690,
+          "B": 206190,
+          "C": 195380,
+          "D": 112800,
+          "E": 60640,
+          "F": 26420,
+          "G": 14530,
+          "H": 1560
+        },
+        "dwellings_total": 1285210,
+        "band_d_equivalent_dwellings": 1031582,
+        "estimated_receipts_by_band_bn": {
+          "A": 0.772,
+          "B": 0.278,
+          "C": 0.301,
+          "D": 0.196,
+          "E": 0.129,
+          "F": 0.066,
+          "G": 0.042,
+          "H": 0.005
+        },
+        "estimated_receipts_by_band_pct": {
+          "A": 43.2,
+          "B": 15.5,
+          "C": 16.8,
+          "D": 11.0,
+          "E": 7.2,
+          "F": 3.7,
+          "G": 2.3,
+          "H": 0.3
+        }
+      },
+      "North West": {
+        "council_tax_total_bn": 5.144,
+        "dwellings_by_band": {
+          "A": 1384780,
+          "B": 703530,
+          "C": 614110,
+          "D": 362680,
+          "E": 215610,
+          "F": 103850,
+          "G": 65470,
+          "H": 7310
+        },
+        "dwellings_total": 3457340,
+        "band_d_equivalent_dwellings": 2916198,
+        "estimated_receipts_by_band_bn": {
+          "A": 1.628,
+          "B": 0.965,
+          "C": 0.963,
+          "D": 0.64,
+          "E": 0.465,
+          "F": 0.265,
+          "G": 0.192,
+          "H": 0.026
+        },
+        "estimated_receipts_by_band_pct": {
+          "A": 31.6,
+          "B": 18.8,
+          "C": 18.7,
+          "D": 12.4,
+          "E": 9.0,
+          "F": 5.2,
+          "G": 3.7,
+          "H": 0.5
+        }
+      },
+      "Yorkshire and The Humber": {
+        "council_tax_total_bn": 3.653,
+        "dwellings_by_band": {
+          "A": 1070170,
+          "B": 512510,
+          "C": 430630,
+          "D": 248670,
+          "E": 157820,
+          "F": 75410,
+          "G": 42030,
+          "H": 3750
+        },
+        "dwellings_total": 2540990,
+        "band_d_equivalent_dwellings": 2122884,
+        "estimated_receipts_by_band_bn": {
+          "A": 1.228,
+          "B": 0.686,
+          "C": 0.659,
+          "D": 0.428,
+          "E": 0.332,
+          "F": 0.187,
+          "G": 0.121,
+          "H": 0.013
+        },
+        "estimated_receipts_by_band_pct": {
+          "A": 33.6,
+          "B": 18.8,
+          "C": 18.0,
+          "D": 11.7,
+          "E": 9.1,
+          "F": 5.1,
+          "G": 3.3,
+          "H": 0.4
+        }
+      },
+      "East Midlands": {
+        "council_tax_total_bn": 3.488,
+        "dwellings_by_band": {
+          "A": 802610,
+          "B": 503670,
+          "C": 401930,
+          "D": 246680,
+          "E": 154030,
+          "F": 73600,
+          "G": 39220,
+          "H": 3450
+        },
+        "dwellings_total": 2225190,
+        "band_d_equivalent_dwellings": 1897604,
+        "estimated_receipts_by_band_bn": {
+          "A": 0.984,
+          "B": 0.72,
+          "C": 0.657,
+          "D": 0.453,
+          "E": 0.346,
+          "F": 0.195,
+          "G": 0.12,
+          "H": 0.013
+        },
+        "estimated_receipts_by_band_pct": {
+          "A": 28.2,
+          "B": 20.6,
+          "C": 18.8,
+          "D": 13.0,
+          "E": 9.9,
+          "F": 5.6,
+          "G": 3.4,
+          "H": 0.4
+        }
+      },
+      "West Midlands": {
+        "council_tax_total_bn": 3.959,
+        "dwellings_by_band": {
+          "A": 785230,
+          "B": 652960,
+          "C": 524190,
+          "D": 301200,
+          "E": 192880,
+          "F": 105130,
+          "G": 62580,
+          "H": 6130
+        },
+        "dwellings_total": 2630300,
+        "band_d_equivalent_dwellings": 2302648,
+        "estimated_receipts_by_band_bn": {
+          "A": 0.9,
+          "B": 0.873,
+          "C": 0.801,
+          "D": 0.518,
+          "E": 0.405,
+          "F": 0.261,
+          "G": 0.179,
+          "H": 0.021
+        },
+        "estimated_receipts_by_band_pct": {
+          "A": 22.7,
+          "B": 22.1,
+          "C": 20.2,
+          "D": 13.1,
+          "E": 10.2,
+          "F": 6.6,
+          "G": 4.5,
+          "H": 0.5
+        }
+      },
+      "East of England": {
+        "council_tax_total_bn": 5.001,
+        "dwellings_by_band": {
+          "A": 402420,
+          "B": 597740,
+          "C": 737600,
+          "D": 504810,
+          "E": 312510,
+          "F": 172110,
+          "G": 113320,
+          "H": 14760
+        },
+        "dwellings_total": 2855270,
+        "band_d_equivalent_dwellings": 2742590,
+        "estimated_receipts_by_band_bn": {
+          "A": 0.489,
+          "B": 0.848,
+          "C": 1.196,
+          "D": 0.921,
+          "E": 0.696,
+          "F": 0.453,
+          "G": 0.344,
+          "H": 0.054
+        },
+        "estimated_receipts_by_band_pct": {
+          "A": 9.8,
+          "B": 17.0,
+          "C": 23.9,
+          "D": 18.4,
+          "E": 13.9,
+          "F": 9.1,
+          "G": 6.9,
+          "H": 1.1
+        }
+      },
+      "London": {
+        "council_tax_total_bn": 6.14,
+        "dwellings_by_band": {
+          "A": 144240,
+          "B": 497730,
+          "C": 1036590,
+          "D": 973560,
+          "E": 583590,
+          "F": 297690,
+          "G": 224740,
+          "H": 68380
+        },
+        "dwellings_total": 3826520,
+        "band_d_equivalent_dwellings": 4032857,
+        "estimated_receipts_by_band_bn": {
+          "A": 0.146,
+          "B": 0.589,
+          "C": 1.403,
+          "D": 1.482,
+          "E": 1.086,
+          "F": 0.655,
+          "G": 0.57,
+          "H": 0.208
+        },
+        "estimated_receipts_by_band_pct": {
+          "A": 2.4,
+          "B": 9.6,
+          "C": 22.9,
+          "D": 24.1,
+          "E": 17.7,
+          "F": 10.7,
+          "G": 9.3,
+          "H": 3.4
+        }
+      },
+      "South East": {
+        "council_tax_total_bn": 8.057,
+        "dwellings_by_band": {
+          "A": 366990,
+          "B": 685480,
+          "C": 1073330,
+          "D": 841000,
+          "E": 550080,
+          "F": 336130,
+          "G": 265010,
+          "H": 40210
+        },
+        "dwellings_total": 4158230,
+        "band_d_equivalent_dwellings": 4252827,
+        "estimated_receipts_by_band_bn": {
+          "A": 0.464,
+          "B": 1.01,
+          "C": 1.807,
+          "D": 1.593,
+          "E": 1.274,
+          "F": 0.92,
+          "G": 0.837,
+          "H": 0.152
+        },
+        "estimated_receipts_by_band_pct": {
+          "A": 5.8,
+          "B": 12.5,
+          "C": 22.4,
+          "D": 19.8,
+          "E": 15.8,
+          "F": 11.4,
+          "G": 10.4,
+          "H": 1.9
+        }
+      },
+      "South West": {
+        "council_tax_total_bn": 4.785,
+        "dwellings_by_band": {
+          "A": 471380,
+          "B": 643470,
+          "C": 622140,
+          "D": 430610,
+          "E": 290810,
+          "F": 147490,
+          "G": 81690,
+          "H": 8390
+        },
+        "dwellings_total": 2695980,
+        "band_d_equivalent_dwellings": 2519759,
+        "estimated_receipts_by_band_bn": {
+          "A": 0.597,
+          "B": 0.95,
+          "C": 1.05,
+          "D": 0.818,
+          "E": 0.675,
+          "F": 0.405,
+          "G": 0.259,
+          "H": 0.032
+        },
+        "estimated_receipts_by_band_pct": {
+          "A": 12.5,
+          "B": 19.9,
+          "C": 21.9,
+          "D": 17.1,
+          "E": 14.1,
+          "F": 8.5,
+          "G": 5.4,
+          "H": 0.7
+        }
+      },
+      "Wales": {
+        "council_tax_total_bn": 2.323,
+        "dwellings_by_band": {
+          "A": 215020,
+          "B": 306550,
+          "C": 322330,
+          "D": 240650,
+          "E": 200410,
+          "F": 122340,
+          "G": 55090,
+          "H": 13180,
+          "I": 5660
+        },
+        "dwellings_total": 1481230,
+        "band_d_equivalent_dwellings": 1461982,
+        "estimated_receipts_by_band_bn": {
+          "A": 0.228,
+          "B": 0.379,
+          "C": 0.455,
+          "D": 0.382,
+          "E": 0.389,
+          "F": 0.281,
+          "G": 0.146,
+          "H": 0.042,
+          "I": 0.021
+        },
+        "estimated_receipts_by_band_pct": {
+          "A": 9.8,
+          "B": 16.3,
+          "C": 19.6,
+          "D": 16.4,
+          "E": 16.7,
+          "F": 12.1,
+          "G": 6.3,
+          "H": 1.8,
+          "I": 0.9
+        }
+      },
+      "Scotland": {
+        "council_tax_total_bn": 3.077,
+        "dwellings_by_band": {
+          "A": 551378,
+          "B": 611746,
+          "C": 443882,
+          "D": 381743,
+          "E": 377422,
+          "F": 224766,
+          "G": 143259,
+          "H": 14954
+        },
+        "dwellings_total": 2749150,
+        "band_d_equivalent_dwellings": 2674321,
+        "estimated_receipts_by_band_bn": {
+          "A": 0.423,
+          "B": 0.547,
+          "C": 0.454,
+          "D": 0.439,
+          "E": 0.531,
+          "F": 0.374,
+          "G": 0.275,
+          "H": 0.034
+        },
+        "estimated_receipts_by_band_pct": {
+          "A": 13.7,
+          "B": 17.8,
+          "C": 14.8,
+          "D": 14.3,
+          "E": 17.3,
+          "F": 12.2,
+          "G": 8.9,
+          "H": 1.1
+        }
+      }
     }
   }
 }
