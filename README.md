@@ -16,13 +16,16 @@ Research guide and starter data pipeline for **where government money is spent**
 
 ### Visualization (React)
 
+**Live preview (after GitHub Pages is enabled):** https://dbaillie.github.io/political_data/
+
 ```bash
 # Export normalized CSVs from processed JSON
 python scripts/export_viz_data.py
 
-# Start the dashboard
-cd viz && npm install && npm run dev
+# Start the dashboard locally
+cd viz && npm install && npm run dev   # → http://localhost:5173
 ```
 
 - **Data export:** `data/export/*.csv` (Postgres-ready; see `supabase/schema.sql`)
-- **Frontend:** `viz/` — React + Vite + Recharts, loads CSV from `viz/public/data/`
+- **Frontend:** `viz/` — React + Vite + Recharts
+- **Deploy:** `.github/workflows/deploy-viz.yml` → GitHub Pages
