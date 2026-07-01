@@ -13,3 +13,16 @@ Research guide and starter data pipeline for **where government money is spent**
 - Historical data coverage: `data/processed/data_coverage.json`
 - HM Treasury historical CRA/PESA (GOV.UK editions 2010–2025): run `python scripts/download_hm_treasury.py`, then `build_cra_history.py` / `build_pesa_history.py`
 - Merged time series: `data/processed/cra_expenditure_history.json`, `data/processed/pesa_expenditure_history.json`
+
+### Visualization (React)
+
+```bash
+# Export normalized CSVs from processed JSON
+python scripts/export_viz_data.py
+
+# Start the dashboard
+cd viz && npm install && npm run dev
+```
+
+- **Data export:** `data/export/*.csv` (Postgres-ready; see `supabase/schema.sql`)
+- **Frontend:** `viz/` — React + Vite + Recharts, loads CSV from `viz/public/data/`

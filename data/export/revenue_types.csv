@@ -1,0 +1,13 @@
+slug,name,sort_order
+income_tax,Income Tax,1
+vat,Vat,2
+national_insurance,National Insurance,3
+other,Other,4
+gross_operating_surplus,Gross Operating Surplus,5
+interest_and_dividends,Interest And Dividends,6
+council_tax,Council Tax,7
+corporation_tax,Corporation Tax,8
+fuel_duties,Fuel Duties,9
+business_rates,Business Rates,10
+excise_duties,Excise Duties,11
+capital_gains_tax,Capital Gains Tax,12

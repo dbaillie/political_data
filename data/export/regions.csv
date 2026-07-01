@@ -1,0 +1,15 @@
+slug,name,nation,sort_order
+north-east,North East,England,1
+north-west,North West,England,2
+yorkshire-and-the-humber,Yorkshire and The Humber,England,3
+east-midlands,East Midlands,England,4
+west-midlands,West Midlands,England,5
+east-of-england,East of England,England,6
+london,London,England,7
+south-east,South East,England,8
+south-west,South West,England,9
+england,England,England,10
+wales,Wales,Wales,11
+scotland,Scotland,Scotland,12
+northern-ireland,Northern Ireland,Northern Ireland,13
+uk,UK,UK,14

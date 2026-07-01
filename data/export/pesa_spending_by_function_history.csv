@@ -1,0 +1,381 @@
+financial_year,function_slug,function_name,spend_bn,pct_of_total
+1987-88,social-protection,10. Social protection,55.1,30.9
+1987-88,general-public-services,1. General public services,25.0,14.0
+1987-88,education,9. Education,21.2,11.9
+1987-88,health,7. Health,20.3,11.4
+1987-88,defence,2. Defence,19.1,10.7
+1987-88,economic-affairs,4. Economic affairs,19.0,10.7
+1987-88,public-order-and-safety,3. Public order and safety,8.1,4.5
+1987-88,housing-and-community-amenities,6. Housing and community amenities,4.6,2.6
+1987-88,recreation-culture-and-religion,"8. Recreation, culture and religion",3.5,2.0
+1987-88,environment-protection,5. Environment protection,2.4,1.3
+1988-89,social-protection,10. Social protection,56.8,30.6
+1988-89,general-public-services,1. General public services,26.0,14.0
+1988-89,education,9. Education,23.1,12.5
+1988-89,health,7. Health,22.4,12.1
+1988-89,defence,2. Defence,19.4,10.5
+1988-89,economic-affairs,4. Economic affairs,18.7,10.1
+1988-89,public-order-and-safety,3. Public order and safety,9.0,4.9
+1988-89,recreation-culture-and-religion,"8. Recreation, culture and religion",3.8,2.0
+1988-89,housing-and-community-amenities,6. Housing and community amenities,3.6,1.9
+1988-89,environment-protection,5. Environment protection,2.6,1.4
+1989-90,social-protection,10. Social protection,61.3,30.2
+1989-90,general-public-services,1. General public services,27.9,13.8
+1989-90,education,9. Education,25.9,12.8
+1989-90,health,7. Health,24.2,11.9
+1989-90,defence,2. Defence,21.0,10.4
+1989-90,economic-affairs,4. Economic affairs,19.6,9.7
+1989-90,public-order-and-safety,3. Public order and safety,10.3,5.1
+1989-90,housing-and-community-amenities,6. Housing and community amenities,5.3,2.6
+1989-90,recreation-culture-and-religion,"8. Recreation, culture and religion",4.3,2.1
+1989-90,environment-protection,5. Environment protection,2.9,1.4
+1990-91,social-protection,10. Social protection,68.2,30.9
+1990-91,general-public-services,1. General public services,28.1,12.7
+1990-91,education,9. Education,28.1,12.7
+1990-91,health,7. Health,27.1,12.3
+1990-91,defence,2. Defence,22.0,10.0
+1990-91,economic-affairs,4. Economic affairs,21.5,9.7
+1990-91,public-order-and-safety,3. Public order and safety,11.7,5.3
+1990-91,housing-and-community-amenities,6. Housing and community amenities,6.0,2.7
+1990-91,recreation-culture-and-religion,"8. Recreation, culture and religion",4.8,2.2
+1990-91,environment-protection,5. Environment protection,3.2,1.4
+1991-92,social-protection,10. Social protection,80.2,33.1
+1991-92,education-2,9. Education(2),31.3,12.9
+1991-92,health,7. Health,30.9,12.8
+1991-92,general-public-services,1. General public services,26.9,11.1
+1991-92,defence,2. Defence,23.2,9.6
+1991-92,economic-affairs,4. Economic affairs,21.4,8.8
+1991-92,public-order-and-safety,3. Public order and safety,13.2,5.4
+1991-92,housing-and-community-amenities,6. Housing and community amenities,6.8,2.8
+1991-92,recreation-culture-and-religion,"8. Recreation, culture and religion",5.0,2.1
+1991-92,environment-protection,5. Environment protection,3.4,1.4
+1992-93,social-protection,10. Social protection,91.1,34.5
+1992-93,health,7. Health,34.2,13.0
+1992-93,education-3,9. Education(3),33.2,12.6
+1992-93,general-public-services,1. General public services,27.9,10.6
+1992-93,defence,2. Defence,23.8,9.0
+1992-93,economic-affairs,4. Economic affairs,23.3,8.8
+1992-93,public-order-and-safety,3. Public order and safety,14.4,5.5
+1992-93,housing-and-community-amenities,6. Housing and community amenities,7.1,2.7
+1992-93,recreation-culture-and-religion,"8. Recreation, culture and religion",5.1,1.9
+1992-93,environment-protection,5. Environment protection,3.6,1.4
+1993-94,social-protection,10. Social protection,98.3,35.6
+1993-94,health,7. Health,36.6,13.2
+1993-94,education,9. Education,34.7,12.5
+1993-94,general-public-services,1. General public services,29.8,10.8
+1993-94,economic-affairs,4. Economic affairs,23.9,8.6
+1993-94,defence-1,2. Defence(1),23.5,8.5
+1993-94,public-order-and-safety,3. Public order and safety,15.0,5.4
+1993-94,housing-and-community-amenities,6. Housing and community amenities,6.2,2.2
+1993-94,recreation-culture-and-religion,"8. Recreation, culture and religion",5.1,1.8
+1993-94,environment-protection,5. Environment protection,3.4,1.2
+1994-95,social-protection,10. Social protection,102.0,35.4
+1994-95,health,7. Health,39.4,13.7
+1994-95,education-5,9. Education (5),36.2,12.6
+1994-95,general-public-services,1. General public services,32.7,11.3
+1994-95,economic-affairs,4. Economic affairs,23.9,8.3
+1994-95,defence-1,2. Defence(1),23.3,8.1
+1994-95,public-order-and-safety,3. Public order and safety,15.6,5.4
+1994-95,housing-and-community-amenities,6. Housing and community amenities,6.2,2.2
+1994-95,recreation-culture-and-religion,"8. Recreation, culture and religion",5.2,1.8
+1994-95,environment-protection,5. Environment protection,3.8,1.3
+1995-96,social-protection,10. Social protection,107.6,35.9
+1995-96,health,7. Health,41.4,13.8
+1995-96,education-5,9. Education (5),37.0,12.3
+1995-96,general-public-services,1. General public services,36.3,12.1
+1995-96,economic-affairs,4. Economic affairs,23.6,7.9
+1995-96,defence-1,2. Defence(1),22.5,7.5
+1995-96,public-order-and-safety,3. Public order and safety,16.0,5.3
+1995-96,housing-and-community-amenities,6. Housing and community amenities,6.0,2.0
+1995-96,recreation-culture-and-religion,"8. Recreation, culture and religion",5.5,1.8
+1995-96,environment-protection,5. Environment protection,4.1,1.4
+1996-97,social-protection,10. Social protection,112.8,36.6
+1996-97,health,7. Health,42.8,13.9
+1996-97,education-5,9. Education (5),37.8,12.3
+1996-97,general-public-services,1. General public services,37.4,12.2
+1996-97,economic-affairs,4. Economic affairs,23.4,7.6
+1996-97,defence-1,2. Defence(1),22.1,7.2
+1996-97,public-order-and-safety,3. Public order and safety,16.4,5.3
+1996-97,housing-and-community-amenities,6. Housing and community amenities,5.7,1.9
+1996-97,recreation-culture-and-religion,"8. Recreation, culture and religion",5.7,1.9
+1996-97,environment-protection,5. Environment protection,3.7,1.2
+1997-98,social-protection,10. Social protection,114.5,35.9
+1997-98,general-public-services,1. General public services,45.3,14.2
+1997-98,health,7. Health,44.5,14.0
+1997-98,education-5,9. Education (5),38.6,12.1
+1997-98,defence-1,2. Defence(1),21.7,6.8
+1997-98,economic-affairs,4. Economic affairs,21.6,6.8
+1997-98,public-order-and-safety,3. Public order and safety,17.1,5.4
+1997-98,recreation-culture-and-religion,"8. Recreation, culture and religion",6.4,2.0
+1997-98,housing-and-community-amenities,6. Housing and community amenities,4.9,1.5
+1997-98,environment-protection,5. Environment protection,4.0,1.3
+1998-99,social-protection,10. Social protection,115.2,35.2
+1998-99,health,7. Health,46.9,14.3
+1998-99,general-public-services,1. General public services,46.3,14.1
+1998-99,education-5,9. Education (5),40.0,12.2
+1998-99,defence-1,2. Defence(1),24.5,7.5
+1998-99,economic-affairs,4. Economic affairs,19.6,6.0
+1998-99,public-order-and-safety,3. Public order and safety,18.0,5.5
+1998-99,recreation-culture-and-religion,"8. Recreation, culture and religion",7.2,2.2
+1998-99,housing-and-community-amenities,6. Housing and community amenities,5.5,1.7
+1998-99,environment-protection,5. Environment protection,4.3,1.3
+1999-00,social-protection,10. Social protection,123.0,36.0
+1999-00,health,7. Health,49.4,14.4
+1999-00,general-public-services,1. General public services,45.0,13.2
+1999-00,education-5,9. Education (5),42.2,12.3
+1999-00,defence-1,2. Defence(1),25.1,7.3
+1999-00,economic-affairs,4. Economic affairs,21.5,6.3
+1999-00,public-order-and-safety,3. Public order and safety,18.4,5.4
+1999-00,recreation-culture-and-religion,"8. Recreation, culture and religion",7.7,2.3
+1999-00,environment-protection,5. Environment protection,4.9,1.4
+1999-00,housing-and-community-amenities,6. Housing and community amenities,4.7,1.4
+2000-01,social-protection,10. Social protection,128.5,35.3
+2000-01,health,7. Health,54.2,14.9
+2000-01,general-public-services,1. General public services,46.9,12.9
+2000-01,education-5,9. Education (5),45.9,12.6
+2000-01,defence-1,2. Defence(1),25.7,7.1
+2000-01,economic-affairs,4. Economic affairs,23.8,6.5
+2000-01,public-order-and-safety,3. Public order and safety,20.4,5.6
+2000-01,recreation-culture-and-religion,"8. Recreation, culture and religion",7.8,2.1
+2000-01,housing-and-community-amenities,6. Housing and community amenities,5.5,1.5
+2000-01,environment-protection,5. Environment protection,5.1,1.4
+2001-02,social-protection,10. Social protection,137.4,35.2
+2001-02,health,7. Health,59.8,15.3
+2001-02,education-5,9. Education (5),51.2,13.1
+2001-02,general-public-services,1. General public services,45.0,11.5
+2001-02,economic-affairs,4. Economic affairs,27.7,7.1
+2001-02,defence-1,2. Defence(1),25.4,6.5
+2001-02,public-order-and-safety,3. Public order and safety,23.1,5.9
+2001-02,recreation-culture-and-religion,"8. Recreation, culture and religion",8.6,2.2
+2001-02,housing-and-community-amenities,6. Housing and community amenities,6.2,1.6
+2001-02,environment-protection,5. Environment protection,5.4,1.4
+2002-03,social-protection,10. Social protection,145.3,35.1
+2002-03,health,7. Health,66.2,16.0
+2002-03,education-5,9. Education (5),54.7,13.2
+2002-03,general-public-services,1. General public services,45.0,10.9
+2002-03,economic-affairs,4. Economic affairs,30.7,7.4
+2002-03,defence-1,2. Defence(1),27.0,6.5
+2002-03,public-order-and-safety,3. Public order and safety,24.4,5.9
+2002-03,recreation-culture-and-religion,"8. Recreation, culture and religion",9.3,2.2
+2002-03,environment-protection,5. Environment protection,6.0,1.4
+2002-03,housing-and-community-amenities,6. Housing and community amenities,5.4,1.3
+2003-04,social-protection,10. Social protection,155.6,34.5
+2003-04,health,7. Health,74.9,16.6
+2003-04,education-5,9. Education (5),61.0,13.5
+2003-04,general-public-services,1. General public services,48.7,10.8
+2003-04,economic-affairs,4. Economic affairs,33.1,7.3
+2003-04,defence-1,2. Defence(1),28.8,6.4
+2003-04,public-order-and-safety,3. Public order and safety,26.4,5.9
+2003-04,recreation-culture-and-religion,"8. Recreation, culture and religion",9.7,2.2
+2003-04,housing-and-community-amenities,6. Housing and community amenities,6.7,1.5
+2003-04,environment-protection,5. Environment protection,6.2,1.4
+2004-05,social-protection,10. Social protection,164.1,34.0
+2004-05,health,7. Health,82.9,17.2
+2004-05,education-5,9. Education (5),65.1,13.5
+2004-05,general-public-services,1. General public services,54.0,11.2
+2004-05,economic-affairs,4. Economic affairs,33.6,7.0
+2004-05,defence-1,2. Defence(1),29.8,6.2
+2004-05,public-order-and-safety,3. Public order and safety,28.5,5.9
+2004-05,recreation-culture-and-religion,"8. Recreation, culture and religion",10.0,2.1
+2004-05,housing-and-community-amenities,6. Housing and community amenities,8.0,1.7
+2004-05,environment-protection,5. Environment protection,7.0,1.4
+2005-06,social-protection,10. Social protection,171.0,33.3
+2005-06,health,7. Health,89.8,17.5
+2005-06,education-5,9. Education (5),69.8,13.6
+2005-06,general-public-services,1. General public services,58.0,11.3
+2005-06,economic-affairs,4. Economic affairs,35.3,6.9
+2005-06,defence-1,2. Defence(1),31.0,6.0
+2005-06,public-order-and-safety,3. Public order and safety,29.3,5.7
+2005-06,recreation-culture-and-religion,"8. Recreation, culture and religion",10.8,2.1
+2005-06,housing-and-community-amenities,6. Housing and community amenities,10.7,2.1
+2005-06,environment-protection,5. Environment protection,8.5,1.7
+2006-07,social-protection,10. Social protection,177.0,32.9
+2006-07,health,7. Health,94.7,17.6
+2006-07,education-5,9. Education (5),73.0,13.6
+2006-07,general-public-services,1. General public services,61.6,11.4
+2006-07,economic-affairs,4. Economic affairs,37.5,7.0
+2006-07,defence-1,2. Defence(1),32.2,6.0
+2006-07,public-order-and-safety,3. Public order and safety,30.4,5.6
+2006-07,housing-and-community-amenities,6. Housing and community amenities,11.5,2.1
+2006-07,recreation-culture-and-religion,"8. Recreation, culture and religion",11.4,2.1
+2006-07,environment-protection,5. Environment protection,9.4,1.7
+2007-08,social-protection,10. Social protection,188.6,33.0
+2007-08,health,7. Health,101.1,17.7
+2007-08,education-5,9. Education (5),78.7,13.8
+2007-08,general-public-services,1. General public services,65.6,11.5
+2007-08,economic-affairs,4. Economic affairs,37.4,6.5
+2007-08,defence-1,2. Defence(1),33.7,5.9
+2007-08,public-order-and-safety,3. Public order and safety,31.7,5.5
+2007-08,housing-and-community-amenities,6. Housing and community amenities,13.0,2.3
+2007-08,recreation-culture-and-religion,"8. Recreation, culture and religion",11.9,2.1
+2007-08,environment-protection,5. Environment protection,9.6,1.7
+2008-09,social-protection,10. Social protection,203.4,32.7
+2008-09,health,7. Health,108.7,17.5
+2008-09,education-5,9. Education (5),83.0,13.4
+2008-09,general-public-services,1. General public services,69.4,11.2
+2008-09,economic-affairs,4. Economic affairs,49.7,8.0
+2008-09,defence-1,2. Defence(1),36.8,5.9
+2008-09,public-order-and-safety,3. Public order and safety,33.7,5.4
+2008-09,housing-and-community-amenities,6. Housing and community amenities,15.3,2.5
+2008-09,recreation-culture-and-religion,"8. Recreation, culture and religion",12.4,2.0
+2008-09,environment-protection,5. Environment protection,9.2,1.5
+2009-10,social-protection,10. Social protection,223.0,34.1
+2009-10,health,7. Health,116.9,17.9
+2009-10,education-5,9. Education (5),88.5,13.5
+2009-10,general-public-services,1. General public services,65.2,10.0
+2009-10,economic-affairs,4. Economic affairs,48.7,7.4
+2009-10,defence-1,2. Defence(1),37.7,5.8
+2009-10,public-order-and-safety,3. Public order and safety,34.1,5.2
+2009-10,housing-and-community-amenities,6. Housing and community amenities,16.3,2.5
+2009-10,recreation-culture-and-religion,"8. Recreation, culture and religion",13.2,2.0
+2009-10,environment-protection,5. Environment protection,10.4,1.6
+2010-11,social-protection,10. Social protection,230.4,34.4
+2010-11,health,7. Health,119.9,17.9
+2010-11,education-5,9. Education (5),91.5,13.7
+2010-11,general-public-services,1. General public services,78.0,11.7
+2010-11,economic-affairs,4. Economic affairs,40.0,6.0
+2010-11,defence-1,2. Defence(1),39.3,5.9
+2010-11,public-order-and-safety,3. Public order and safety,33.1,4.9
+2010-11,housing-and-community-amenities,6. Housing and community amenities,13.3,2.0
+2010-11,recreation-culture-and-religion,"8. Recreation, culture and religion",13.0,1.9
+2010-11,environment-protection,5. Environment protection,10.9,1.6
+2011-12,social-protection,10. Social protection,244.8,36.3
+2011-12,health,7. Health,121.3,18.0
+2011-12,education-5,9. Education (5),86.5,12.8
+2011-12,general-public-services,1. General public services,79.3,11.8
+2011-12,defence-1,2. Defence(1),38.7,5.7
+2011-12,economic-affairs,4. Economic affairs,37.8,5.6
+2011-12,public-order-and-safety,3. Public order and safety,32.1,4.8
+2011-12,recreation-culture-and-religion,"8. Recreation, culture and religion",12.5,1.9
+2011-12,environment-protection,5. Environment protection,10.5,1.6
+2011-12,housing-and-community-amenities,6. Housing and community amenities,10.2,1.5
+2012-13,social-protection,10. Social protection,253.4,37.6
+2012-13,health,7. Health,124.3,18.4
+2012-13,education-5,9. Education (5),84.1,12.5
+2012-13,general-public-services,1. General public services,74.8,11.1
+2012-13,economic-affairs,4. Economic affairs,36.7,5.4
+2012-13,defence-1,2. Defence(1),36.3,5.4
+2012-13,public-order-and-safety,3. Public order and safety,31.3,4.6
+2012-13,recreation-culture-and-religion,"8. Recreation, culture and religion",12.7,1.9
+2012-13,environment-protection,5. Environment protection,10.7,1.6
+2012-13,housing-and-community-amenities,6. Housing and community amenities,10.0,1.5
+2013-14,social-protection,10. Social protection,254.2,37.1
+2013-14,health,7. Health,129.4,18.9
+2013-14,education-5,9. Education (5),84.7,12.4
+2013-14,general-public-services,1. General public services,76.9,11.2
+2013-14,economic-affairs,4. Economic affairs,40.9,6.0
+2013-14,defence-1,2. Defence(1),36.4,5.3
+2013-14,public-order-and-safety,3. Public order and safety,29.6,4.3
+2013-14,recreation-culture-and-religion,"8. Recreation, culture and religion",11.6,1.7
+2013-14,environment-protection,5. Environment protection,11.2,1.6
+2013-14,housing-and-community-amenities,6. Housing and community amenities,9.9,1.4
+2014-15,social-protection,10. Social protection,261.1,37.4
+2014-15,health,7. Health,134.1,19.2
+2014-15,education-5,9. Education (5),85.1,12.2
+2014-15,general-public-services,1. General public services,75.7,10.8
+2014-15,economic-affairs,4. Economic affairs,41.1,5.9
+2014-15,defence-1,2. Defence(1),36.7,5.3
+2014-15,public-order-and-safety,3. Public order and safety,30.2,4.3
+2014-15,recreation-culture-and-religion,"8. Recreation, culture and religion",12.4,1.8
+2014-15,environment-protection,5. Environment protection,11.6,1.7
+2014-15,housing-and-community-amenities,6. Housing and community amenities,10.3,1.5
+2015-16,social-protection,10. Social protection,264.9,37.2
+2015-16,health,7. Health,138.5,19.5
+2015-16,education-5,9. Education (5),84.9,11.9
+2015-16,general-public-services,1. General public services,76.4,10.7
+2015-16,economic-affairs,4. Economic affairs,47.0,6.6
+2015-16,defence-1,2. Defence(1),36.6,5.1
+2015-16,public-order-and-safety,3. Public order and safety,30.2,4.2
+2015-16,environment-protection,5. Environment protection,11.6,1.6
+2015-16,recreation-culture-and-religion,"8. Recreation, culture and religion",11.4,1.6
+2015-16,housing-and-community-amenities,6. Housing and community amenities,9.8,1.4
+2016-17,social-protection,10. Social protection,265.4,36.7
+2016-17,health,7. Health,142.6,19.7
+2016-17,education-5,9. Education (5),84.9,11.8
+2016-17,general-public-services,1. General public services,80.2,11.1
+2016-17,economic-affairs,4. Economic affairs,49.2,6.8
+2016-17,defence-1,2. Defence(1),37.1,5.1
+2016-17,public-order-and-safety,3. Public order and safety,30.1,4.2
+2016-17,recreation-culture-and-religion,"8. Recreation, culture and religion",11.6,1.6
+2016-17,environment-protection,5. Environment protection,11.1,1.5
+2016-17,housing-and-community-amenities,6. Housing and community amenities,10.3,1.4
+2017-18,social-protection,10. Social protection,268.7,36.1
+2017-18,health,7. Health,147.3,19.8
+2017-18,education-5,9. Education (5),86.1,11.6
+2017-18,general-public-services,1. General public services,84.4,11.3
+2017-18,economic-affairs,4. Economic affairs,53.1,7.1
+2017-18,defence-1,2. Defence(1),38.7,5.2
+2017-18,public-order-and-safety,3. Public order and safety,31.5,4.2
+2017-18,environment-protection,5. Environment protection,11.8,1.6
+2017-18,recreation-culture-and-religion,"8. Recreation, culture and religion",11.5,1.5
+2017-18,housing-and-community-amenities,6. Housing and community amenities,11.4,1.5
+2018-19,social-protection,10. Social protection,274.8,35.9
+2018-19,health,7. Health,152.9,20.0
+2018-19,education-5,9. Education (5),88.1,11.5
+2018-19,general-public-services,1. General public services,80.9,10.6
+2018-19,economic-affairs,4. Economic affairs,60.8,8.0
+2018-19,defence-1,2. Defence(1),40.2,5.3
+2018-19,public-order-and-safety,3. Public order and safety,32.4,4.2
+2018-19,housing-and-community-amenities,6. Housing and community amenities,12.1,1.6
+2018-19,recreation-culture-and-religion,"8. Recreation, culture and religion",11.4,1.5
+2018-19,environment-protection,5. Environment protection,11.1,1.5
+2019-20,social-protection,10. Social protection,275.8,34.8
+2019-20,health,7. Health,164.1,20.7
+2019-20,education-5,9. Education (5),90.6,11.4
+2019-20,general-public-services,1. General public services,81.3,10.2
+2019-20,economic-affairs,4. Economic affairs,66.6,8.4
+2019-20,defence-1,2. Defence(1),42.2,5.3
+2019-20,public-order-and-safety,3. Public order and safety,34.5,4.3
+2019-20,housing-and-community-amenities,6. Housing and community amenities,14.2,1.8
+2019-20,recreation-culture-and-religion,"8. Recreation, culture and religion",12.3,1.6
+2019-20,environment-protection,5. Environment protection,11.8,1.5
+2020-21,social-protection,10. Social protection,299.3,29.8
+2020-21,health,7. Health,218.6,21.8
+2020-21,economic-affairs,4. Economic affairs,196.3,19.5
+2020-21,education-5,9. Education (5),95.5,9.5
+2020-21,general-public-services,1. General public services,72.0,7.2
+2020-21,defence-1,2. Defence(1),44.6,4.4
+2020-21,public-order-and-safety,3. Public order and safety,38.9,3.9
+2020-21,housing-and-community-amenities,6. Housing and community amenities,13.7,1.4
+2020-21,environment-protection,5. Environment protection,13.0,1.3
+2020-21,recreation-culture-and-religion,"8. Recreation, culture and religion",12.6,1.3
+2021-22,social-protection,10. Social protection,300.0,31.5
+2021-22,health,7. Health,216.2,22.7
+2021-22,general-public-services,1. General public services,109.2,11.5
+2021-22,education-5,9. Education (5),100.1,10.5
+2021-22,economic-affairs,4. Economic affairs,97.8,10.3
+2021-22,defence-1,2. Defence(1),48.7,5.1
+2021-22,public-order-and-safety,3. Public order and safety,39.8,4.2
+2021-22,housing-and-community-amenities,6. Housing and community amenities,15.2,1.6
+2021-22,environment-protection,5. Environment protection,13.8,1.4
+2021-22,recreation-culture-and-religion,"8. Recreation, culture and religion",12.8,1.3
+2022-23,social-protection,10. Social protection,322.0,29.9
+2022-23,health,7. Health,212.7,19.7
+2022-23,general-public-services,1. General public services,166.0,15.4
+2022-23,economic-affairs,4. Economic affairs,124.6,11.6
+2022-23,education-5,9. Education (5),107.3,9.9
+2022-23,defence-1,2. Defence(1),55.5,5.1
+2022-23,public-order-and-safety,3. Public order and safety,44.2,4.1
+2022-23,housing-and-community-amenities,6. Housing and community amenities,17.3,1.6
+2022-23,recreation-culture-and-religion,"8. Recreation, culture and religion",14.5,1.3
+2022-23,environment-protection,5. Environment protection,14.4,1.3
+2023-24,social-protection,10. Social protection,364.7,32.7
+2023-24,health,7. Health,222.0,19.9
+2023-24,general-public-services,1. General public services,163.1,14.6
+2023-24,education-5,9. Education (5),114.2,10.2
+2023-24,economic-affairs,4. Economic affairs,94.5,8.5
+2023-24,defence-1,2. Defence(1),56.8,5.1
+2023-24,public-order-and-safety,3. Public order and safety,48.7,4.4
+2023-24,housing-and-community-amenities,6. Housing and community amenities,20.8,1.9
+2023-24,environment-protection,5. Environment protection,16.0,1.4
+2023-24,recreation-culture-and-religion,"8. Recreation, culture and religion",13.4,1.2
+2024-25,social-protection,10. Social protection,383.9,33.2
+2024-25,health,7. Health,241.8,20.9
+2024-25,general-public-services,1. General public services,157.6,13.6
+2024-25,education-5,9. Education (5),118.7,10.3
+2024-25,economic-affairs,4. Economic affairs,86.8,7.5
+2024-25,defence-1,2. Defence(1),63.6,5.5
+2024-25,public-order-and-safety,3. Public order and safety,51.4,4.4
+2024-25,housing-and-community-amenities,6. Housing and community amenities,22.3,1.9
+2024-25,environment-protection,5. Environment protection,17.1,1.5
+2024-25,recreation-culture-and-religion,"8. Recreation, culture and religion",14.5,1.3
