@@ -1,0 +1,4076 @@
+{
+  "fye": "2024-25",
+  "sources": {
+    "expenditure": "ONS Country and regional public sector finances expenditure tables (FYE 2025)",
+    "revenue": "ONS Country and regional public sector finances revenue tables (FYE 2025)",
+    "per_head": "ONS Country and regional public sector finances supplementary tables (FYE 2025)",
+    "revenue_by_type": "ONS supplementary Table S9 + HMRC ITLS for income tax bands"
+  },
+  "uk": {
+    "revenue_bn": 1134.4,
+    "expenditure_tme_bn": 1290.6,
+    "expenditure_identifiable_bn": 935.6,
+    "non_identifiable_and_accounting_bn": 355.0,
+    "fiscal_deficit_bn": 156.2,
+    "debt_interest_bn": 126.5,
+    "spending_by_function_bn": {
+      "1. General public services": 159.7,
+      "2. Defence": 63.7,
+      "3. Public order and safety": 51.7,
+      "4. Economic affairs": 88.5,
+      "5. Environment protection": 17.1,
+      "6. Housing and community amenities": 21.9,
+      "7. Health": 242.5,
+      "8. Recreation, culture and religion": 15.0,
+      "9. Education (includes training)": 122.7,
+      "10. Social protection": 386.5
+    },
+    "spending_by_function_pct_of_tme": {
+      "1. General public services": 12.4,
+      "2. Defence": 4.9,
+      "3. Public order and safety": 4.0,
+      "4. Economic affairs": 6.9,
+      "5. Environment protection": 1.3,
+      "6. Housing and community amenities": 1.7,
+      "7. Health": 18.8,
+      "8. Recreation, culture and religion": 1.2,
+      "9. Education (includes training)": 9.5,
+      "10. Social protection": 30.0
+    }
+  },
+  "regions": [
+    {
+      "region": "North East",
+      "revenue_bn": 32.9,
+      "identifiable_expenditure_bn": 38.9,
+      "net_fiscal_balance_identifiable_bn": 6.0,
+      "revenue_per_head_gbp": 11977.0,
+      "expenditure_per_head_gbp": 19071.0,
+      "net_balance_per_head_gbp": 7094.0
+    },
+    {
+      "region": "North West",
+      "revenue_bn": 105.7,
+      "identifiable_expenditure_bn": 107.0,
+      "net_fiscal_balance_identifiable_bn": 1.4,
+      "revenue_per_head_gbp": 13722.0,
+      "expenditure_per_head_gbp": 18829.0,
+      "net_balance_per_head_gbp": 5107.0
+    },
+    {
+      "region": "Yorkshire and The Humber",
+      "revenue_bn": 76.1,
+      "identifiable_expenditure_bn": 72.5,
+      "net_fiscal_balance_identifiable_bn": -3.6,
+      "revenue_per_head_gbp": 13484.0,
+      "expenditure_per_head_gbp": 17705.0,
+      "net_balance_per_head_gbp": 4221.0
+    },
+    {
+      "region": "East Midlands",
+      "revenue_bn": 67.0,
+      "identifiable_expenditure_bn": 61.6,
+      "net_fiscal_balance_identifiable_bn": -5.4,
+      "revenue_per_head_gbp": 13287.0,
+      "expenditure_per_head_gbp": 16808.0,
+      "net_balance_per_head_gbp": 3521.0
+    },
+    {
+      "region": "West Midlands",
+      "revenue_bn": 81.5,
+      "identifiable_expenditure_bn": 81.4,
+      "net_fiscal_balance_identifiable_bn": -0.1,
+      "revenue_per_head_gbp": 13237.0,
+      "expenditure_per_head_gbp": 18225.0,
+      "net_balance_per_head_gbp": 4988.0
+    },
+    {
+      "region": "East of England",
+      "revenue_bn": 107.1,
+      "identifiable_expenditure_bn": 80.9,
+      "net_fiscal_balance_identifiable_bn": -26.2,
+      "revenue_per_head_gbp": 16349.0,
+      "expenditure_per_head_gbp": 16971.0,
+      "net_balance_per_head_gbp": 621.0
+    },
+    {
+      "region": "London",
+      "revenue_bn": 239.9,
+      "identifiable_expenditure_bn": 138.3,
+      "net_fiscal_balance_identifiable_bn": -101.6,
+      "revenue_per_head_gbp": 26454.0,
+      "expenditure_per_head_gbp": 21017.0,
+      "net_balance_per_head_gbp": -5438.0
+    },
+    {
+      "region": "South East",
+      "revenue_bn": 181.2,
+      "identifiable_expenditure_bn": 116.0,
+      "net_fiscal_balance_identifiable_bn": -65.2,
+      "revenue_per_head_gbp": 18855.0,
+      "expenditure_per_head_gbp": 17162.0,
+      "net_balance_per_head_gbp": -1692.0
+    },
+    {
+      "region": "South West",
+      "revenue_bn": 89.4,
+      "identifiable_expenditure_bn": 73.2,
+      "net_fiscal_balance_identifiable_bn": -16.2,
+      "revenue_per_head_gbp": 15248.0,
+      "expenditure_per_head_gbp": 17684.0,
+      "net_balance_per_head_gbp": 2436.0
+    },
+    {
+      "region": "England",
+      "revenue_bn": 980.8,
+      "identifiable_expenditure_bn": 769.9,
+      "net_fiscal_balance_identifiable_bn": -210.9,
+      "revenue_per_head_gbp": 16795.0,
+      "expenditure_per_head_gbp": 18235.0,
+      "net_balance_per_head_gbp": 1440.0
+    },
+    {
+      "region": "Wales",
+      "revenue_bn": 41.5,
+      "identifiable_expenditure_bn": 48.3,
+      "net_fiscal_balance_identifiable_bn": 6.8,
+      "revenue_per_head_gbp": 13083.0,
+      "expenditure_per_head_gbp": 20168.0,
+      "net_balance_per_head_gbp": 7085.0
+    },
+    {
+      "region": "Scotland",
+      "revenue_bn": 87.7,
+      "identifiable_expenditure_bn": 86.3,
+      "net_fiscal_balance_identifiable_bn": -1.4,
+      "revenue_per_head_gbp": 15880.0,
+      "expenditure_per_head_gbp": 21117.0,
+      "net_balance_per_head_gbp": 5238.0
+    },
+    {
+      "region": "Northern Ireland",
+      "revenue_bn": 24.4,
+      "identifiable_expenditure_bn": 31.1,
+      "net_fiscal_balance_identifiable_bn": 6.7,
+      "revenue_per_head_gbp": 12714.0,
+      "expenditure_per_head_gbp": 20866.0,
+      "net_balance_per_head_gbp": 8152.0
+    }
+  ],
+  "revenue_breakdown": {
+    "fye": "2024-25",
+    "sources": {
+      "revenue_by_type_region": "ONS Country and regional public sector finances supplementary Table S9",
+      "income_tax_bands": "HMRC Income Tax Liabilities Statistics tables 2.2 and 2.5, scaled to ONS regional income tax totals",
+      "council_tax_bands": "VOA CTSOP 1.0 (England/Wales) + NRS dwelling estimates (Scotland), receipts allocated by Band-D-equivalent stock"
+    },
+    "notes": {
+      "revenue_basis": "Accrued public sector current receipts on a residence basis ('who pays'), consistent with ONS Country and Regional PSF.",
+      "income_tax_bands": "Band \u00a3 estimates are modelled: regional payer counts from HMRC SPI \u00d7 UK average liability per payer in each band, then scaled to match ONS regional income tax. Tax year 2024-25 ITLS figures are projected from 2021-22 SPI. Scottish/Welsh rate differences are reflected in marginal-rate payer classification but not as separate band labels.",
+      "band_labels": {
+        "starting_lower": "Starting / lower rate payers",
+        "savers": "Savings rate payers",
+        "basic": "Basic rate payers (incl. Scottish starter/intermediate)",
+        "higher": "Higher rate payers",
+        "additional": "Additional rate payers (incl. Scottish advanced/top)"
+      }
+    },
+    "revenue_by_type_and_region": {
+      "North East": {
+        "total_revenue_bn": 33.37,
+        "by_type_bn": {
+          "income_tax": 7.13,
+          "vat": 6.3,
+          "national_insurance": 5.32,
+          "other": 4.47,
+          "gross_operating_surplus": 2.2,
+          "interest_and_dividends": 1.87,
+          "council_tax": 1.79,
+          "corporation_tax": 1.73,
+          "fuel_duties": 0.88,
+          "business_rates": 0.79,
+          "excise_duties": 0.73,
+          "capital_gains_tax": 0.16
+        },
+        "by_type_pct": {
+          "income_tax": 21.4,
+          "vat": 18.9,
+          "national_insurance": 15.9,
+          "other": 13.4,
+          "gross_operating_surplus": 6.6,
+          "interest_and_dividends": 5.6,
+          "council_tax": 5.4,
+          "corporation_tax": 5.2,
+          "fuel_duties": 2.6,
+          "business_rates": 2.4,
+          "excise_duties": 2.2,
+          "capital_gains_tax": 0.5
+        }
+      },
+      "North West": {
+        "total_revenue_bn": 106.35,
+        "by_type_bn": {
+          "income_tax": 23.99,
+          "vat": 19.19,
+          "national_insurance": 16.41,
+          "other": 13.08,
+          "corporation_tax": 7.58,
+          "interest_and_dividends": 6.65,
+          "gross_operating_surplus": 5.81,
+          "council_tax": 5.14,
+          "business_rates": 2.61,
+          "fuel_duties": 2.58,
+          "excise_duties": 2.31,
+          "capital_gains_tax": 0.98
+        },
+        "by_type_pct": {
+          "income_tax": 22.6,
+          "vat": 18.0,
+          "national_insurance": 15.4,
+          "other": 12.3,
+          "corporation_tax": 7.1,
+          "interest_and_dividends": 6.3,
+          "gross_operating_surplus": 5.5,
+          "council_tax": 4.8,
+          "business_rates": 2.5,
+          "fuel_duties": 2.4,
+          "excise_duties": 2.2,
+          "capital_gains_tax": 0.9
+        }
+      },
+      "Yorkshire and The Humber": {
+        "total_revenue_bn": 76.89,
+        "by_type_bn": {
+          "income_tax": 16.59,
+          "vat": 13.76,
+          "national_insurance": 11.31,
+          "other": 9.47,
+          "corporation_tax": 5.55,
+          "interest_and_dividends": 5.55,
+          "gross_operating_surplus": 4.72,
+          "council_tax": 3.65,
+          "fuel_duties": 2.07,
+          "business_rates": 1.84,
+          "excise_duties": 1.65,
+          "capital_gains_tax": 0.73
+        },
+        "by_type_pct": {
+          "income_tax": 21.6,
+          "vat": 17.9,
+          "national_insurance": 14.7,
+          "other": 12.3,
+          "corporation_tax": 7.2,
+          "interest_and_dividends": 7.2,
+          "gross_operating_surplus": 6.1,
+          "council_tax": 4.7,
+          "fuel_duties": 2.7,
+          "business_rates": 2.4,
+          "excise_duties": 2.1,
+          "capital_gains_tax": 0.9
+        }
+      },
+      "East Midlands": {
+        "total_revenue_bn": 67.39,
+        "by_type_bn": {
+          "income_tax": 16.12,
+          "vat": 11.62,
+          "national_insurance": 10.85,
+          "other": 7.96,
+          "gross_operating_surplus": 4.65,
+          "corporation_tax": 4.16,
+          "council_tax": 3.49,
+          "interest_and_dividends": 2.37,
+          "fuel_duties": 2.16,
+          "business_rates": 1.72,
+          "excise_duties": 1.62,
+          "capital_gains_tax": 0.68
+        },
+        "by_type_pct": {
+          "income_tax": 23.9,
+          "vat": 17.2,
+          "national_insurance": 16.1,
+          "other": 11.8,
+          "gross_operating_surplus": 6.9,
+          "corporation_tax": 6.2,
+          "council_tax": 5.2,
+          "interest_and_dividends": 3.5,
+          "fuel_duties": 3.2,
+          "business_rates": 2.6,
+          "excise_duties": 2.4,
+          "capital_gains_tax": 1.0
+        }
+      },
+      "West Midlands": {
+        "total_revenue_bn": 81.96,
+        "by_type_bn": {
+          "income_tax": 18.62,
+          "vat": 14.28,
+          "national_insurance": 12.74,
+          "other": 9.89,
+          "gross_operating_surplus": 6.31,
+          "corporation_tax": 5.56,
+          "council_tax": 3.96,
+          "interest_and_dividends": 3.57,
+          "fuel_duties": 2.34,
+          "business_rates": 2.1,
+          "excise_duties": 1.85,
+          "capital_gains_tax": 0.75
+        },
+        "by_type_pct": {
+          "income_tax": 22.7,
+          "vat": 17.4,
+          "national_insurance": 15.5,
+          "other": 12.1,
+          "gross_operating_surplus": 7.7,
+          "corporation_tax": 6.8,
+          "council_tax": 4.8,
+          "interest_and_dividends": 4.4,
+          "fuel_duties": 2.9,
+          "business_rates": 2.6,
+          "excise_duties": 2.3,
+          "capital_gains_tax": 0.9
+        }
+      },
+      "East of England": {
+        "total_revenue_bn": 107.68,
+        "by_type_bn": {
+          "income_tax": 31.92,
+          "national_insurance": 17.66,
+          "vat": 16.39,
+          "other": 12.26,
+          "corporation_tax": 6.59,
+          "gross_operating_surplus": 6.53,
+          "council_tax": 5.0,
+          "interest_and_dividends": 2.92,
+          "fuel_duties": 2.67,
+          "business_rates": 2.5,
+          "excise_duties": 1.9,
+          "capital_gains_tax": 1.35
+        },
+        "by_type_pct": {
+          "income_tax": 29.6,
+          "national_insurance": 16.4,
+          "vat": 15.2,
+          "other": 11.4,
+          "corporation_tax": 6.1,
+          "gross_operating_surplus": 6.1,
+          "council_tax": 4.6,
+          "interest_and_dividends": 2.7,
+          "fuel_duties": 2.5,
+          "business_rates": 2.3,
+          "excise_duties": 1.8,
+          "capital_gains_tax": 1.3
+        }
+      },
+      "London": {
+        "total_revenue_bn": 240.54,
+        "by_type_bn": {
+          "income_tax": 79.17,
+          "national_insurance": 35.93,
+          "corporation_tax": 33.38,
+          "other": 27.75,
+          "vat": 22.9,
+          "gross_operating_surplus": 14.52,
+          "business_rates": 8.04,
+          "council_tax": 6.14,
+          "interest_and_dividends": 5.33,
+          "capital_gains_tax": 3.84,
+          "excise_duties": 2.02,
+          "fuel_duties": 1.52
+        },
+        "by_type_pct": {
+          "income_tax": 32.9,
+          "national_insurance": 14.9,
+          "corporation_tax": 13.9,
+          "other": 11.5,
+          "vat": 9.5,
+          "gross_operating_surplus": 6.0,
+          "business_rates": 3.3,
+          "council_tax": 2.6,
+          "interest_and_dividends": 2.2,
+          "capital_gains_tax": 1.6,
+          "excise_duties": 0.8,
+          "fuel_duties": 0.6
+        }
+      },
+      "South East": {
+        "total_revenue_bn": 181.94,
+        "by_type_bn": {
+          "income_tax": 55.88,
+          "national_insurance": 28.39,
+          "vat": 25.94,
+          "other": 20.02,
+          "corporation_tax": 12.52,
+          "gross_operating_surplus": 12.27,
+          "council_tax": 8.06,
+          "interest_and_dividends": 5.69,
+          "business_rates": 3.86,
+          "fuel_duties": 3.61,
+          "capital_gains_tax": 3.05,
+          "excise_duties": 2.65
+        },
+        "by_type_pct": {
+          "income_tax": 30.7,
+          "national_insurance": 15.6,
+          "vat": 14.3,
+          "other": 11.0,
+          "corporation_tax": 6.9,
+          "gross_operating_surplus": 6.7,
+          "council_tax": 4.4,
+          "interest_and_dividends": 3.1,
+          "business_rates": 2.1,
+          "fuel_duties": 2.0,
+          "capital_gains_tax": 1.7,
+          "excise_duties": 1.5
+        }
+      },
+      "South West": {
+        "total_revenue_bn": 89.94,
+        "by_type_bn": {
+          "income_tax": 21.55,
+          "vat": 15.95,
+          "national_insurance": 12.6,
+          "other": 10.52,
+          "gross_operating_surplus": 8.55,
+          "corporation_tax": 6.25,
+          "council_tax": 4.79,
+          "interest_and_dividends": 2.36,
+          "fuel_duties": 2.35,
+          "excise_duties": 2.02,
+          "business_rates": 1.9,
+          "capital_gains_tax": 1.12
+        },
+        "by_type_pct": {
+          "income_tax": 24.0,
+          "vat": 17.7,
+          "national_insurance": 14.0,
+          "other": 11.7,
+          "gross_operating_surplus": 9.5,
+          "corporation_tax": 6.9,
+          "council_tax": 5.3,
+          "interest_and_dividends": 2.6,
+          "fuel_duties": 2.6,
+          "excise_duties": 2.2,
+          "business_rates": 2.1,
+          "capital_gains_tax": 1.2
+        }
+      },
+      "England": {
+        "total_revenue_bn": 986.07,
+        "by_type_bn": {
+          "income_tax": 270.98,
+          "national_insurance": 151.21,
+          "vat": 146.32,
+          "other": 115.42,
+          "corporation_tax": 83.33,
+          "gross_operating_surplus": 65.57,
+          "council_tax": 42.02,
+          "interest_and_dividends": 36.3,
+          "business_rates": 25.34,
+          "fuel_duties": 20.18,
+          "excise_duties": 16.76,
+          "capital_gains_tax": 12.66
+        },
+        "by_type_pct": {
+          "income_tax": 27.5,
+          "national_insurance": 15.3,
+          "vat": 14.8,
+          "other": 11.7,
+          "corporation_tax": 8.5,
+          "gross_operating_surplus": 6.6,
+          "council_tax": 4.3,
+          "interest_and_dividends": 3.7,
+          "business_rates": 2.6,
+          "fuel_duties": 2.0,
+          "excise_duties": 1.7,
+          "capital_gains_tax": 1.3
+        }
+      },
+      "Wales": {
+        "total_revenue_bn": 41.73,
+        "by_type_bn": {
+          "income_tax": 9.05,
+          "vat": 7.97,
+          "national_insurance": 6.11,
+          "other": 5.5,
+          "gross_operating_surplus": 3.02,
+          "council_tax": 2.32,
+          "corporation_tax": 2.26,
+          "interest_and_dividends": 1.95,
+          "fuel_duties": 1.26,
+          "excise_duties": 1.09,
+          "business_rates": 0.98,
+          "capital_gains_tax": 0.25
+        },
+        "by_type_pct": {
+          "income_tax": 21.7,
+          "vat": 19.1,
+          "national_insurance": 14.6,
+          "other": 13.2,
+          "gross_operating_surplus": 7.2,
+          "council_tax": 5.6,
+          "corporation_tax": 5.4,
+          "interest_and_dividends": 4.7,
+          "fuel_duties": 3.0,
+          "excise_duties": 2.6,
+          "business_rates": 2.3,
+          "capital_gains_tax": 0.6
+        }
+      },
+      "Scotland": {
+        "total_revenue_bn": 91.7,
+        "by_type_bn": {
+          "income_tax": 20.7,
+          "vat": 14.27,
+          "other": 14.26,
+          "national_insurance": 13.0,
+          "gross_operating_surplus": 8.34,
+          "corporation_tax": 6.01,
+          "interest_and_dividends": 4.55,
+          "council_tax": 3.08,
+          "business_rates": 2.81,
+          "fuel_duties": 2.13,
+          "excise_duties": 1.9,
+          "capital_gains_tax": 0.66
+        },
+        "by_type_pct": {
+          "income_tax": 22.6,
+          "vat": 15.6,
+          "other": 15.6,
+          "national_insurance": 14.2,
+          "gross_operating_surplus": 9.1,
+          "corporation_tax": 6.6,
+          "interest_and_dividends": 5.0,
+          "council_tax": 3.4,
+          "business_rates": 3.1,
+          "fuel_duties": 2.3,
+          "excise_duties": 2.1,
+          "capital_gains_tax": 0.7
+        }
+      },
+      "Northern Ireland": {
+        "total_revenue_bn": 24.54,
+        "by_type_bn": {
+          "income_tax": 5.18,
+          "other": 5.04,
+          "vat": 4.74,
+          "national_insurance": 3.5,
+          "interest_and_dividends": 1.53,
+          "corporation_tax": 1.5,
+          "gross_operating_surplus": 1.41,
+          "fuel_duties": 0.79,
+          "excise_duties": 0.71,
+          "capital_gains_tax": 0.12,
+          "business_rates": 0.01,
+          "council_tax": 0.0
+        },
+        "by_type_pct": {
+          "income_tax": 21.1,
+          "other": 20.5,
+          "vat": 19.3,
+          "national_insurance": 14.3,
+          "interest_and_dividends": 6.2,
+          "corporation_tax": 6.1,
+          "gross_operating_surplus": 5.7,
+          "fuel_duties": 3.2,
+          "excise_duties": 2.9,
+          "capital_gains_tax": 0.5,
+          "business_rates": 0.0,
+          "council_tax": 0.0
+        }
+      },
+      "United Kingdom": {
+        "total_revenue_bn": 1144.04,
+        "by_type_bn": {
+          "income_tax": 305.9,
+          "national_insurance": 173.82,
+          "vat": 173.29,
+          "other": 140.22,
+          "corporation_tax": 93.1,
+          "gross_operating_surplus": 78.33,
+          "council_tax": 47.42,
+          "interest_and_dividends": 44.33,
+          "business_rates": 29.13,
+          "fuel_duties": 24.36,
+          "excise_duties": 20.45,
+          "capital_gains_tax": 13.69
+        },
+        "by_type_pct": {
+          "income_tax": 26.7,
+          "national_insurance": 15.2,
+          "vat": 15.1,
+          "other": 12.3,
+          "corporation_tax": 8.1,
+          "gross_operating_surplus": 6.8,
+          "council_tax": 4.1,
+          "interest_and_dividends": 3.9,
+          "business_rates": 2.5,
+          "fuel_duties": 2.1,
+          "excise_duties": 1.8,
+          "capital_gains_tax": 1.2
+        }
+      }
+    },
+    "revenue_detailed_lines": {
+      "North East": [
+        {
+          "revenue_type": "Income Tax",
+          "gbp_bn": 7.131
+        },
+        {
+          "revenue_type": "VAT net of refunds",
+          "gbp_bn": 6.297
+        },
+        {
+          "revenue_type": "Social Contributions",
+          "gbp_bn": 5.316
+        },
+        {
+          "revenue_type": "Gross Operating Surplus",
+          "gbp_bn": 2.203
+        },
+        {
+          "revenue_type": "Interest and Dividends",
+          "gbp_bn": 1.868
+        },
+        {
+          "revenue_type": "Council Tax",
+          "gbp_bn": 1.789
+        },
+        {
+          "revenue_type": "Corporation Tax",
+          "gbp_bn": 1.73
+        },
+        {
+          "revenue_type": "VAT refunds",
+          "gbp_bn": 1.194
+        },
+        {
+          "revenue_type": "Fuel Duties",
+          "gbp_bn": 0.883
+        },
+        {
+          "revenue_type": "Business rates paid by market sector bodies",
+          "gbp_bn": 0.772
+        },
+        {
+          "revenue_type": "Alcohol Duties",
+          "gbp_bn": 0.412
+        },
+        {
+          "revenue_type": "Tobacco Duties",
+          "gbp_bn": 0.32
+        },
+        {
+          "revenue_type": "Insurance Premium Tax",
+          "gbp_bn": 0.284
+        },
+        {
+          "revenue_type": "Environmental Levies",
+          "gbp_bn": 0.244
+        },
+        {
+          "revenue_type": "Stamp duty land tax",
+          "gbp_bn": 0.23
+        },
+        {
+          "revenue_type": "Vehicle excise duties paid by households",
+          "gbp_bn": 0.182
+        },
+        {
+          "revenue_type": "Other in Other Taxes on Production",
+          "gbp_bn": 0.178
+        },
+        {
+          "revenue_type": "Betting, Gaming and Gambling Duty",
+          "gbp_bn": 0.171
+        },
+        {
+          "revenue_type": "TV Licence Fees",
+          "gbp_bn": 0.159
+        },
+        {
+          "revenue_type": "Total Rent and Other Curr Trans",
+          "gbp_bn": 0.159
+        },
+        {
+          "revenue_type": "Capital gains tax",
+          "gbp_bn": 0.156
+        },
+        {
+          "revenue_type": "Custom Duties",
+          "gbp_bn": 0.149
+        },
+        {
+          "revenue_type": "Energy profits levy - Geographic",
+          "gbp_bn": 0.147
+        },
+        {
+          "revenue_type": "ETS auction receipts",
+          "gbp_bn": 0.141
+        },
+        {
+          "revenue_type": "Offshore corporation tax - Geographic",
+          "gbp_bn": 0.131
+        },
+        {
+          "revenue_type": "Apprenticeship Levy",
+          "gbp_bn": 0.121
+        },
+        {
+          "revenue_type": "Vehicle excise duties paid by businesses",
+          "gbp_bn": 0.121
+        },
+        {
+          "revenue_type": "Taxes on capital",
+          "gbp_bn": 0.111
+        },
+        {
+          "revenue_type": "Energy profits levy - Population",
+          "gbp_bn": 0.1
+        },
+        {
+          "revenue_type": "Visa Fees",
+          "gbp_bn": 0.09
+        },
+        {
+          "revenue_type": "Offshore corporation tax - Population",
+          "gbp_bn": 0.089
+        },
+        {
+          "revenue_type": "Air Passenger Duty",
+          "gbp_bn": 0.083
+        },
+        {
+          "revenue_type": "Climate Change Levy",
+          "gbp_bn": 0.076
+        },
+        {
+          "revenue_type": "Miscellaneous other current taxes",
+          "gbp_bn": 0.047
+        },
+        {
+          "revenue_type": "Landfill tax",
+          "gbp_bn": 0.046
+        },
+        {
+          "revenue_type": "Miscellaneous taxes on income and wealth",
+          "gbp_bn": 0.045
+        },
+        {
+          "revenue_type": "Betting and gaming duty - taxes on income and wealth",
+          "gbp_bn": 0.043
+        },
+        {
+          "revenue_type": "Bank Levy",
+          "gbp_bn": 0.042
+        },
+        {
+          "revenue_type": "Digital Services Tax",
+          "gbp_bn": 0.035
+        },
+        {
+          "revenue_type": "Stamp Tax on Shares",
+          "gbp_bn": 0.026
+        },
+        {
+          "revenue_type": "Bank of England Tax Levy",
+          "gbp_bn": 0.017
+        },
+        {
+          "revenue_type": "Business rates paid by private sector non-profit institutions",
+          "gbp_bn": 0.016
+        },
+        {
+          "revenue_type": "Aggregates Levy",
+          "gbp_bn": 0.015
+        },
+        {
+          "revenue_type": "Soft Drinks Industry Levy",
+          "gbp_bn": 0.014
+        },
+        {
+          "revenue_type": "Plastic packaging tax",
+          "gbp_bn": 0.011
+        },
+        {
+          "revenue_type": "Immigration Skills Charge",
+          "gbp_bn": 0.008
+        },
+        {
+          "revenue_type": "North Sea oil royalties and license fees - Geographic",
+          "gbp_bn": 0.002
+        },
+        {
+          "revenue_type": "North Sea oil royalties and license fees - Population",
+          "gbp_bn": 0.002
+        },
+        {
+          "revenue_type": "Other - Miscellaneous taxes on income and wealth",
+          "gbp_bn": 0.002
+        }
+      ],
+      "North West": [
+        {
+          "revenue_type": "Income Tax",
+          "gbp_bn": 23.989
+        },
+        {
+          "revenue_type": "VAT net of refunds",
+          "gbp_bn": 19.192
+        },
+        {
+          "revenue_type": "Social Contributions",
+          "gbp_bn": 16.415
+        },
+        {
+          "revenue_type": "Corporation Tax",
+          "gbp_bn": 7.585
+        },
+        {
+          "revenue_type": "Interest and Dividends",
+          "gbp_bn": 6.651
+        },
+        {
+          "revenue_type": "Gross Operating Surplus",
+          "gbp_bn": 5.813
+        },
+        {
+          "revenue_type": "Council Tax",
+          "gbp_bn": 5.144
+        },
+        {
+          "revenue_type": "VAT refunds",
+          "gbp_bn": 3.408
+        },
+        {
+          "revenue_type": "Fuel Duties",
+          "gbp_bn": 2.579
+        },
+        {
+          "revenue_type": "Business rates paid by market sector bodies",
+          "gbp_bn": 2.554
+        },
+        {
+          "revenue_type": "Alcohol Duties",
+          "gbp_bn": 1.434
+        },
+        {
+          "revenue_type": "Insurance Premium Tax",
+          "gbp_bn": 1.015
+        },
+        {
+          "revenue_type": "Capital gains tax",
+          "gbp_bn": 0.981
+        },
+        {
+          "revenue_type": "Stamp duty land tax",
+          "gbp_bn": 0.888
+        },
+        {
+          "revenue_type": "Tobacco Duties",
+          "gbp_bn": 0.879
+        },
+        {
+          "revenue_type": "Environmental Levies",
+          "gbp_bn": 0.821
+        },
+        {
+          "revenue_type": "Vehicle excise duties paid by households",
+          "gbp_bn": 0.549
+        },
+        {
+          "revenue_type": "Air Passenger Duty",
+          "gbp_bn": 0.491
+        },
+        {
+          "revenue_type": "Total Rent and Other Curr Trans",
+          "gbp_bn": 0.488
+        },
+        {
+          "revenue_type": "Taxes on capital",
+          "gbp_bn": 0.474
+        },
+        {
+          "revenue_type": "Other in Other Taxes on Production",
+          "gbp_bn": 0.473
+        },
+        {
+          "revenue_type": "Custom Duties",
+          "gbp_bn": 0.456
+        },
+        {
+          "revenue_type": "TV Licence Fees",
+          "gbp_bn": 0.437
+        },
+        {
+          "revenue_type": "Apprenticeship Levy",
+          "gbp_bn": 0.409
+        },
+        {
+          "revenue_type": "Betting, Gaming and Gambling Duty",
+          "gbp_bn": 0.382
+        },
+        {
+          "revenue_type": "ETS auction receipts",
+          "gbp_bn": 0.364
+        },
+        {
+          "revenue_type": "Vehicle excise duties paid by businesses",
+          "gbp_bn": 0.359
+        },
+        {
+          "revenue_type": "Energy profits levy - Population",
+          "gbp_bn": 0.279
+        },
+        {
+          "revenue_type": "Visa Fees",
+          "gbp_bn": 0.262
+        },
+        {
+          "revenue_type": "Offshore corporation tax - Population",
+          "gbp_bn": 0.249
+        },
+        {
+          "revenue_type": "Climate Change Levy",
+          "gbp_bn": 0.223
+        },
+        {
+          "revenue_type": "Stamp Tax on Shares",
+          "gbp_bn": 0.223
+        },
+        {
+          "revenue_type": "Miscellaneous other current taxes",
+          "gbp_bn": 0.13
+        },
+        {
+          "revenue_type": "Bank Levy",
+          "gbp_bn": 0.111
+        },
+        {
+          "revenue_type": "Miscellaneous taxes on income and wealth",
+          "gbp_bn": 0.103
+        },
+        {
+          "revenue_type": "Digital Services Tax",
+          "gbp_bn": 0.098
+        },
+        {
+          "revenue_type": "Betting and gaming duty - taxes on income and wealth",
+          "gbp_bn": 0.096
+        },
+        {
+          "revenue_type": "Landfill tax",
+          "gbp_bn": 0.072
+        },
+        {
+          "revenue_type": "Bank of England Tax Levy",
+          "gbp_bn": 0.054
+        },
+        {
+          "revenue_type": "Business rates paid by private sector non-profit institutions",
+          "gbp_bn": 0.053
+        },
+        {
+          "revenue_type": "Plastic packaging tax",
+          "gbp_bn": 0.043
+        },
+        {
+          "revenue_type": "Energy profits levy - Geographic",
+          "gbp_bn": 0.039
+        },
+        {
+          "revenue_type": "Soft Drinks Industry Levy",
+          "gbp_bn": 0.039
+        },
+        {
+          "revenue_type": "Immigration Skills Charge",
+          "gbp_bn": 0.037
+        },
+        {
+          "revenue_type": "Offshore corporation tax - Geographic",
+          "gbp_bn": 0.035
+        },
+        {
+          "revenue_type": "Aggregates Levy",
+          "gbp_bn": 0.016
+        },
+        {
+          "revenue_type": "Other - Miscellaneous taxes on income and wealth",
+          "gbp_bn": 0.007
+        },
+        {
+          "revenue_type": "North Sea oil royalties and license fees - Population",
+          "gbp_bn": 0.005
+        },
+        {
+          "revenue_type": "Annual Tax on Enveloped Dwelling",
+          "gbp_bn": 0.001
+        },
+        {
+          "revenue_type": "North Sea oil royalties and license fees - Geographic",
+          "gbp_bn": 0.001
+        }
+      ],
+      "Yorkshire and The Humber": [
+        {
+          "revenue_type": "Income Tax",
+          "gbp_bn": 16.594
+        },
+        {
+          "revenue_type": "VAT net of refunds",
+          "gbp_bn": 13.762
+        },
+        {
+          "revenue_type": "Social Contributions",
+          "gbp_bn": 11.307
+        },
+        {
+          "revenue_type": "Corporation Tax",
+          "gbp_bn": 5.555
+        },
+        {
+          "revenue_type": "Interest and Dividends",
+          "gbp_bn": 5.546
+        },
+        {
+          "revenue_type": "Gross Operating Surplus",
+          "gbp_bn": 4.721
+        },
+        {
+          "revenue_type": "Council Tax",
+          "gbp_bn": 3.653
+        },
+        {
+          "revenue_type": "VAT refunds",
+          "gbp_bn": 2.296
+        },
+        {
+          "revenue_type": "Fuel Duties",
+          "gbp_bn": 2.066
+        },
+        {
+          "revenue_type": "Business rates paid by market sector bodies",
+          "gbp_bn": 1.801
+        },
+        {
+          "revenue_type": "Alcohol Duties",
+          "gbp_bn": 1.038
+        },
+        {
+          "revenue_type": "Environmental Levies",
+          "gbp_bn": 0.951
+        },
+        {
+          "revenue_type": "Capital gains tax",
+          "gbp_bn": 0.727
+        },
+        {
+          "revenue_type": "Insurance Premium Tax",
+          "gbp_bn": 0.701
+        },
+        {
+          "revenue_type": "Stamp duty land tax",
+          "gbp_bn": 0.629
+        },
+        {
+          "revenue_type": "Tobacco Duties",
+          "gbp_bn": 0.612
+        },
+        {
+          "revenue_type": "Vehicle excise duties paid by households",
+          "gbp_bn": 0.406
+        },
+        {
+          "revenue_type": "Custom Duties",
+          "gbp_bn": 0.401
+        },
+        {
+          "revenue_type": "Other in Other Taxes on Production",
+          "gbp_bn": 0.339
+        },
+        {
+          "revenue_type": "Total Rent and Other Curr Trans",
+          "gbp_bn": 0.335
+        },
+        {
+          "revenue_type": "Taxes on capital",
+          "gbp_bn": 0.329
+        },
+        {
+          "revenue_type": "TV Licence Fees",
+          "gbp_bn": 0.316
+        },
+        {
+          "revenue_type": "Apprenticeship Levy",
+          "gbp_bn": 0.288
+        },
+        {
+          "revenue_type": "ETS auction receipts",
+          "gbp_bn": 0.285
+        },
+        {
+          "revenue_type": "Vehicle excise duties paid by businesses",
+          "gbp_bn": 0.268
+        },
+        {
+          "revenue_type": "Betting, Gaming and Gambling Duty",
+          "gbp_bn": 0.255
+        },
+        {
+          "revenue_type": "Energy profits levy - Population",
+          "gbp_bn": 0.204
+        },
+        {
+          "revenue_type": "Energy profits levy - Geographic",
+          "gbp_bn": 0.19
+        },
+        {
+          "revenue_type": "Offshore corporation tax - Population",
+          "gbp_bn": 0.183
+        },
+        {
+          "revenue_type": "Visa Fees",
+          "gbp_bn": 0.182
+        },
+        {
+          "revenue_type": "Offshore corporation tax - Geographic",
+          "gbp_bn": 0.17
+        },
+        {
+          "revenue_type": "Climate Change Levy",
+          "gbp_bn": 0.165
+        },
+        {
+          "revenue_type": "Miscellaneous other current taxes",
+          "gbp_bn": 0.096
+        },
+        {
+          "revenue_type": "Bank Levy",
+          "gbp_bn": 0.092
+        },
+        {
+          "revenue_type": "Digital Services Tax",
+          "gbp_bn": 0.071
+        },
+        {
+          "revenue_type": "Miscellaneous taxes on income and wealth",
+          "gbp_bn": 0.069
+        },
+        {
+          "revenue_type": "Betting and gaming duty - taxes on income and wealth",
+          "gbp_bn": 0.064
+        },
+        {
+          "revenue_type": "Air Passenger Duty",
+          "gbp_bn": 0.055
+        },
+        {
+          "revenue_type": "Bank of England Tax Levy",
+          "gbp_bn": 0.042
+        },
+        {
+          "revenue_type": "Business rates paid by private sector non-profit institutions",
+          "gbp_bn": 0.038
+        },
+        {
+          "revenue_type": "Stamp Tax on Shares",
+          "gbp_bn": 0.035
+        },
+        {
+          "revenue_type": "Landfill tax",
+          "gbp_bn": 0.025
+        },
+        {
+          "revenue_type": "Soft Drinks Industry Levy",
+          "gbp_bn": 0.025
+        },
+        {
+          "revenue_type": "Immigration Skills Charge",
+          "gbp_bn": 0.023
+        },
+        {
+          "revenue_type": "Plastic packaging tax",
+          "gbp_bn": 0.023
+        },
+        {
+          "revenue_type": "Aggregates Levy",
+          "gbp_bn": 0.021
+        },
+        {
+          "revenue_type": "Other - Miscellaneous taxes on income and wealth",
+          "gbp_bn": 0.005
+        },
+        {
+          "revenue_type": "North Sea oil royalties and license fees - Population",
+          "gbp_bn": 0.004
+        },
+        {
+          "revenue_type": "North Sea oil royalties and license fees - Geographic",
+          "gbp_bn": 0.003
+        }
+      ],
+      "East Midlands": [
+        {
+          "revenue_type": "Income Tax",
+          "gbp_bn": 16.116
+        },
+        {
+          "revenue_type": "VAT net of refunds",
+          "gbp_bn": 11.624
+        },
+        {
+          "revenue_type": "Social Contributions",
+          "gbp_bn": 10.848
+        },
+        {
+          "revenue_type": "Gross Operating Surplus",
+          "gbp_bn": 4.654
+        },
+        {
+          "revenue_type": "Corporation Tax",
+          "gbp_bn": 4.159
+        },
+        {
+          "revenue_type": "Council Tax",
+          "gbp_bn": 3.488
+        },
+        {
+          "revenue_type": "Interest and Dividends",
+          "gbp_bn": 2.372
+        },
+        {
+          "revenue_type": "Fuel Duties",
+          "gbp_bn": 2.158
+        },
+        {
+          "revenue_type": "VAT refunds",
+          "gbp_bn": 1.885
+        },
+        {
+          "revenue_type": "Business rates paid by market sector bodies",
+          "gbp_bn": 1.683
+        },
+        {
+          "revenue_type": "Alcohol Duties",
+          "gbp_bn": 1.024
+        },
+        {
+          "revenue_type": "Capital gains tax",
+          "gbp_bn": 0.679
+        },
+        {
+          "revenue_type": "Stamp duty land tax",
+          "gbp_bn": 0.644
+        },
+        {
+          "revenue_type": "Environmental Levies",
+          "gbp_bn": 0.632
+        },
+        {
+          "revenue_type": "Insurance Premium Tax",
+          "gbp_bn": 0.615
+        },
+        {
+          "revenue_type": "Tobacco Duties",
+          "gbp_bn": 0.592
+        },
+        {
+          "revenue_type": "Vehicle excise duties paid by households",
+          "gbp_bn": 0.39
+        },
+        {
+          "revenue_type": "Taxes on capital",
+          "gbp_bn": 0.344
+        },
+        {
+          "revenue_type": "Custom Duties",
+          "gbp_bn": 0.31
+        },
+        {
+          "revenue_type": "Total Rent and Other Curr Trans",
+          "gbp_bn": 0.278
+        },
+        {
+          "revenue_type": "TV Licence Fees",
+          "gbp_bn": 0.274
+        },
+        {
+          "revenue_type": "Other in Other Taxes on Production",
+          "gbp_bn": 0.268
+        },
+        {
+          "revenue_type": "Vehicle excise duties paid by businesses",
+          "gbp_bn": 0.267
+        },
+        {
+          "revenue_type": "ETS auction receipts",
+          "gbp_bn": 0.257
+        },
+        {
+          "revenue_type": "Apprenticeship Levy",
+          "gbp_bn": 0.255
+        },
+        {
+          "revenue_type": "Climate Change Levy",
+          "gbp_bn": 0.209
+        },
+        {
+          "revenue_type": "Betting, Gaming and Gambling Duty",
+          "gbp_bn": 0.202
+        },
+        {
+          "revenue_type": "Energy profits levy - Population",
+          "gbp_bn": 0.183
+        },
+        {
+          "revenue_type": "Offshore corporation tax - Population",
+          "gbp_bn": 0.163
+        },
+        {
+          "revenue_type": "Visa Fees",
+          "gbp_bn": 0.12
+        },
+        {
+          "revenue_type": "Stamp Tax on Shares",
+          "gbp_bn": 0.108
+        },
+        {
+          "revenue_type": "Miscellaneous other current taxes",
+          "gbp_bn": 0.082
+        },
+        {
+          "revenue_type": "Aggregates Levy",
+          "gbp_bn": 0.07
+        },
+        {
+          "revenue_type": "Digital Services Tax",
+          "gbp_bn": 0.064
+        },
+        {
+          "revenue_type": "Miscellaneous taxes on income and wealth",
+          "gbp_bn": 0.055
+        },
+        {
+          "revenue_type": "Betting and gaming duty - taxes on income and wealth",
+          "gbp_bn": 0.051
+        },
+        {
+          "revenue_type": "Bank Levy",
+          "gbp_bn": 0.041
+        },
+        {
+          "revenue_type": "Energy profits levy - Geographic",
+          "gbp_bn": 0.036
+        },
+        {
+          "revenue_type": "Business rates paid by private sector non-profit institutions",
+          "gbp_bn": 0.035
+        },
+        {
+          "revenue_type": "Landfill tax",
+          "gbp_bn": 0.034
+        },
+        {
+          "revenue_type": "Offshore corporation tax - Geographic",
+          "gbp_bn": 0.033
+        },
+        {
+          "revenue_type": "Air Passenger Duty",
+          "gbp_bn": 0.032
+        },
+        {
+          "revenue_type": "Soft Drinks Industry Levy",
+          "gbp_bn": 0.025
+        },
+        {
+          "revenue_type": "Immigration Skills Charge",
+          "gbp_bn": 0.023
+        },
+        {
+          "revenue_type": "Plastic packaging tax",
+          "gbp_bn": 0.023
+        },
+        {
+          "revenue_type": "Bank of England Tax Levy",
+          "gbp_bn": 0.02
+        },
+        {
+          "revenue_type": "Other - Miscellaneous taxes on income and wealth",
+          "gbp_bn": 0.004
+        },
+        {
+          "revenue_type": "North Sea oil royalties and license fees - Population",
+          "gbp_bn": 0.003
+        },
+        {
+          "revenue_type": "North Sea oil royalties and license fees - Geographic",
+          "gbp_bn": 0.001
+        }
+      ],
+      "West Midlands": [
+        {
+          "revenue_type": "Income Tax",
+          "gbp_bn": 18.623
+        },
+        {
+          "revenue_type": "VAT net of refunds",
+          "gbp_bn": 14.276
+        },
+        {
+          "revenue_type": "Social Contributions",
+          "gbp_bn": 12.743
+        },
+        {
+          "revenue_type": "Gross Operating Surplus",
+          "gbp_bn": 6.311
+        },
+        {
+          "revenue_type": "Corporation Tax",
+          "gbp_bn": 5.556
+        },
+        {
+          "revenue_type": "Council Tax",
+          "gbp_bn": 3.959
+        },
+        {
+          "revenue_type": "Interest and Dividends",
+          "gbp_bn": 3.569
+        },
+        {
+          "revenue_type": "VAT refunds",
+          "gbp_bn": 2.455
+        },
+        {
+          "revenue_type": "Fuel Duties",
+          "gbp_bn": 2.341
+        },
+        {
+          "revenue_type": "Business rates paid by market sector bodies",
+          "gbp_bn": 2.053
+        },
+        {
+          "revenue_type": "Alcohol Duties",
+          "gbp_bn": 1.097
+        },
+        {
+          "revenue_type": "Environmental Levies",
+          "gbp_bn": 0.833
+        },
+        {
+          "revenue_type": "Insurance Premium Tax",
+          "gbp_bn": 0.788
+        },
+        {
+          "revenue_type": "Stamp duty land tax",
+          "gbp_bn": 0.758
+        },
+        {
+          "revenue_type": "Tobacco Duties",
+          "gbp_bn": 0.755
+        },
+        {
+          "revenue_type": "Capital gains tax",
+          "gbp_bn": 0.747
+        },
+        {
+          "revenue_type": "Taxes on capital",
+          "gbp_bn": 0.449
+        },
+        {
+          "revenue_type": "Vehicle excise duties paid by households",
+          "gbp_bn": 0.444
+        },
+        {
+          "revenue_type": "Custom Duties",
+          "gbp_bn": 0.418
+        },
+        {
+          "revenue_type": "Total Rent and Other Curr Trans",
+          "gbp_bn": 0.353
+        },
+        {
+          "revenue_type": "TV Licence Fees",
+          "gbp_bn": 0.326
+        },
+        {
+          "revenue_type": "Other in Other Taxes on Production",
+          "gbp_bn": 0.32
+        },
+        {
+          "revenue_type": "Apprenticeship Levy",
+          "gbp_bn": 0.308
+        },
+        {
+          "revenue_type": "Vehicle excise duties paid by businesses",
+          "gbp_bn": 0.298
+        },
+        {
+          "revenue_type": "ETS auction receipts",
+          "gbp_bn": 0.282
+        },
+        {
+          "revenue_type": "Visa Fees",
+          "gbp_bn": 0.251
+        },
+        {
+          "revenue_type": "Energy profits levy - Population",
+          "gbp_bn": 0.223
+        },
+        {
+          "revenue_type": "Betting, Gaming and Gambling Duty",
+          "gbp_bn": 0.218
+        },
+        {
+          "revenue_type": "Offshore corporation tax - Population",
+          "gbp_bn": 0.199
+        },
+        {
+          "revenue_type": "Climate Change Levy",
+          "gbp_bn": 0.18
+        },
+        {
+          "revenue_type": "Air Passenger Duty",
+          "gbp_bn": 0.151
+        },
+        {
+          "revenue_type": "Miscellaneous other current taxes",
+          "gbp_bn": 0.103
+        },
+        {
+          "revenue_type": "Bank Levy",
+          "gbp_bn": 0.087
+        },
+        {
+          "revenue_type": "Digital Services Tax",
+          "gbp_bn": 0.078
+        },
+        {
+          "revenue_type": "Landfill tax",
+          "gbp_bn": 0.073
+        },
+        {
+          "revenue_type": "Miscellaneous taxes on income and wealth",
+          "gbp_bn": 0.06
+        },
+        {
+          "revenue_type": "Betting and gaming duty - taxes on income and wealth",
+          "gbp_bn": 0.055
+        },
+        {
+          "revenue_type": "Stamp Tax on Shares",
+          "gbp_bn": 0.052
+        },
+        {
+          "revenue_type": "Immigration Skills Charge",
+          "gbp_bn": 0.047
+        },
+        {
+          "revenue_type": "Business rates paid by private sector non-profit institutions",
+          "gbp_bn": 0.043
+        },
+        {
+          "revenue_type": "Bank of England Tax Levy",
+          "gbp_bn": 0.037
+        },
+        {
+          "revenue_type": "Soft Drinks Industry Levy",
+          "gbp_bn": 0.029
+        },
+        {
+          "revenue_type": "Plastic packaging tax",
+          "gbp_bn": 0.025
+        },
+        {
+          "revenue_type": "Aggregates Levy",
+          "gbp_bn": 0.022
+        },
+        {
+          "revenue_type": "Other - Miscellaneous taxes on income and wealth",
+          "gbp_bn": 0.005
+        },
+        {
+          "revenue_type": "North Sea oil royalties and license fees - Population",
+          "gbp_bn": 0.004
+        },
+        {
+          "revenue_type": "Annual Tax on Enveloped Dwelling",
+          "gbp_bn": 0.001
+        }
+      ],
+      "East of England": [
+        {
+          "revenue_type": "Income Tax",
+          "gbp_bn": 31.924
+        },
+        {
+          "revenue_type": "Social Contributions",
+          "gbp_bn": 17.662
+        },
+        {
+          "revenue_type": "VAT net of refunds",
+          "gbp_bn": 16.385
+        },
+        {
+          "revenue_type": "Corporation Tax",
+          "gbp_bn": 6.588
+        },
+        {
+          "revenue_type": "Gross Operating Surplus",
+          "gbp_bn": 6.526
+        },
+        {
+          "revenue_type": "Council Tax",
+          "gbp_bn": 5.001
+        },
+        {
+          "revenue_type": "Interest and Dividends",
+          "gbp_bn": 2.915
+        },
+        {
+          "revenue_type": "Fuel Duties",
+          "gbp_bn": 2.669
+        },
+        {
+          "revenue_type": "Business rates paid by market sector bodies",
+          "gbp_bn": 2.444
+        },
+        {
+          "revenue_type": "VAT refunds",
+          "gbp_bn": 2.413
+        },
+        {
+          "revenue_type": "Stamp duty land tax",
+          "gbp_bn": 1.487
+        },
+        {
+          "revenue_type": "Capital gains tax",
+          "gbp_bn": 1.355
+        },
+        {
+          "revenue_type": "Alcohol Duties",
+          "gbp_bn": 1.244
+        },
+        {
+          "revenue_type": "Insurance Premium Tax",
+          "gbp_bn": 0.972
+        },
+        {
+          "revenue_type": "Taxes on capital",
+          "gbp_bn": 0.896
+        },
+        {
+          "revenue_type": "Tobacco Duties",
+          "gbp_bn": 0.66
+        },
+        {
+          "revenue_type": "Environmental Levies",
+          "gbp_bn": 0.654
+        },
+        {
+          "revenue_type": "Vehicle excise duties paid by households",
+          "gbp_bn": 0.529
+        },
+        {
+          "revenue_type": "Custom Duties",
+          "gbp_bn": 0.468
+        },
+        {
+          "revenue_type": "Other in Other Taxes on Production",
+          "gbp_bn": 0.468
+        },
+        {
+          "revenue_type": "Betting, Gaming and Gambling Duty",
+          "gbp_bn": 0.406
+        },
+        {
+          "revenue_type": "Total Rent and Other Curr Trans",
+          "gbp_bn": 0.394
+        },
+        {
+          "revenue_type": "Apprenticeship Levy",
+          "gbp_bn": 0.387
+        },
+        {
+          "revenue_type": "Stamp Tax on Shares",
+          "gbp_bn": 0.364
+        },
+        {
+          "revenue_type": "Air Passenger Duty",
+          "gbp_bn": 0.361
+        },
+        {
+          "revenue_type": "TV Licence Fees",
+          "gbp_bn": 0.356
+        },
+        {
+          "revenue_type": "Vehicle excise duties paid by businesses",
+          "gbp_bn": 0.344
+        },
+        {
+          "revenue_type": "ETS auction receipts",
+          "gbp_bn": 0.299
+        },
+        {
+          "revenue_type": "Energy profits levy - Population",
+          "gbp_bn": 0.237
+        },
+        {
+          "revenue_type": "Offshore corporation tax - Population",
+          "gbp_bn": 0.212
+        },
+        {
+          "revenue_type": "Climate Change Levy",
+          "gbp_bn": 0.154
+        },
+        {
+          "revenue_type": "Miscellaneous other current taxes",
+          "gbp_bn": 0.141
+        },
+        {
+          "revenue_type": "Visa Fees",
+          "gbp_bn": 0.136
+        },
+        {
+          "revenue_type": "Miscellaneous taxes on income and wealth",
+          "gbp_bn": 0.108
+        },
+        {
+          "revenue_type": "Betting and gaming duty - taxes on income and wealth",
+          "gbp_bn": 0.102
+        },
+        {
+          "revenue_type": "Landfill tax",
+          "gbp_bn": 0.098
+        },
+        {
+          "revenue_type": "Digital Services Tax",
+          "gbp_bn": 0.083
+        },
+        {
+          "revenue_type": "Business rates paid by private sector non-profit institutions",
+          "gbp_bn": 0.051
+        },
+        {
+          "revenue_type": "Bank Levy",
+          "gbp_bn": 0.038
+        },
+        {
+          "revenue_type": "Immigration Skills Charge",
+          "gbp_bn": 0.034
+        },
+        {
+          "revenue_type": "Energy profits levy - Geographic",
+          "gbp_bn": 0.033
+        },
+        {
+          "revenue_type": "Soft Drinks Industry Levy",
+          "gbp_bn": 0.031
+        },
+        {
+          "revenue_type": "Offshore corporation tax - Geographic",
+          "gbp_bn": 0.029
+        },
+        {
+          "revenue_type": "Plastic packaging tax",
+          "gbp_bn": 0.026
+        },
+        {
+          "revenue_type": "Bank of England Tax Levy",
+          "gbp_bn": 0.019
+        },
+        {
+          "revenue_type": "Aggregates Levy",
+          "gbp_bn": 0.018
+        },
+        {
+          "revenue_type": "Other - Miscellaneous taxes on income and wealth",
+          "gbp_bn": 0.006
+        },
+        {
+          "revenue_type": "North Sea oil royalties and license fees - Population",
+          "gbp_bn": 0.005
+        },
+        {
+          "revenue_type": "Annual Tax on Enveloped Dwelling",
+          "gbp_bn": 0.002
+        },
+        {
+          "revenue_type": "North Sea oil royalties and license fees - Geographic",
+          "gbp_bn": 0.001
+        }
+      ],
+      "London": [
+        {
+          "revenue_type": "Income Tax",
+          "gbp_bn": 79.172
+        },
+        {
+          "revenue_type": "Social Contributions",
+          "gbp_bn": 35.93
+        },
+        {
+          "revenue_type": "Corporation Tax",
+          "gbp_bn": 33.384
+        },
+        {
+          "revenue_type": "VAT net of refunds",
+          "gbp_bn": 22.896
+        },
+        {
+          "revenue_type": "Gross Operating Surplus",
+          "gbp_bn": 14.518
+        },
+        {
+          "revenue_type": "Business rates paid by market sector bodies",
+          "gbp_bn": 7.872
+        },
+        {
+          "revenue_type": "Council Tax",
+          "gbp_bn": 6.14
+        },
+        {
+          "revenue_type": "Interest and Dividends",
+          "gbp_bn": 5.328
+        },
+        {
+          "revenue_type": "Stamp duty land tax",
+          "gbp_bn": 5.129
+        },
+        {
+          "revenue_type": "VAT refunds",
+          "gbp_bn": 4.647
+        },
+        {
+          "revenue_type": "Capital gains tax",
+          "gbp_bn": 3.844
+        },
+        {
+          "revenue_type": "Stamp Tax on Shares",
+          "gbp_bn": 2.71
+        },
+        {
+          "revenue_type": "Taxes on capital",
+          "gbp_bn": 1.975
+        },
+        {
+          "revenue_type": "Air Passenger Duty",
+          "gbp_bn": 1.693
+        },
+        {
+          "revenue_type": "Environmental Levies",
+          "gbp_bn": 1.68
+        },
+        {
+          "revenue_type": "Fuel Duties",
+          "gbp_bn": 1.523
+        },
+        {
+          "revenue_type": "Other in Other Taxes on Production",
+          "gbp_bn": 1.273
+        },
+        {
+          "revenue_type": "Alcohol Duties",
+          "gbp_bn": 1.223
+        },
+        {
+          "revenue_type": "Insurance Premium Tax",
+          "gbp_bn": 1.048
+        },
+        {
+          "revenue_type": "Apprenticeship Levy",
+          "gbp_bn": 0.896
+        },
+        {
+          "revenue_type": "Total Rent and Other Curr Trans",
+          "gbp_bn": 0.875
+        },
+        {
+          "revenue_type": "Tobacco Duties",
+          "gbp_bn": 0.801
+        },
+        {
+          "revenue_type": "Custom Duties",
+          "gbp_bn": 0.745
+        },
+        {
+          "revenue_type": "Visa Fees",
+          "gbp_bn": 0.636
+        },
+        {
+          "revenue_type": "Bank Levy",
+          "gbp_bn": 0.584
+        },
+        {
+          "revenue_type": "ETS auction receipts",
+          "gbp_bn": 0.504
+        },
+        {
+          "revenue_type": "TV Licence Fees",
+          "gbp_bn": 0.471
+        },
+        {
+          "revenue_type": "Vehicle excise duties paid by households",
+          "gbp_bn": 0.389
+        },
+        {
+          "revenue_type": "Bank of England Tax Levy",
+          "gbp_bn": 0.379
+        },
+        {
+          "revenue_type": "Energy profits levy - Population",
+          "gbp_bn": 0.328
+        },
+        {
+          "revenue_type": "Offshore corporation tax - Population",
+          "gbp_bn": 0.293
+        },
+        {
+          "revenue_type": "Betting, Gaming and Gambling Duty",
+          "gbp_bn": 0.284
+        },
+        {
+          "revenue_type": "Vehicle excise duties paid by businesses",
+          "gbp_bn": 0.223
+        },
+        {
+          "revenue_type": "Climate Change Levy",
+          "gbp_bn": 0.205
+        },
+        {
+          "revenue_type": "Immigration Skills Charge",
+          "gbp_bn": 0.205
+        },
+        {
+          "revenue_type": "Business rates paid by private sector non-profit institutions",
+          "gbp_bn": 0.165
+        },
+        {
+          "revenue_type": "Miscellaneous other current taxes",
+          "gbp_bn": 0.143
+        },
+        {
+          "revenue_type": "Digital Services Tax",
+          "gbp_bn": 0.115
+        },
+        {
+          "revenue_type": "Annual Tax on Enveloped Dwelling",
+          "gbp_bn": 0.112
+        },
+        {
+          "revenue_type": "Miscellaneous taxes on income and wealth",
+          "gbp_bn": 0.079
+        },
+        {
+          "revenue_type": "Betting and gaming duty - taxes on income and wealth",
+          "gbp_bn": 0.071
+        },
+        {
+          "revenue_type": "Landfill tax",
+          "gbp_bn": 0.047
+        },
+        {
+          "revenue_type": "Soft Drinks Industry Levy",
+          "gbp_bn": 0.032
+        },
+        {
+          "revenue_type": "Plastic packaging tax",
+          "gbp_bn": 0.024
+        },
+        {
+          "revenue_type": "Other - Miscellaneous taxes on income and wealth",
+          "gbp_bn": 0.008
+        },
+        {
+          "revenue_type": "Aggregates Levy",
+          "gbp_bn": 0.007
+        },
+        {
+          "revenue_type": "North Sea oil royalties and license fees - Population",
+          "gbp_bn": 0.006
+        }
+      ],
+      "South East": [
+        {
+          "revenue_type": "Income Tax",
+          "gbp_bn": 55.882
+        },
+        {
+          "revenue_type": "Social Contributions",
+          "gbp_bn": 28.395
+        },
+        {
+          "revenue_type": "VAT net of refunds",
+          "gbp_bn": 25.94
+        },
+        {
+          "revenue_type": "Corporation Tax",
+          "gbp_bn": 12.522
+        },
+        {
+          "revenue_type": "Gross Operating Surplus",
+          "gbp_bn": 12.267
+        },
+        {
+          "revenue_type": "Council Tax",
+          "gbp_bn": 8.057
+        },
+        {
+          "revenue_type": "Interest and Dividends",
+          "gbp_bn": 5.692
+        },
+        {
+          "revenue_type": "Business rates paid by market sector bodies",
+          "gbp_bn": 3.777
+        },
+        {
+          "revenue_type": "VAT refunds",
+          "gbp_bn": 3.68
+        },
+        {
+          "revenue_type": "Fuel Duties",
+          "gbp_bn": 3.607
+        },
+        {
+          "revenue_type": "Capital gains tax",
+          "gbp_bn": 3.05
+        },
+        {
+          "revenue_type": "Stamp duty land tax",
+          "gbp_bn": 2.779
+        },
+        {
+          "revenue_type": "Taxes on capital",
+          "gbp_bn": 2.042
+        },
+        {
+          "revenue_type": "Alcohol Duties",
+          "gbp_bn": 1.805
+        },
+        {
+          "revenue_type": "Environmental Levies",
+          "gbp_bn": 1.434
+        },
+        {
+          "revenue_type": "Insurance Premium Tax",
+          "gbp_bn": 1.396
+        },
+        {
+          "revenue_type": "Custom Duties",
+          "gbp_bn": 1.053
+        },
+        {
+          "revenue_type": "Tobacco Duties",
+          "gbp_bn": 0.847
+        },
+        {
+          "revenue_type": "Vehicle excise duties paid by households",
+          "gbp_bn": 0.823
+        },
+        {
+          "revenue_type": "Total Rent and Other Curr Trans",
+          "gbp_bn": 0.7
+        },
+        {
+          "revenue_type": "Air Passenger Duty",
+          "gbp_bn": 0.657
+        },
+        {
+          "revenue_type": "Other in Other Taxes on Production",
+          "gbp_bn": 0.655
+        },
+        {
+          "revenue_type": "Apprenticeship Levy",
+          "gbp_bn": 0.602
+        },
+        {
+          "revenue_type": "Vehicle excise duties paid by businesses",
+          "gbp_bn": 0.54
+        },
+        {
+          "revenue_type": "TV Licence Fees",
+          "gbp_bn": 0.521
+        },
+        {
+          "revenue_type": "ETS auction receipts",
+          "gbp_bn": 0.444
+        },
+        {
+          "revenue_type": "Stamp Tax on Shares",
+          "gbp_bn": 0.423
+        },
+        {
+          "revenue_type": "Energy profits levy - Population",
+          "gbp_bn": 0.348
+        },
+        {
+          "revenue_type": "Betting, Gaming and Gambling Duty",
+          "gbp_bn": 0.315
+        },
+        {
+          "revenue_type": "Offshore corporation tax - Population",
+          "gbp_bn": 0.311
+        },
+        {
+          "revenue_type": "Visa Fees",
+          "gbp_bn": 0.263
+        },
+        {
+          "revenue_type": "Miscellaneous other current taxes",
+          "gbp_bn": 0.208
+        },
+        {
+          "revenue_type": "Climate Change Levy",
+          "gbp_bn": 0.183
+        },
+        {
+          "revenue_type": "Digital Services Tax",
+          "gbp_bn": 0.122
+        },
+        {
+          "revenue_type": "Miscellaneous taxes on income and wealth",
+          "gbp_bn": 0.087
+        },
+        {
+          "revenue_type": "Betting and gaming duty - taxes on income and wealth",
+          "gbp_bn": 0.079
+        },
+        {
+          "revenue_type": "Business rates paid by private sector non-profit institutions",
+          "gbp_bn": 0.079
+        },
+        {
+          "revenue_type": "Immigration Skills Charge",
+          "gbp_bn": 0.077
+        },
+        {
+          "revenue_type": "Bank Levy",
+          "gbp_bn": 0.071
+        },
+        {
+          "revenue_type": "Landfill tax",
+          "gbp_bn": 0.065
+        },
+        {
+          "revenue_type": "Soft Drinks Industry Levy",
+          "gbp_bn": 0.047
+        },
+        {
+          "revenue_type": "Bank of England Tax Levy",
+          "gbp_bn": 0.041
+        },
+        {
+          "revenue_type": "Plastic packaging tax",
+          "gbp_bn": 0.038
+        },
+        {
+          "revenue_type": "Aggregates Levy",
+          "gbp_bn": 0.021
+        },
+        {
+          "revenue_type": "Energy profits levy - Geographic",
+          "gbp_bn": 0.018
+        },
+        {
+          "revenue_type": "Offshore corporation tax - Geographic",
+          "gbp_bn": 0.016
+        },
+        {
+          "revenue_type": "Annual Tax on Enveloped Dwelling",
+          "gbp_bn": 0.013
+        },
+        {
+          "revenue_type": "Other - Miscellaneous taxes on income and wealth",
+          "gbp_bn": 0.008
+        },
+        {
+          "revenue_type": "North Sea oil royalties and license fees - Population",
+          "gbp_bn": 0.007
+        }
+      ],
+      "South West": [
+        {
+          "revenue_type": "Income Tax",
+          "gbp_bn": 21.548
+        },
+        {
+          "revenue_type": "VAT net of refunds",
+          "gbp_bn": 15.947
+        },
+        {
+          "revenue_type": "Social Contributions",
+          "gbp_bn": 12.596
+        },
+        {
+          "revenue_type": "Gross Operating Surplus",
+          "gbp_bn": 8.555
+        },
+        {
+          "revenue_type": "Corporation Tax",
+          "gbp_bn": 6.251
+        },
+        {
+          "revenue_type": "Council Tax",
+          "gbp_bn": 4.785
+        },
+        {
+          "revenue_type": "Interest and Dividends",
+          "gbp_bn": 2.356
+        },
+        {
+          "revenue_type": "Fuel Duties",
+          "gbp_bn": 2.351
+        },
+        {
+          "revenue_type": "VAT refunds",
+          "gbp_bn": 2.225
+        },
+        {
+          "revenue_type": "Business rates paid by market sector bodies",
+          "gbp_bn": 1.861
+        },
+        {
+          "revenue_type": "Alcohol Duties",
+          "gbp_bn": 1.257
+        },
+        {
+          "revenue_type": "Stamp duty land tax",
+          "gbp_bn": 1.197
+        },
+        {
+          "revenue_type": "Capital gains tax",
+          "gbp_bn": 1.117
+        },
+        {
+          "revenue_type": "Taxes on capital",
+          "gbp_bn": 0.939
+        },
+        {
+          "revenue_type": "Insurance Premium Tax",
+          "gbp_bn": 0.844
+        },
+        {
+          "revenue_type": "Tobacco Duties",
+          "gbp_bn": 0.759
+        },
+        {
+          "revenue_type": "Environmental Levies",
+          "gbp_bn": 0.714
+        },
+        {
+          "revenue_type": "Vehicle excise duties paid by households",
+          "gbp_bn": 0.521
+        },
+        {
+          "revenue_type": "Other in Other Taxes on Production",
+          "gbp_bn": 0.394
+        },
+        {
+          "revenue_type": "Total Rent and Other Curr Trans",
+          "gbp_bn": 0.389
+        },
+        {
+          "revenue_type": "Vehicle excise duties paid by businesses",
+          "gbp_bn": 0.363
+        },
+        {
+          "revenue_type": "TV Licence Fees",
+          "gbp_bn": 0.338
+        },
+        {
+          "revenue_type": "Apprenticeship Levy",
+          "gbp_bn": 0.336
+        },
+        {
+          "revenue_type": "Custom Duties",
+          "gbp_bn": 0.285
+        },
+        {
+          "revenue_type": "Betting, Gaming and Gambling Duty",
+          "gbp_bn": 0.272
+        },
+        {
+          "revenue_type": "ETS auction receipts",
+          "gbp_bn": 0.258
+        },
+        {
+          "revenue_type": "Energy profits levy - Population",
+          "gbp_bn": 0.212
+        },
+        {
+          "revenue_type": "Offshore corporation tax - Population",
+          "gbp_bn": 0.19
+        },
+        {
+          "revenue_type": "Visa Fees",
+          "gbp_bn": 0.125
+        },
+        {
+          "revenue_type": "Climate Change Levy",
+          "gbp_bn": 0.116
+        },
+        {
+          "revenue_type": "Air Passenger Duty",
+          "gbp_bn": 0.106
+        },
+        {
+          "revenue_type": "Miscellaneous other current taxes",
+          "gbp_bn": 0.101
+        },
+        {
+          "revenue_type": "Stamp Tax on Shares",
+          "gbp_bn": 0.096
+        },
+        {
+          "revenue_type": "Bank Levy",
+          "gbp_bn": 0.075
+        },
+        {
+          "revenue_type": "Digital Services Tax",
+          "gbp_bn": 0.074
+        },
+        {
+          "revenue_type": "Miscellaneous taxes on income and wealth",
+          "gbp_bn": 0.074
+        },
+        {
+          "revenue_type": "Betting and gaming duty - taxes on income and wealth",
+          "gbp_bn": 0.069
+        },
+        {
+          "revenue_type": "Aggregates Levy",
+          "gbp_bn": 0.06
+        },
+        {
+          "revenue_type": "Business rates paid by private sector non-profit institutions",
+          "gbp_bn": 0.039
+        },
+        {
+          "revenue_type": "Energy profits levy - Geographic",
+          "gbp_bn": 0.037
+        },
+        {
+          "revenue_type": "Bank of England Tax Levy",
+          "gbp_bn": 0.036
+        },
+        {
+          "revenue_type": "Offshore corporation tax - Geographic",
+          "gbp_bn": 0.033
+        },
+        {
+          "revenue_type": "Immigration Skills Charge",
+          "gbp_bn": 0.024
+        },
+        {
+          "revenue_type": "Soft Drinks Industry Levy",
+          "gbp_bn": 0.024
+        },
+        {
+          "revenue_type": "Landfill tax",
+          "gbp_bn": 0.02
+        },
+        {
+          "revenue_type": "Plastic packaging tax",
+          "gbp_bn": 0.011
+        },
+        {
+          "revenue_type": "Other - Miscellaneous taxes on income and wealth",
+          "gbp_bn": 0.005
+        },
+        {
+          "revenue_type": "North Sea oil royalties and license fees - Population",
+          "gbp_bn": 0.004
+        },
+        {
+          "revenue_type": "Annual Tax on Enveloped Dwelling",
+          "gbp_bn": 0.003
+        },
+        {
+          "revenue_type": "North Sea oil royalties and license fees - Geographic",
+          "gbp_bn": 0.001
+        }
+      ],
+      "England": [
+        {
+          "revenue_type": "Income Tax",
+          "gbp_bn": 270.979
+        },
+        {
+          "revenue_type": "Social Contributions",
+          "gbp_bn": 151.212
+        },
+        {
+          "revenue_type": "VAT net of refunds",
+          "gbp_bn": 146.319
+        },
+        {
+          "revenue_type": "Corporation Tax",
+          "gbp_bn": 83.33
+        },
+        {
+          "revenue_type": "Gross Operating Surplus",
+          "gbp_bn": 65.568
+        },
+        {
+          "revenue_type": "Council Tax",
+          "gbp_bn": 42.016
+        },
+        {
+          "revenue_type": "Interest and Dividends",
+          "gbp_bn": 36.297
+        },
+        {
+          "revenue_type": "Business rates paid by market sector bodies",
+          "gbp_bn": 24.817
+        },
+        {
+          "revenue_type": "VAT refunds",
+          "gbp_bn": 24.203
+        },
+        {
+          "revenue_type": "Fuel Duties",
+          "gbp_bn": 20.177
+        },
+        {
+          "revenue_type": "Stamp duty land tax",
+          "gbp_bn": 13.741
+        },
+        {
+          "revenue_type": "Capital gains tax",
+          "gbp_bn": 12.656
+        },
+        {
+          "revenue_type": "Alcohol Duties",
+          "gbp_bn": 10.534
+        },
+        {
+          "revenue_type": "Environmental Levies",
+          "gbp_bn": 7.963
+        },
+        {
+          "revenue_type": "Insurance Premium Tax",
+          "gbp_bn": 7.663
+        },
+        {
+          "revenue_type": "Taxes on capital",
+          "gbp_bn": 7.559
+        },
+        {
+          "revenue_type": "Tobacco Duties",
+          "gbp_bn": 6.225
+        },
+        {
+          "revenue_type": "Other in Other Taxes on Production",
+          "gbp_bn": 4.368
+        },
+        {
+          "revenue_type": "Custom Duties",
+          "gbp_bn": 4.285
+        },
+        {
+          "revenue_type": "Vehicle excise duties paid by households",
+          "gbp_bn": 4.233
+        },
+        {
+          "revenue_type": "Stamp Tax on Shares",
+          "gbp_bn": 4.037
+        },
+        {
+          "revenue_type": "Total Rent and Other Curr Trans",
+          "gbp_bn": 3.971
+        },
+        {
+          "revenue_type": "Air Passenger Duty",
+          "gbp_bn": 3.629
+        },
+        {
+          "revenue_type": "Apprenticeship Levy",
+          "gbp_bn": 3.602
+        },
+        {
+          "revenue_type": "TV Licence Fees",
+          "gbp_bn": 3.198
+        },
+        {
+          "revenue_type": "ETS auction receipts",
+          "gbp_bn": 2.834
+        },
+        {
+          "revenue_type": "Vehicle excise duties paid by businesses",
+          "gbp_bn": 2.783
+        },
+        {
+          "revenue_type": "Betting, Gaming and Gambling Duty",
+          "gbp_bn": 2.505
+        },
+        {
+          "revenue_type": "Energy profits levy - Population",
+          "gbp_bn": 2.114
+        },
+        {
+          "revenue_type": "Visa Fees",
+          "gbp_bn": 2.065
+        },
+        {
+          "revenue_type": "Offshore corporation tax - Population",
+          "gbp_bn": 1.889
+        },
+        {
+          "revenue_type": "Climate Change Levy",
+          "gbp_bn": 1.511
+        },
+        {
+          "revenue_type": "Bank Levy",
+          "gbp_bn": 1.141
+        },
+        {
+          "revenue_type": "Miscellaneous other current taxes",
+          "gbp_bn": 1.051
+        },
+        {
+          "revenue_type": "Digital Services Tax",
+          "gbp_bn": 0.74
+        },
+        {
+          "revenue_type": "Miscellaneous taxes on income and wealth",
+          "gbp_bn": 0.68
+        },
+        {
+          "revenue_type": "Bank of England Tax Levy",
+          "gbp_bn": 0.645
+        },
+        {
+          "revenue_type": "Betting and gaming duty - taxes on income and wealth",
+          "gbp_bn": 0.63
+        },
+        {
+          "revenue_type": "Business rates paid by private sector non-profit institutions",
+          "gbp_bn": 0.519
+        },
+        {
+          "revenue_type": "Energy profits levy - Geographic",
+          "gbp_bn": 0.5
+        },
+        {
+          "revenue_type": "Landfill tax",
+          "gbp_bn": 0.48
+        },
+        {
+          "revenue_type": "Immigration Skills Charge",
+          "gbp_bn": 0.478
+        },
+        {
+          "revenue_type": "Offshore corporation tax - Geographic",
+          "gbp_bn": 0.447
+        },
+        {
+          "revenue_type": "Soft Drinks Industry Levy",
+          "gbp_bn": 0.266
+        },
+        {
+          "revenue_type": "Aggregates Levy",
+          "gbp_bn": 0.25
+        },
+        {
+          "revenue_type": "Plastic packaging tax",
+          "gbp_bn": 0.224
+        },
+        {
+          "revenue_type": "Annual Tax on Enveloped Dwelling",
+          "gbp_bn": 0.132
+        },
+        {
+          "revenue_type": "Other - Miscellaneous taxes on income and wealth",
+          "gbp_bn": 0.05
+        },
+        {
+          "revenue_type": "North Sea oil royalties and license fees - Population",
+          "gbp_bn": 0.04
+        },
+        {
+          "revenue_type": "North Sea oil royalties and license fees - Geographic",
+          "gbp_bn": 0.009
+        }
+      ],
+      "Wales": [
+        {
+          "revenue_type": "Income Tax",
+          "gbp_bn": 9.047
+        },
+        {
+          "revenue_type": "VAT net of refunds",
+          "gbp_bn": 7.966
+        },
+        {
+          "revenue_type": "Social Contributions",
+          "gbp_bn": 6.109
+        },
+        {
+          "revenue_type": "Gross Operating Surplus",
+          "gbp_bn": 3.017
+        },
+        {
+          "revenue_type": "Council Tax",
+          "gbp_bn": 2.323
+        },
+        {
+          "revenue_type": "Corporation Tax",
+          "gbp_bn": 2.258
+        },
+        {
+          "revenue_type": "Interest and Dividends",
+          "gbp_bn": 1.947
+        },
+        {
+          "revenue_type": "VAT refunds",
+          "gbp_bn": 1.641
+        },
+        {
+          "revenue_type": "Fuel Duties",
+          "gbp_bn": 1.257
+        },
+        {
+          "revenue_type": "Business rates paid by market sector bodies",
+          "gbp_bn": 0.961
+        },
+        {
+          "revenue_type": "Tobacco Duties",
+          "gbp_bn": 0.554
+        },
+        {
+          "revenue_type": "Alcohol Duties",
+          "gbp_bn": 0.532
+        },
+        {
+          "revenue_type": "Environmental Levies",
+          "gbp_bn": 0.467
+        },
+        {
+          "revenue_type": "Insurance Premium Tax",
+          "gbp_bn": 0.405
+        },
+        {
+          "revenue_type": "Stamp duty land tax",
+          "gbp_bn": 0.341
+        },
+        {
+          "revenue_type": "Vehicle excise duties paid by households",
+          "gbp_bn": 0.252
+        },
+        {
+          "revenue_type": "Capital gains tax",
+          "gbp_bn": 0.249
+        },
+        {
+          "revenue_type": "Custom Duties",
+          "gbp_bn": 0.208
+        },
+        {
+          "revenue_type": "Total Rent and Other Curr Trans",
+          "gbp_bn": 0.201
+        },
+        {
+          "revenue_type": "Other in Other Taxes on Production",
+          "gbp_bn": 0.198
+        },
+        {
+          "revenue_type": "Taxes on capital",
+          "gbp_bn": 0.198
+        },
+        {
+          "revenue_type": "ETS auction receipts",
+          "gbp_bn": 0.188
+        },
+        {
+          "revenue_type": "TV Licence Fees",
+          "gbp_bn": 0.179
+        },
+        {
+          "revenue_type": "Vehicle excise duties paid by businesses",
+          "gbp_bn": 0.172
+        },
+        {
+          "revenue_type": "Betting, Gaming and Gambling Duty",
+          "gbp_bn": 0.156
+        },
+        {
+          "revenue_type": "Apprenticeship Levy",
+          "gbp_bn": 0.144
+        },
+        {
+          "revenue_type": "Climate Change Levy",
+          "gbp_bn": 0.118
+        },
+        {
+          "revenue_type": "Energy profits levy - Population",
+          "gbp_bn": 0.115
+        },
+        {
+          "revenue_type": "Offshore corporation tax - Population",
+          "gbp_bn": 0.103
+        },
+        {
+          "revenue_type": "Visa Fees",
+          "gbp_bn": 0.083
+        },
+        {
+          "revenue_type": "Miscellaneous other current taxes",
+          "gbp_bn": 0.055
+        },
+        {
+          "revenue_type": "Miscellaneous taxes on income and wealth",
+          "gbp_bn": 0.042
+        },
+        {
+          "revenue_type": "Digital Services Tax",
+          "gbp_bn": 0.04
+        },
+        {
+          "revenue_type": "Betting and gaming duty - taxes on income and wealth",
+          "gbp_bn": 0.039
+        },
+        {
+          "revenue_type": "Aggregates Levy",
+          "gbp_bn": 0.036
+        },
+        {
+          "revenue_type": "Landfill tax",
+          "gbp_bn": 0.034
+        },
+        {
+          "revenue_type": "Bank Levy",
+          "gbp_bn": 0.028
+        },
+        {
+          "revenue_type": "Business rates paid by private sector non-profit institutions",
+          "gbp_bn": 0.015
+        },
+        {
+          "revenue_type": "Soft Drinks Industry Levy",
+          "gbp_bn": 0.015
+        },
+        {
+          "revenue_type": "Bank of England Tax Levy",
+          "gbp_bn": 0.013
+        },
+        {
+          "revenue_type": "Stamp Tax on Shares",
+          "gbp_bn": 0.013
+        },
+        {
+          "revenue_type": "Air Passenger Duty",
+          "gbp_bn": 0.011
+        },
+        {
+          "revenue_type": "Plastic packaging tax",
+          "gbp_bn": 0.011
+        },
+        {
+          "revenue_type": "Immigration Skills Charge",
+          "gbp_bn": 0.009
+        },
+        {
+          "revenue_type": "Other - Miscellaneous taxes on income and wealth",
+          "gbp_bn": 0.003
+        },
+        {
+          "revenue_type": "North Sea oil royalties and license fees - Population",
+          "gbp_bn": 0.002
+        }
+      ],
+      "Scotland": [
+        {
+          "revenue_type": "Income Tax",
+          "gbp_bn": 20.696
+        },
+        {
+          "revenue_type": "VAT net of refunds",
+          "gbp_bn": 14.265
+        },
+        {
+          "revenue_type": "Social Contributions",
+          "gbp_bn": 13.001
+        },
+        {
+          "revenue_type": "Gross Operating Surplus",
+          "gbp_bn": 8.343
+        },
+        {
+          "revenue_type": "Corporation Tax",
+          "gbp_bn": 6.007
+        },
+        {
+          "revenue_type": "Interest and Dividends",
+          "gbp_bn": 4.553
+        },
+        {
+          "revenue_type": "Council Tax",
+          "gbp_bn": 3.077
+        },
+        {
+          "revenue_type": "Business rates paid by market sector bodies",
+          "gbp_bn": 2.769
+        },
+        {
+          "revenue_type": "VAT refunds",
+          "gbp_bn": 2.382
+        },
+        {
+          "revenue_type": "Fuel Duties",
+          "gbp_bn": 2.132
+        },
+        {
+          "revenue_type": "Energy profits levy - Geographic",
+          "gbp_bn": 1.999
+        },
+        {
+          "revenue_type": "Offshore corporation tax - Geographic",
+          "gbp_bn": 1.786
+        },
+        {
+          "revenue_type": "Environmental Levies",
+          "gbp_bn": 1.343
+        },
+        {
+          "revenue_type": "Alcohol Duties",
+          "gbp_bn": 1.054
+        },
+        {
+          "revenue_type": "Stamp duty land tax",
+          "gbp_bn": 0.902
+        },
+        {
+          "revenue_type": "Tobacco Duties",
+          "gbp_bn": 0.848
+        },
+        {
+          "revenue_type": "Capital gains tax",
+          "gbp_bn": 0.658
+        },
+        {
+          "revenue_type": "Insurance Premium Tax",
+          "gbp_bn": 0.645
+        },
+        {
+          "revenue_type": "Taxes on capital",
+          "gbp_bn": 0.461
+        },
+        {
+          "revenue_type": "Total Rent and Other Curr Trans",
+          "gbp_bn": 0.431
+        },
+        {
+          "revenue_type": "Air Passenger Duty",
+          "gbp_bn": 0.402
+        },
+        {
+          "revenue_type": "Vehicle excise duties paid by households",
+          "gbp_bn": 0.395
+        },
+        {
+          "revenue_type": "TV Licence Fees",
+          "gbp_bn": 0.343
+        },
+        {
+          "revenue_type": "Other in Other Taxes on Production",
+          "gbp_bn": 0.339
+        },
+        {
+          "revenue_type": "Apprenticeship Levy",
+          "gbp_bn": 0.298
+        },
+        {
+          "revenue_type": "ETS auction receipts",
+          "gbp_bn": 0.285
+        },
+        {
+          "revenue_type": "Custom Duties",
+          "gbp_bn": 0.279
+        },
+        {
+          "revenue_type": "Stamp Tax on Shares",
+          "gbp_bn": 0.272
+        },
+        {
+          "revenue_type": "Vehicle excise duties paid by businesses",
+          "gbp_bn": 0.258
+        },
+        {
+          "revenue_type": "Betting, Gaming and Gambling Duty",
+          "gbp_bn": 0.253
+        },
+        {
+          "revenue_type": "Energy profits levy - Population",
+          "gbp_bn": 0.2
+        },
+        {
+          "revenue_type": "Offshore corporation tax - Population",
+          "gbp_bn": 0.179
+        },
+        {
+          "revenue_type": "Miscellaneous other current taxes",
+          "gbp_bn": 0.175
+        },
+        {
+          "revenue_type": "Climate Change Levy",
+          "gbp_bn": 0.173
+        },
+        {
+          "revenue_type": "Visa Fees",
+          "gbp_bn": 0.149
+        },
+        {
+          "revenue_type": "Bank Levy",
+          "gbp_bn": 0.131
+        },
+        {
+          "revenue_type": "Digital Services Tax",
+          "gbp_bn": 0.07
+        },
+        {
+          "revenue_type": "Miscellaneous taxes on income and wealth",
+          "gbp_bn": 0.069
+        },
+        {
+          "revenue_type": "Betting and gaming duty - taxes on income and wealth",
+          "gbp_bn": 0.064
+        },
+        {
+          "revenue_type": "Bank of England Tax Levy",
+          "gbp_bn": 0.058
+        },
+        {
+          "revenue_type": "Landfill tax",
+          "gbp_bn": 0.056
+        },
+        {
+          "revenue_type": "Aggregates Levy",
+          "gbp_bn": 0.051
+        },
+        {
+          "revenue_type": "Business rates paid by private sector non-profit institutions",
+          "gbp_bn": 0.043
+        },
+        {
+          "revenue_type": "North Sea oil royalties and license fees - Geographic",
+          "gbp_bn": 0.038
+        },
+        {
+          "revenue_type": "Soft Drinks Industry Levy",
+          "gbp_bn": 0.036
+        },
+        {
+          "revenue_type": "Immigration Skills Charge",
+          "gbp_bn": 0.025
+        },
+        {
+          "revenue_type": "Plastic packaging tax",
+          "gbp_bn": 0.012
+        },
+        {
+          "revenue_type": "Other - Miscellaneous taxes on income and wealth",
+          "gbp_bn": 0.005
+        },
+        {
+          "revenue_type": "North Sea oil royalties and license fees - Population",
+          "gbp_bn": 0.004
+        },
+        {
+          "revenue_type": "Annual Tax on Enveloped Dwelling",
+          "gbp_bn": 0.001
+        }
+      ],
+      "Northern Ireland": [
+        {
+          "revenue_type": "Income Tax",
+          "gbp_bn": 5.183
+        },
+        {
+          "revenue_type": "VAT net of refunds",
+          "gbp_bn": 4.741
+        },
+        {
+          "revenue_type": "Social Contributions",
+          "gbp_bn": 3.501
+        },
+        {
+          "revenue_type": "Interest and Dividends",
+          "gbp_bn": 1.53
+        },
+        {
+          "revenue_type": "Corporation Tax",
+          "gbp_bn": 1.502
+        },
+        {
+          "revenue_type": "Gross Operating Surplus",
+          "gbp_bn": 1.407
+        },
+        {
+          "revenue_type": "VAT refunds",
+          "gbp_bn": 1.209
+        },
+        {
+          "revenue_type": "Fuel Duties",
+          "gbp_bn": 0.793
+        },
+        {
+          "revenue_type": "Northern Ireland regional domestic rates",
+          "gbp_bn": 0.498
+        },
+        {
+          "revenue_type": "Northern Ireland district domestic rates",
+          "gbp_bn": 0.441
+        },
+        {
+          "revenue_type": "Alcohol Duties",
+          "gbp_bn": 0.425
+        },
+        {
+          "revenue_type": "Northern Ireland district non-domestic rates",
+          "gbp_bn": 0.378
+        },
+        {
+          "revenue_type": "Northern Ireland Regional Non-Domestic Rates",
+          "gbp_bn": 0.327
+        },
+        {
+          "revenue_type": "Tobacco Duties",
+          "gbp_bn": 0.282
+        },
+        {
+          "revenue_type": "Environmental Levies",
+          "gbp_bn": 0.261
+        },
+        {
+          "revenue_type": "Insurance Premium Tax",
+          "gbp_bn": 0.227
+        },
+        {
+          "revenue_type": "Vehicle excise duties paid by households",
+          "gbp_bn": 0.16
+        },
+        {
+          "revenue_type": "Total Rent and Other Curr Trans",
+          "gbp_bn": 0.134
+        },
+        {
+          "revenue_type": "Capital gains tax",
+          "gbp_bn": 0.123
+        },
+        {
+          "revenue_type": "Other in Other Taxes on Production",
+          "gbp_bn": 0.114
+        },
+        {
+          "revenue_type": "Stamp duty land tax",
+          "gbp_bn": 0.11
+        },
+        {
+          "revenue_type": "Vehicle excise duties paid by businesses",
+          "gbp_bn": 0.109
+        },
+        {
+          "revenue_type": "ETS auction receipts",
+          "gbp_bn": 0.099
+        },
+        {
+          "revenue_type": "TV Licence Fees",
+          "gbp_bn": 0.099
+        },
+        {
+          "revenue_type": "Custom Duties",
+          "gbp_bn": 0.098
+        },
+        {
+          "revenue_type": "Apprenticeship Levy",
+          "gbp_bn": 0.091
+        },
+        {
+          "revenue_type": "Air Passenger Duty",
+          "gbp_bn": 0.089
+        },
+        {
+          "revenue_type": "Betting, Gaming and Gambling Duty",
+          "gbp_bn": 0.089
+        },
+        {
+          "revenue_type": "Energy profits levy - Population",
+          "gbp_bn": 0.07
+        },
+        {
+          "revenue_type": "Taxes on capital",
+          "gbp_bn": 0.068
+        },
+        {
+          "revenue_type": "Offshore corporation tax - Population",
+          "gbp_bn": 0.062
+        },
+        {
+          "revenue_type": "Visa Fees",
+          "gbp_bn": 0.062
+        },
+        {
+          "revenue_type": "Climate Change Levy",
+          "gbp_bn": 0.04
+        },
+        {
+          "revenue_type": "Miscellaneous other current taxes",
+          "gbp_bn": 0.031
+        },
+        {
+          "revenue_type": "Bank Levy",
+          "gbp_bn": 0.029
+        },
+        {
+          "revenue_type": "Aggregates Levy",
+          "gbp_bn": 0.026
+        },
+        {
+          "revenue_type": "Miscellaneous taxes on income and wealth",
+          "gbp_bn": 0.025
+        },
+        {
+          "revenue_type": "Digital Services Tax",
+          "gbp_bn": 0.024
+        },
+        {
+          "revenue_type": "Betting and gaming duty - taxes on income and wealth",
+          "gbp_bn": 0.023
+        },
+        {
+          "revenue_type": "Landfill tax",
+          "gbp_bn": 0.018
+        },
+        {
+          "revenue_type": "Bank of England Tax Levy",
+          "gbp_bn": 0.017
+        },
+        {
+          "revenue_type": "Soft Drinks Industry Levy",
+          "gbp_bn": 0.013
+        },
+        {
+          "revenue_type": "Plastic packaging tax",
+          "gbp_bn": 0.008
+        },
+        {
+          "revenue_type": "Immigration Skills Charge",
+          "gbp_bn": 0.006
+        },
+        {
+          "revenue_type": "Business rates paid by private sector non-profit institutions",
+          "gbp_bn": 0.005
+        },
+        {
+          "revenue_type": "Other - Miscellaneous taxes on income and wealth",
+          "gbp_bn": 0.002
+        },
+        {
+          "revenue_type": "North Sea oil royalties and license fees - Population",
+          "gbp_bn": 0.001
+        }
+      ],
+      "United Kingdom": [
+        {
+          "revenue_type": "Income Tax",
+          "gbp_bn": 305.905
+        },
+        {
+          "revenue_type": "Social Contributions",
+          "gbp_bn": 173.823
+        },
+        {
+          "revenue_type": "VAT net of refunds",
+          "gbp_bn": 173.291
+        },
+        {
+          "revenue_type": "Corporation Tax",
+          "gbp_bn": 93.097
+        },
+        {
+          "revenue_type": "Gross Operating Surplus",
+          "gbp_bn": 78.335
+        },
+        {
+          "revenue_type": "Council Tax",
+          "gbp_bn": 47.416
+        },
+        {
+          "revenue_type": "Interest and Dividends",
+          "gbp_bn": 44.327
+        },
+        {
+          "revenue_type": "VAT refunds",
+          "gbp_bn": 29.435
+        },
+        {
+          "revenue_type": "Business rates paid by market sector bodies",
+          "gbp_bn": 28.547
+        },
+        {
+          "revenue_type": "Fuel Duties",
+          "gbp_bn": 24.359
+        },
+        {
+          "revenue_type": "Stamp duty land tax",
+          "gbp_bn": 15.094
+        },
+        {
+          "revenue_type": "Capital gains tax",
+          "gbp_bn": 13.686
+        },
+        {
+          "revenue_type": "Alcohol Duties",
+          "gbp_bn": 12.545
+        },
+        {
+          "revenue_type": "Environmental Levies",
+          "gbp_bn": 10.034
+        },
+        {
+          "revenue_type": "Insurance Premium Tax",
+          "gbp_bn": 8.94
+        },
+        {
+          "revenue_type": "Taxes on capital",
+          "gbp_bn": 8.286
+        },
+        {
+          "revenue_type": "Tobacco Duties",
+          "gbp_bn": 7.909
+        },
+        {
+          "revenue_type": "Vehicle excise duties paid by households",
+          "gbp_bn": 5.04
+        },
+        {
+          "revenue_type": "Other in Other Taxes on Production",
+          "gbp_bn": 5.019
+        },
+        {
+          "revenue_type": "Custom Duties",
+          "gbp_bn": 4.87
+        },
+        {
+          "revenue_type": "Total Rent and Other Curr Trans",
+          "gbp_bn": 4.737
+        },
+        {
+          "revenue_type": "Stamp Tax on Shares",
+          "gbp_bn": 4.322
+        },
+        {
+          "revenue_type": "Apprenticeship Levy",
+          "gbp_bn": 4.135
+        },
+        {
+          "revenue_type": "Air Passenger Duty",
+          "gbp_bn": 4.131
+        },
+        {
+          "revenue_type": "TV Licence Fees",
+          "gbp_bn": 3.819
+        },
+        {
+          "revenue_type": "ETS auction receipts",
+          "gbp_bn": 3.406
+        },
+        {
+          "revenue_type": "Vehicle excise duties paid by businesses",
+          "gbp_bn": 3.322
+        },
+        {
+          "revenue_type": "Betting, Gaming and Gambling Duty",
+          "gbp_bn": 3.003
+        },
+        {
+          "revenue_type": "Energy profits levy - Geographic",
+          "gbp_bn": 2.499
+        },
+        {
+          "revenue_type": "Energy profits levy - Population",
+          "gbp_bn": 2.499
+        },
+        {
+          "revenue_type": "Visa Fees",
+          "gbp_bn": 2.359
+        },
+        {
+          "revenue_type": "Offshore corporation tax - Geographic",
+          "gbp_bn": 2.233
+        },
+        {
+          "revenue_type": "Offshore corporation tax - Population",
+          "gbp_bn": 2.233
+        },
+        {
+          "revenue_type": "Climate Change Levy",
+          "gbp_bn": 1.842
+        },
+        {
+          "revenue_type": "Bank Levy",
+          "gbp_bn": 1.329
+        },
+        {
+          "revenue_type": "Miscellaneous other current taxes",
+          "gbp_bn": 1.312
+        },
+        {
+          "revenue_type": "Digital Services Tax",
+          "gbp_bn": 0.874
+        },
+        {
+          "revenue_type": "Miscellaneous taxes on income and wealth",
+          "gbp_bn": 0.816
+        },
+        {
+          "revenue_type": "Betting and gaming duty - taxes on income and wealth",
+          "gbp_bn": 0.756
+        },
+        {
+          "revenue_type": "Bank of England Tax Levy",
+          "gbp_bn": 0.733
+        },
+        {
+          "revenue_type": "Landfill tax",
+          "gbp_bn": 0.588
+        },
+        {
+          "revenue_type": "Business rates paid by private sector non-profit institutions",
+          "gbp_bn": 0.582
+        },
+        {
+          "revenue_type": "Immigration Skills Charge",
+          "gbp_bn": 0.518
+        },
+        {
+          "revenue_type": "Northern Ireland regional domestic rates",
+          "gbp_bn": 0.498
+        },
+        {
+          "revenue_type": "Northern Ireland district domestic rates",
+          "gbp_bn": 0.441
+        },
+        {
+          "revenue_type": "Northern Ireland district non-domestic rates",
+          "gbp_bn": 0.378
+        },
+        {
+          "revenue_type": "Aggregates Levy",
+          "gbp_bn": 0.363
+        },
+        {
+          "revenue_type": "Soft Drinks Industry Levy",
+          "gbp_bn": 0.33
+        },
+        {
+          "revenue_type": "Northern Ireland Regional Non-Domestic Rates",
+          "gbp_bn": 0.327
+        },
+        {
+          "revenue_type": "Plastic packaging tax",
+          "gbp_bn": 0.255
+        },
+        {
+          "revenue_type": "Annual Tax on Enveloped Dwelling",
+          "gbp_bn": 0.133
+        },
+        {
+          "revenue_type": "Other - Miscellaneous taxes on income and wealth",
+          "gbp_bn": 0.06
+        },
+        {
+          "revenue_type": "North Sea oil royalties and license fees - Geographic",
+          "gbp_bn": 0.047
+        },
+        {
+          "revenue_type": "North Sea oil royalties and license fees - Population",
+          "gbp_bn": 0.047
+        }
+      ]
+    },
+    "income_tax_by_band_and_region": {
+      "England": {
+        "income_tax_total_bn": 270.98,
+        "by_band_bn": {
+          "savers": 0.56,
+          "basic": 74.42,
+          "higher": 86.59,
+          "additional": 109.41
+        },
+        "by_band_pct": {
+          "savers": 0.2,
+          "basic": 27.5,
+          "higher": 32.0,
+          "additional": 40.4
+        },
+        "payers_by_band_k": {
+          "savers": 395.0,
+          "basic": 24600.0,
+          "higher": 5410.0,
+          "additional": 925.0
+        },
+        "all_payers_k": 31300.0
+      },
+      "North East": {
+        "income_tax_total_bn": 7.13,
+        "by_band_bn": {
+          "savers": 0.02,
+          "basic": 3.11,
+          "higher": 2.48,
+          "additional": 1.52
+        },
+        "by_band_pct": {
+          "savers": 0.2,
+          "basic": 43.6,
+          "higher": 34.8,
+          "additional": 21.3
+        },
+        "payers_by_band_k": {
+          "savers": 13.0,
+          "basic": 1200.0,
+          "higher": 181.0,
+          "additional": 15.0
+        },
+        "all_payers_k": 1410.0
+      },
+      "North West": {
+        "income_tax_total_bn": 23.99,
+        "by_band_bn": {
+          "savers": 0.06,
+          "basic": 9.21,
+          "higher": 8.2,
+          "additional": 6.53
+        },
+        "by_band_pct": {
+          "savers": 0.2,
+          "basic": 38.4,
+          "higher": 34.2,
+          "additional": 27.2
+        },
+        "payers_by_band_k": {
+          "savers": 45.0,
+          "basic": 3310.0,
+          "higher": 557.0,
+          "additional": 60.0
+        },
+        "all_payers_k": 3970.0
+      },
+      "Yorkshire and The Humber": {
+        "income_tax_total_bn": 16.59,
+        "by_band_bn": {
+          "savers": 0.04,
+          "basic": 6.73,
+          "higher": 5.55,
+          "additional": 4.26
+        },
+        "by_band_pct": {
+          "savers": 0.3,
+          "basic": 40.6,
+          "higher": 33.5,
+          "additional": 25.7
+        },
+        "payers_by_band_k": {
+          "savers": 33.0,
+          "basic": 2470.0,
+          "higher": 385.0,
+          "additional": 40.0
+        },
+        "all_payers_k": 2930.0
+      },
+      "East Midlands": {
+        "income_tax_total_bn": 16.12,
+        "by_band_bn": {
+          "savers": 0.04,
+          "basic": 6.06,
+          "higher": 5.49,
+          "additional": 4.53
+        },
+        "by_band_pct": {
+          "savers": 0.2,
+          "basic": 37.6,
+          "higher": 34.0,
+          "additional": 28.1
+        },
+        "payers_by_band_k": {
+          "savers": 31.0,
+          "basic": 2250.0,
+          "higher": 385.0,
+          "additional": 43.0
+        },
+        "all_payers_k": 2710.0
+      },
+      "West Midlands": {
+        "income_tax_total_bn": 18.62,
+        "by_band_bn": {
+          "savers": 0.04,
+          "basic": 7.12,
+          "higher": 6.39,
+          "additional": 5.08
+        },
+        "by_band_pct": {
+          "savers": 0.2,
+          "basic": 38.2,
+          "higher": 34.3,
+          "additional": 27.3
+        },
+        "payers_by_band_k": {
+          "savers": 32.0,
+          "basic": 2630.0,
+          "higher": 446.0,
+          "additional": 48.0
+        },
+        "all_payers_k": 3160.0
+      },
+      "East of England": {
+        "income_tax_total_bn": 31.92,
+        "by_band_bn": {
+          "savers": 0.06,
+          "basic": 8.13,
+          "higher": 10.49,
+          "additional": 13.24
+        },
+        "by_band_pct": {
+          "savers": 0.2,
+          "basic": 25.5,
+          "higher": 32.9,
+          "additional": 41.5
+        },
+        "payers_by_band_k": {
+          "savers": 47.0,
+          "basic": 2810.0,
+          "higher": 685.0,
+          "additional": 117.0
+        },
+        "all_payers_k": 3660.0
+      },
+      "London": {
+        "income_tax_total_bn": 79.17,
+        "by_band_bn": {
+          "savers": 0.1,
+          "basic": 11.97,
+          "higher": 22.15,
+          "additional": 44.94
+        },
+        "by_band_pct": {
+          "savers": 0.1,
+          "basic": 15.1,
+          "higher": 28.0,
+          "additional": 56.8
+        },
+        "payers_by_band_k": {
+          "savers": 61.0,
+          "basic": 3260.0,
+          "higher": 1140.0,
+          "additional": 313.0
+        },
+        "all_payers_k": 4770.0
+      },
+      "South East": {
+        "income_tax_total_bn": 55.88,
+        "by_band_bn": {
+          "savers": 0.12,
+          "basic": 11.87,
+          "higher": 17.67,
+          "additional": 26.23
+        },
+        "by_band_pct": {
+          "savers": 0.2,
+          "basic": 21.2,
+          "higher": 31.6,
+          "additional": 46.9
+        },
+        "payers_by_band_k": {
+          "savers": 86.0,
+          "basic": 3980.0,
+          "higher": 1120.0,
+          "additional": 225.0
+        },
+        "all_payers_k": 5410.0
+      },
+      "South West": {
+        "income_tax_total_bn": 21.55,
+        "by_band_bn": {
+          "savers": 0.06,
+          "basic": 7.37,
+          "higher": 7.38,
+          "additional": 6.75
+        },
+        "by_band_pct": {
+          "savers": 0.3,
+          "basic": 34.2,
+          "higher": 34.2,
+          "additional": 31.3
+        },
+        "payers_by_band_k": {
+          "savers": 46.0,
+          "basic": 2690.0,
+          "higher": 509.0,
+          "additional": 63.0
+        },
+        "all_payers_k": 3310.0
+      },
+      "Wales": {
+        "income_tax_total_bn": 9.05,
+        "by_band_bn": {
+          "savers": 0.02,
+          "basic": 4.03,
+          "higher": 3.14,
+          "additional": 1.86
+        },
+        "by_band_pct": {
+          "savers": 0.2,
+          "basic": 44.5,
+          "higher": 34.7,
+          "additional": 20.6
+        },
+        "payers_by_band_k": {
+          "savers": 16.0,
+          "basic": 1440.0,
+          "higher": 212.0,
+          "additional": 17.0
+        },
+        "all_payers_k": 1690.0
+      },
+      "Scotland": {
+        "income_tax_total_bn": 20.7,
+        "by_band_bn": {
+          "savers": 0.04,
+          "basic": 4.17,
+          "higher": 5.11,
+          "additional": 11.37
+        },
+        "by_band_pct": {
+          "savers": 0.2,
+          "basic": 20.2,
+          "higher": 24.7,
+          "additional": 55.0
+        },
+        "payers_by_band_k": {
+          "savers": 47.0,
+          "basic": 2280.0,
+          "higher": 528.0,
+          "additional": 159.0
+        },
+        "all_payers_k": 3020.0
+      },
+      "Northern Ireland": {
+        "income_tax_total_bn": 5.18,
+        "by_band_bn": {
+          "savers": 0.01,
+          "basic": 2.25,
+          "higher": 1.7,
+          "additional": 1.22
+        },
+        "by_band_pct": {
+          "savers": 0.2,
+          "basic": 43.5,
+          "higher": 32.8,
+          "additional": 23.6
+        },
+        "payers_by_band_k": {
+          "savers": 6.0,
+          "basic": 792.0,
+          "higher": 113.0,
+          "additional": 11.0
+        },
+        "all_payers_k": 922.0
+      }
+    },
+    "council_tax_by_band_and_region": {
+      "reference_date": "2024-09-15 (England/Wales VOA); 2024-12 (Scotland NRS)",
+      "method": "Property counts from VOA CTSOP (England regions, Wales) and NRS dwelling estimates (Scotland). Receipts allocated to bands proportionally to Band-D-equivalent dwellings (A=6/9 \u2026 H=18/9, I=21/9), scaled to ONS regional council tax totals.",
+      "northern_ireland_note": "Northern Ireland has no council tax; domestic rates are reported separately in ONS revenue tables (not split by property band).",
+      "by_region": {
+        "North East": {
+          "council_tax_total_bn": 1.789,
+          "dwellings_by_band": {
+            "A": 667690,
+            "B": 206190,
+            "C": 195380,
+            "D": 112800,
+            "E": 60640,
+            "F": 26420,
+            "G": 14530,
+            "H": 1560
+          },
+          "dwellings_total": 1285210,
+          "band_d_equivalent_dwellings": 1031582,
+          "estimated_receipts_by_band_bn": {
+            "A": 0.772,
+            "B": 0.278,
+            "C": 0.301,
+            "D": 0.196,
+            "E": 0.129,
+            "F": 0.066,
+            "G": 0.042,
+            "H": 0.005
+          },
+          "estimated_receipts_by_band_pct": {
+            "A": 43.2,
+            "B": 15.5,
+            "C": 16.8,
+            "D": 11.0,
+            "E": 7.2,
+            "F": 3.7,
+            "G": 2.3,
+            "H": 0.3
+          }
+        },
+        "North West": {
+          "council_tax_total_bn": 5.144,
+          "dwellings_by_band": {
+            "A": 1384780,
+            "B": 703530,
+            "C": 614110,
+            "D": 362680,
+            "E": 215610,
+            "F": 103850,
+            "G": 65470,
+            "H": 7310
+          },
+          "dwellings_total": 3457340,
+          "band_d_equivalent_dwellings": 2916198,
+          "estimated_receipts_by_band_bn": {
+            "A": 1.628,
+            "B": 0.965,
+            "C": 0.963,
+            "D": 0.64,
+            "E": 0.465,
+            "F": 0.265,
+            "G": 0.192,
+            "H": 0.026
+          },
+          "estimated_receipts_by_band_pct": {
+            "A": 31.6,
+            "B": 18.8,
+            "C": 18.7,
+            "D": 12.4,
+            "E": 9.0,
+            "F": 5.2,
+            "G": 3.7,
+            "H": 0.5
+          }
+        },
+        "Yorkshire and The Humber": {
+          "council_tax_total_bn": 3.653,
+          "dwellings_by_band": {
+            "A": 1070170,
+            "B": 512510,
+            "C": 430630,
+            "D": 248670,
+            "E": 157820,
+            "F": 75410,
+            "G": 42030,
+            "H": 3750
+          },
+          "dwellings_total": 2540990,
+          "band_d_equivalent_dwellings": 2122884,
+          "estimated_receipts_by_band_bn": {
+            "A": 1.228,
+            "B": 0.686,
+            "C": 0.659,
+            "D": 0.428,
+            "E": 0.332,
+            "F": 0.187,
+            "G": 0.121,
+            "H": 0.013
+          },
+          "estimated_receipts_by_band_pct": {
+            "A": 33.6,
+            "B": 18.8,
+            "C": 18.0,
+            "D": 11.7,
+            "E": 9.1,
+            "F": 5.1,
+            "G": 3.3,
+            "H": 0.4
+          }
+        },
+        "East Midlands": {
+          "council_tax_total_bn": 3.488,
+          "dwellings_by_band": {
+            "A": 802610,
+            "B": 503670,
+            "C": 401930,
+            "D": 246680,
+            "E": 154030,
+            "F": 73600,
+            "G": 39220,
+            "H": 3450
+          },
+          "dwellings_total": 2225190,
+          "band_d_equivalent_dwellings": 1897604,
+          "estimated_receipts_by_band_bn": {
+            "A": 0.984,
+            "B": 0.72,
+            "C": 0.657,
+            "D": 0.453,
+            "E": 0.346,
+            "F": 0.195,
+            "G": 0.12,
+            "H": 0.013
+          },
+          "estimated_receipts_by_band_pct": {
+            "A": 28.2,
+            "B": 20.6,
+            "C": 18.8,
+            "D": 13.0,
+            "E": 9.9,
+            "F": 5.6,
+            "G": 3.4,
+            "H": 0.4
+          }
+        },
+        "West Midlands": {
+          "council_tax_total_bn": 3.959,
+          "dwellings_by_band": {
+            "A": 785230,
+            "B": 652960,
+            "C": 524190,
+            "D": 301200,
+            "E": 192880,
+            "F": 105130,
+            "G": 62580,
+            "H": 6130
+          },
+          "dwellings_total": 2630300,
+          "band_d_equivalent_dwellings": 2302648,
+          "estimated_receipts_by_band_bn": {
+            "A": 0.9,
+            "B": 0.873,
+            "C": 0.801,
+            "D": 0.518,
+            "E": 0.405,
+            "F": 0.261,
+            "G": 0.179,
+            "H": 0.021
+          },
+          "estimated_receipts_by_band_pct": {
+            "A": 22.7,
+            "B": 22.1,
+            "C": 20.2,
+            "D": 13.1,
+            "E": 10.2,
+            "F": 6.6,
+            "G": 4.5,
+            "H": 0.5
+          }
+        },
+        "East of England": {
+          "council_tax_total_bn": 5.001,
+          "dwellings_by_band": {
+            "A": 402420,
+            "B": 597740,
+            "C": 737600,
+            "D": 504810,
+            "E": 312510,
+            "F": 172110,
+            "G": 113320,
+            "H": 14760
+          },
+          "dwellings_total": 2855270,
+          "band_d_equivalent_dwellings": 2742590,
+          "estimated_receipts_by_band_bn": {
+            "A": 0.489,
+            "B": 0.848,
+            "C": 1.196,
+            "D": 0.921,
+            "E": 0.696,
+            "F": 0.453,
+            "G": 0.344,
+            "H": 0.054
+          },
+          "estimated_receipts_by_band_pct": {
+            "A": 9.8,
+            "B": 17.0,
+            "C": 23.9,
+            "D": 18.4,
+            "E": 13.9,
+            "F": 9.1,
+            "G": 6.9,
+            "H": 1.1
+          }
+        },
+        "London": {
+          "council_tax_total_bn": 6.14,
+          "dwellings_by_band": {
+            "A": 144240,
+            "B": 497730,
+            "C": 1036590,
+            "D": 973560,
+            "E": 583590,
+            "F": 297690,
+            "G": 224740,
+            "H": 68380
+          },
+          "dwellings_total": 3826520,
+          "band_d_equivalent_dwellings": 4032857,
+          "estimated_receipts_by_band_bn": {
+            "A": 0.146,
+            "B": 0.589,
+            "C": 1.403,
+            "D": 1.482,
+            "E": 1.086,
+            "F": 0.655,
+            "G": 0.57,
+            "H": 0.208
+          },
+          "estimated_receipts_by_band_pct": {
+            "A": 2.4,
+            "B": 9.6,
+            "C": 22.9,
+            "D": 24.1,
+            "E": 17.7,
+            "F": 10.7,
+            "G": 9.3,
+            "H": 3.4
+          }
+        },
+        "South East": {
+          "council_tax_total_bn": 8.057,
+          "dwellings_by_band": {
+            "A": 366990,
+            "B": 685480,
+            "C": 1073330,
+            "D": 841000,
+            "E": 550080,
+            "F": 336130,
+            "G": 265010,
+            "H": 40210
+          },
+          "dwellings_total": 4158230,
+          "band_d_equivalent_dwellings": 4252827,
+          "estimated_receipts_by_band_bn": {
+            "A": 0.464,
+            "B": 1.01,
+            "C": 1.807,
+            "D": 1.593,
+            "E": 1.274,
+            "F": 0.92,
+            "G": 0.837,
+            "H": 0.152
+          },
+          "estimated_receipts_by_band_pct": {
+            "A": 5.8,
+            "B": 12.5,
+            "C": 22.4,
+            "D": 19.8,
+            "E": 15.8,
+            "F": 11.4,
+            "G": 10.4,
+            "H": 1.9
+          }
+        },
+        "South West": {
+          "council_tax_total_bn": 4.785,
+          "dwellings_by_band": {
+            "A": 471380,
+            "B": 643470,
+            "C": 622140,
+            "D": 430610,
+            "E": 290810,
+            "F": 147490,
+            "G": 81690,
+            "H": 8390
+          },
+          "dwellings_total": 2695980,
+          "band_d_equivalent_dwellings": 2519759,
+          "estimated_receipts_by_band_bn": {
+            "A": 0.597,
+            "B": 0.95,
+            "C": 1.05,
+            "D": 0.818,
+            "E": 0.675,
+            "F": 0.405,
+            "G": 0.259,
+            "H": 0.032
+          },
+          "estimated_receipts_by_band_pct": {
+            "A": 12.5,
+            "B": 19.9,
+            "C": 21.9,
+            "D": 17.1,
+            "E": 14.1,
+            "F": 8.5,
+            "G": 5.4,
+            "H": 0.7
+          }
+        },
+        "Wales": {
+          "council_tax_total_bn": 2.323,
+          "dwellings_by_band": {
+            "A": 215020,
+            "B": 306550,
+            "C": 322330,
+            "D": 240650,
+            "E": 200410,
+            "F": 122340,
+            "G": 55090,
+            "H": 13180,
+            "I": 5660
+          },
+          "dwellings_total": 1481230,
+          "band_d_equivalent_dwellings": 1461982,
+          "estimated_receipts_by_band_bn": {
+            "A": 0.228,
+            "B": 0.379,
+            "C": 0.455,
+            "D": 0.382,
+            "E": 0.389,
+            "F": 0.281,
+            "G": 0.146,
+            "H": 0.042,
+            "I": 0.021
+          },
+          "estimated_receipts_by_band_pct": {
+            "A": 9.8,
+            "B": 16.3,
+            "C": 19.6,
+            "D": 16.4,
+            "E": 16.7,
+            "F": 12.1,
+            "G": 6.3,
+            "H": 1.8,
+            "I": 0.9
+          }
+        },
+        "Scotland": {
+          "council_tax_total_bn": 3.077,
+          "dwellings_by_band": {
+            "A": 551378,
+            "B": 611746,
+            "C": 443882,
+            "D": 381743,
+            "E": 377422,
+            "F": 224766,
+            "G": 143259,
+            "H": 14954
+          },
+          "dwellings_total": 2749150,
+          "band_d_equivalent_dwellings": 2674321,
+          "estimated_receipts_by_band_bn": {
+            "A": 0.423,
+            "B": 0.547,
+            "C": 0.454,
+            "D": 0.439,
+            "E": 0.531,
+            "F": 0.374,
+            "G": 0.275,
+            "H": 0.034
+          },
+          "estimated_receipts_by_band_pct": {
+            "A": 13.7,
+            "B": 17.8,
+            "C": 14.8,
+            "D": 14.3,
+            "E": 17.3,
+            "F": 12.2,
+            "G": 8.9,
+            "H": 1.1
+          }
+        }
+      }
+    }
+  }
+}

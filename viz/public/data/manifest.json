@@ -1,0 +1,26 @@
+{
+  "generated_by": "scripts/export_viz_data.py",
+  "format": "csv",
+  "target_database": "postgresql (supabase)",
+  "tables": {
+    "regions.csv": "dimension \u2014 ITL1 regions and nations",
+    "financial_years.csv": "dimension \u2014 FY labels",
+    "cofog_functions.csv": "dimension \u2014 COFOG Level 0 functions",
+    "revenue_types.csv": "dimension \u2014 tax and non-tax revenue types",
+    "uk_fiscal_summary.csv": "fact \u2014 UK headline fiscal metrics by FYE",
+    "uk_spending_by_function.csv": "fact \u2014 UK spend by function (snapshot)",
+    "regional_fiscal.csv": "fact \u2014 regional revenue, spend, balance",
+    "regional_revenue_by_type.csv": "fact \u2014 regional revenue decomposition",
+    "pesa_tme_history.csv": "fact \u2014 UK TME time series (1967-68+)",
+    "pesa_spending_by_function_history.csv": "fact \u2014 UK function spend time series"
+  },
+  "row_counts": {
+    "years": 59,
+    "functions": 15,
+    "revenue_types": 12,
+    "uk_fiscal_summary": 5,
+    "regional_fiscal": 13,
+    "pesa_tme_history": 59,
+    "pesa_function_history": 380
+  }
+}

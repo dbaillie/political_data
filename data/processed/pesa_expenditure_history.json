@@ -1,0 +1,1935 @@
+{
+  "method": "Merged HM Treasury PESA chapter 4 table 4.1 (TME aggregates) and table 4.2 (spending by COFOG function) from GOV.UK editions 2010\u20132025. Overlapping years use the latest edition. Values are nominal \u00a3 billion.",
+  "source_editions": [
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "tme": {
+    "financial_years": [
+      "1967-68",
+      "1968-69",
+      "1969-70",
+      "1970-71",
+      "1971-72",
+      "1972-73",
+      "1973-74",
+      "1974-75",
+      "1975-76",
+      "1976-77",
+      "1977-78",
+      "1978-79",
+      "1979-80",
+      "1980-81",
+      "1981-82",
+      "1982-83",
+      "1983-84",
+      "1984-85",
+      "1985-86",
+      "1986-87",
+      "1987-88",
+      "1988-89",
+      "1989-90",
+      "1990-91",
+      "1991-92",
+      "1992-93",
+      "1993-94",
+      "1994-95",
+      "1995-96",
+      "1996-97",
+      "1997-98",
+      "1998-99",
+      "1999-00",
+      "2000-01",
+      "2001-02",
+      "2002-03",
+      "2003-04",
+      "2004-05",
+      "2005-06",
+      "2006-07",
+      "2007-08",
+      "2008-09",
+      "2009-10",
+      "2010-11",
+      "2011-12",
+      "2012-13",
+      "2013-14",
+      "2014-15",
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20",
+      "2020-21",
+      "2021-22",
+      "2022-23",
+      "2023-24",
+      "2024-25",
+      "2025-26"
+    ],
+    "first_year": "1967-68",
+    "last_year": "2025-26",
+    "total_managed_expenditure_gbp_bn": {
+      "1967-68": 18.3,
+      "1968-69": 19.3,
+      "1969-70": 20.3,
+      "1970-71": 22.7,
+      "1971-72": 25.2,
+      "1972-73": 28.5,
+      "1973-74": 33.4,
+      "1974-75": 43.9,
+      "1975-76": 56.1,
+      "1976-77": 64.1,
+      "1977-78": 70.2,
+      "1978-79": 79.7,
+      "1979-80": 95.3,
+      "1980-81": 114.7,
+      "1981-82": 127.9,
+      "1982-83": 141.4,
+      "1983-84": 153.2,
+      "1984-85": 163.9,
+      "1985-86": 171.3,
+      "1986-87": 179.0,
+      "1987-88": 190.1,
+      "1988-89": 197.2,
+      "1989-90": 218.8,
+      "1990-91": 237.7,
+      "1991-92": 263.4,
+      "1992-93": 283.3,
+      "1993-94": 296.1,
+      "1994-95": 308.5,
+      "1995-96": 322.8,
+      "1996-97": 328.4,
+      "1997-98": 344.4,
+      "1998-99": 355.1,
+      "1999-00": 367.7,
+      "2000-01": 390.8,
+      "2001-02": 418.7,
+      "2002-03": 454.0,
+      "2003-04": 495.3,
+      "2004-05": 535.9,
+      "2005-06": 566.5,
+      "2006-07": 594.0,
+      "2007-08": 631.3,
+      "2008-09": 688.4,
+      "2009-10": 723.1,
+      "2010-11": 744.2,
+      "2011-12": 745.5,
+      "2012-13": 760.0,
+      "2013-14": 766.6,
+      "2014-15": 788.2,
+      "2015-16": 795.9,
+      "2016-17": 813.2,
+      "2017-18": 840.3,
+      "2018-19": 857.6,
+      "2019-20": 888.7,
+      "2020-21": 1107.2,
+      "2021-22": 1043.7,
+      "2022-23": 1161.0,
+      "2023-24": 1229.0,
+      "2024-25": 1285.2,
+      "2025-26": 1347.2
+    }
+  },
+  "spending_by_function": {
+    "financial_years": [
+      "1987-88",
+      "1988-89",
+      "1989-90",
+      "1990-91",
+      "1991-92",
+      "1992-93",
+      "1993-94",
+      "1994-95",
+      "1995-96",
+      "1996-97",
+      "1997-98",
+      "1998-99",
+      "1999-00",
+      "2000-01",
+      "2001-02",
+      "2002-03",
+      "2003-04",
+      "2004-05",
+      "2005-06",
+      "2006-07",
+      "2007-08",
+      "2008-09",
+      "2009-10",
+      "2010-11",
+      "2011-12",
+      "2012-13",
+      "2013-14",
+      "2014-15",
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20",
+      "2020-21",
+      "2021-22",
+      "2022-23",
+      "2023-24",
+      "2024-25"
+    ],
+    "first_year": "1987-88",
+    "last_year": "2024-25",
+    "uk_by_function": {
+      "1987-88": {
+        "10. Social protection": {
+          "gbp_bn": 55.1,
+          "pct": 30.9
+        },
+        "1. General public services": {
+          "gbp_bn": 25.0,
+          "pct": 14.0
+        },
+        "9. Education": {
+          "gbp_bn": 21.2,
+          "pct": 11.9
+        },
+        "7. Health": {
+          "gbp_bn": 20.3,
+          "pct": 11.4
+        },
+        "2. Defence": {
+          "gbp_bn": 19.1,
+          "pct": 10.7
+        },
+        "4. Economic affairs": {
+          "gbp_bn": 19.0,
+          "pct": 10.7
+        },
+        "3. Public order and safety": {
+          "gbp_bn": 8.1,
+          "pct": 4.5
+        },
+        "6. Housing and community amenities": {
+          "gbp_bn": 4.6,
+          "pct": 2.6
+        },
+        "8. Recreation, culture and religion": {
+          "gbp_bn": 3.5,
+          "pct": 2.0
+        },
+        "5. Environment protection": {
+          "gbp_bn": 2.4,
+          "pct": 1.3
+        }
+      },
+      "1988-89": {
+        "10. Social protection": {
+          "gbp_bn": 56.8,
+          "pct": 30.6
+        },
+        "1. General public services": {
+          "gbp_bn": 26.0,
+          "pct": 14.0
+        },
+        "9. Education": {
+          "gbp_bn": 23.1,
+          "pct": 12.5
+        },
+        "7. Health": {
+          "gbp_bn": 22.4,
+          "pct": 12.1
+        },
+        "2. Defence": {
+          "gbp_bn": 19.4,
+          "pct": 10.5
+        },
+        "4. Economic affairs": {
+          "gbp_bn": 18.7,
+          "pct": 10.1
+        },
+        "3. Public order and safety": {
+          "gbp_bn": 9.0,
+          "pct": 4.9
+        },
+        "8. Recreation, culture and religion": {
+          "gbp_bn": 3.8,
+          "pct": 2.0
+        },
+        "6. Housing and community amenities": {
+          "gbp_bn": 3.6,
+          "pct": 1.9
+        },
+        "5. Environment protection": {
+          "gbp_bn": 2.6,
+          "pct": 1.4
+        }
+      },
+      "1989-90": {
+        "10. Social protection": {
+          "gbp_bn": 61.3,
+          "pct": 30.2
+        },
+        "1. General public services": {
+          "gbp_bn": 27.9,
+          "pct": 13.8
+        },
+        "9. Education": {
+          "gbp_bn": 25.9,
+          "pct": 12.8
+        },
+        "7. Health": {
+          "gbp_bn": 24.2,
+          "pct": 11.9
+        },
+        "2. Defence": {
+          "gbp_bn": 21.0,
+          "pct": 10.4
+        },
+        "4. Economic affairs": {
+          "gbp_bn": 19.6,
+          "pct": 9.7
+        },
+        "3. Public order and safety": {
+          "gbp_bn": 10.3,
+          "pct": 5.1
+        },
+        "6. Housing and community amenities": {
+          "gbp_bn": 5.3,
+          "pct": 2.6
+        },
+        "8. Recreation, culture and religion": {
+          "gbp_bn": 4.3,
+          "pct": 2.1
+        },
+        "5. Environment protection": {
+          "gbp_bn": 2.9,
+          "pct": 1.4
+        }
+      },
+      "1990-91": {
+        "10. Social protection": {
+          "gbp_bn": 68.2,
+          "pct": 30.9
+        },
+        "1. General public services": {
+          "gbp_bn": 28.1,
+          "pct": 12.7
+        },
+        "9. Education": {
+          "gbp_bn": 28.1,
+          "pct": 12.7
+        },
+        "7. Health": {
+          "gbp_bn": 27.1,
+          "pct": 12.3
+        },
+        "2. Defence": {
+          "gbp_bn": 22.0,
+          "pct": 10.0
+        },
+        "4. Economic affairs": {
+          "gbp_bn": 21.5,
+          "pct": 9.7
+        },
+        "3. Public order and safety": {
+          "gbp_bn": 11.7,
+          "pct": 5.3
+        },
+        "6. Housing and community amenities": {
+          "gbp_bn": 6.0,
+          "pct": 2.7
+        },
+        "8. Recreation, culture and religion": {
+          "gbp_bn": 4.8,
+          "pct": 2.2
+        },
+        "5. Environment protection": {
+          "gbp_bn": 3.2,
+          "pct": 1.4
+        }
+      },
+      "1991-92": {
+        "10. Social protection": {
+          "gbp_bn": 80.2,
+          "pct": 33.1
+        },
+        "9. Education(2)": {
+          "gbp_bn": 31.3,
+          "pct": 12.9
+        },
+        "7. Health": {
+          "gbp_bn": 30.9,
+          "pct": 12.8
+        },
+        "1. General public services": {
+          "gbp_bn": 26.9,
+          "pct": 11.1
+        },
+        "2. Defence": {
+          "gbp_bn": 23.2,
+          "pct": 9.6
+        },
+        "4. Economic affairs": {
+          "gbp_bn": 21.4,
+          "pct": 8.8
+        },
+        "3. Public order and safety": {
+          "gbp_bn": 13.2,
+          "pct": 5.4
+        },
+        "6. Housing and community amenities": {
+          "gbp_bn": 6.8,
+          "pct": 2.8
+        },
+        "8. Recreation, culture and religion": {
+          "gbp_bn": 5.0,
+          "pct": 2.1
+        },
+        "5. Environment protection": {
+          "gbp_bn": 3.4,
+          "pct": 1.4
+        }
+      },
+      "1992-93": {
+        "10. Social protection": {
+          "gbp_bn": 91.1,
+          "pct": 34.5
+        },
+        "7. Health": {
+          "gbp_bn": 34.2,
+          "pct": 13.0
+        },
+        "9. Education(3)": {
+          "gbp_bn": 33.2,
+          "pct": 12.6
+        },
+        "1. General public services": {
+          "gbp_bn": 27.9,
+          "pct": 10.6
+        },
+        "2. Defence": {
+          "gbp_bn": 23.8,
+          "pct": 9.0
+        },
+        "4. Economic affairs": {
+          "gbp_bn": 23.3,
+          "pct": 8.8
+        },
+        "3. Public order and safety": {
+          "gbp_bn": 14.4,
+          "pct": 5.5
+        },
+        "6. Housing and community amenities": {
+          "gbp_bn": 7.1,
+          "pct": 2.7
+        },
+        "8. Recreation, culture and religion": {
+          "gbp_bn": 5.1,
+          "pct": 1.9
+        },
+        "5. Environment protection": {
+          "gbp_bn": 3.6,
+          "pct": 1.4
+        }
+      },
+      "1993-94": {
+        "10. Social protection": {
+          "gbp_bn": 98.3,
+          "pct": 35.6
+        },
+        "7. Health": {
+          "gbp_bn": 36.6,
+          "pct": 13.2
+        },
+        "9. Education": {
+          "gbp_bn": 34.7,
+          "pct": 12.5
+        },
+        "1. General public services": {
+          "gbp_bn": 29.8,
+          "pct": 10.8
+        },
+        "4. Economic affairs": {
+          "gbp_bn": 23.9,
+          "pct": 8.6
+        },
+        "2. Defence(1)": {
+          "gbp_bn": 23.5,
+          "pct": 8.5
+        },
+        "3. Public order and safety": {
+          "gbp_bn": 15.0,
+          "pct": 5.4
+        },
+        "6. Housing and community amenities": {
+          "gbp_bn": 6.2,
+          "pct": 2.2
+        },
+        "8. Recreation, culture and religion": {
+          "gbp_bn": 5.1,
+          "pct": 1.8
+        },
+        "5. Environment protection": {
+          "gbp_bn": 3.4,
+          "pct": 1.2
+        }
+      },
+      "1994-95": {
+        "10. Social protection": {
+          "gbp_bn": 102.0,
+          "pct": 35.4
+        },
+        "7. Health": {
+          "gbp_bn": 39.4,
+          "pct": 13.7
+        },
+        "9. Education (5)": {
+          "gbp_bn": 36.2,
+          "pct": 12.6
+        },
+        "1. General public services": {
+          "gbp_bn": 32.7,
+          "pct": 11.3
+        },
+        "4. Economic affairs": {
+          "gbp_bn": 23.9,
+          "pct": 8.3
+        },
+        "2. Defence(1)": {
+          "gbp_bn": 23.3,
+          "pct": 8.1
+        },
+        "3. Public order and safety": {
+          "gbp_bn": 15.6,
+          "pct": 5.4
+        },
+        "6. Housing and community amenities": {
+          "gbp_bn": 6.2,
+          "pct": 2.2
+        },
+        "8. Recreation, culture and religion": {
+          "gbp_bn": 5.2,
+          "pct": 1.8
+        },
+        "5. Environment protection": {
+          "gbp_bn": 3.8,
+          "pct": 1.3
+        }
+      },
+      "1995-96": {
+        "10. Social protection": {
+          "gbp_bn": 107.6,
+          "pct": 35.9
+        },
+        "7. Health": {
+          "gbp_bn": 41.4,
+          "pct": 13.8
+        },
+        "9. Education (5)": {
+          "gbp_bn": 37.0,
+          "pct": 12.3
+        },
+        "1. General public services": {
+          "gbp_bn": 36.3,
+          "pct": 12.1
+        },
+        "4. Economic affairs": {
+          "gbp_bn": 23.6,
+          "pct": 7.9
+        },
+        "2. Defence(1)": {
+          "gbp_bn": 22.5,
+          "pct": 7.5
+        },
+        "3. Public order and safety": {
+          "gbp_bn": 16.0,
+          "pct": 5.3
+        },
+        "6. Housing and community amenities": {
+          "gbp_bn": 6.0,
+          "pct": 2.0
+        },
+        "8. Recreation, culture and religion": {
+          "gbp_bn": 5.5,
+          "pct": 1.8
+        },
+        "5. Environment protection": {
+          "gbp_bn": 4.1,
+          "pct": 1.4
+        }
+      },
+      "1996-97": {
+        "10. Social protection": {
+          "gbp_bn": 112.8,
+          "pct": 36.6
+        },
+        "7. Health": {
+          "gbp_bn": 42.8,
+          "pct": 13.9
+        },
+        "9. Education (5)": {
+          "gbp_bn": 37.8,
+          "pct": 12.3
+        },
+        "1. General public services": {
+          "gbp_bn": 37.4,
+          "pct": 12.2
+        },
+        "4. Economic affairs": {
+          "gbp_bn": 23.4,
+          "pct": 7.6
+        },
+        "2. Defence(1)": {
+          "gbp_bn": 22.1,
+          "pct": 7.2
+        },
+        "3. Public order and safety": {
+          "gbp_bn": 16.4,
+          "pct": 5.3
+        },
+        "6. Housing and community amenities": {
+          "gbp_bn": 5.7,
+          "pct": 1.9
+        },
+        "8. Recreation, culture and religion": {
+          "gbp_bn": 5.7,
+          "pct": 1.9
+        },
+        "5. Environment protection": {
+          "gbp_bn": 3.7,
+          "pct": 1.2
+        }
+      },
+      "1997-98": {
+        "10. Social protection": {
+          "gbp_bn": 114.5,
+          "pct": 35.9
+        },
+        "1. General public services": {
+          "gbp_bn": 45.3,
+          "pct": 14.2
+        },
+        "7. Health": {
+          "gbp_bn": 44.5,
+          "pct": 14.0
+        },
+        "9. Education (5)": {
+          "gbp_bn": 38.6,
+          "pct": 12.1
+        },
+        "2. Defence(1)": {
+          "gbp_bn": 21.7,
+          "pct": 6.8
+        },
+        "4. Economic affairs": {
+          "gbp_bn": 21.6,
+          "pct": 6.8
+        },
+        "3. Public order and safety": {
+          "gbp_bn": 17.1,
+          "pct": 5.4
+        },
+        "8. Recreation, culture and religion": {
+          "gbp_bn": 6.4,
+          "pct": 2.0
+        },
+        "6. Housing and community amenities": {
+          "gbp_bn": 4.9,
+          "pct": 1.5
+        },
+        "5. Environment protection": {
+          "gbp_bn": 4.0,
+          "pct": 1.3
+        }
+      },
+      "1998-99": {
+        "10. Social protection": {
+          "gbp_bn": 115.2,
+          "pct": 35.2
+        },
+        "7. Health": {
+          "gbp_bn": 46.9,
+          "pct": 14.3
+        },
+        "1. General public services": {
+          "gbp_bn": 46.3,
+          "pct": 14.1
+        },
+        "9. Education (5)": {
+          "gbp_bn": 40.0,
+          "pct": 12.2
+        },
+        "2. Defence(1)": {
+          "gbp_bn": 24.5,
+          "pct": 7.5
+        },
+        "4. Economic affairs": {
+          "gbp_bn": 19.6,
+          "pct": 6.0
+        },
+        "3. Public order and safety": {
+          "gbp_bn": 18.0,
+          "pct": 5.5
+        },
+        "8. Recreation, culture and religion": {
+          "gbp_bn": 7.2,
+          "pct": 2.2
+        },
+        "6. Housing and community amenities": {
+          "gbp_bn": 5.5,
+          "pct": 1.7
+        },
+        "5. Environment protection": {
+          "gbp_bn": 4.3,
+          "pct": 1.3
+        }
+      },
+      "1999-00": {
+        "10. Social protection": {
+          "gbp_bn": 123.0,
+          "pct": 36.0
+        },
+        "7. Health": {
+          "gbp_bn": 49.4,
+          "pct": 14.4
+        },
+        "1. General public services": {
+          "gbp_bn": 45.0,
+          "pct": 13.2
+        },
+        "9. Education (5)": {
+          "gbp_bn": 42.2,
+          "pct": 12.3
+        },
+        "2. Defence(1)": {
+          "gbp_bn": 25.1,
+          "pct": 7.3
+        },
+        "4. Economic affairs": {
+          "gbp_bn": 21.5,
+          "pct": 6.3
+        },
+        "3. Public order and safety": {
+          "gbp_bn": 18.4,
+          "pct": 5.4
+        },
+        "8. Recreation, culture and religion": {
+          "gbp_bn": 7.7,
+          "pct": 2.3
+        },
+        "5. Environment protection": {
+          "gbp_bn": 4.9,
+          "pct": 1.4
+        },
+        "6. Housing and community amenities": {
+          "gbp_bn": 4.7,
+          "pct": 1.4
+        }
+      },
+      "2000-01": {
+        "10. Social protection": {
+          "gbp_bn": 128.5,
+          "pct": 35.3
+        },
+        "7. Health": {
+          "gbp_bn": 54.2,
+          "pct": 14.9
+        },
+        "1. General public services": {
+          "gbp_bn": 46.9,
+          "pct": 12.9
+        },
+        "9. Education (5)": {
+          "gbp_bn": 45.9,
+          "pct": 12.6
+        },
+        "2. Defence(1)": {
+          "gbp_bn": 25.7,
+          "pct": 7.1
+        },
+        "4. Economic affairs": {
+          "gbp_bn": 23.8,
+          "pct": 6.5
+        },
+        "3. Public order and safety": {
+          "gbp_bn": 20.4,
+          "pct": 5.6
+        },
+        "8. Recreation, culture and religion": {
+          "gbp_bn": 7.8,
+          "pct": 2.1
+        },
+        "6. Housing and community amenities": {
+          "gbp_bn": 5.5,
+          "pct": 1.5
+        },
+        "5. Environment protection": {
+          "gbp_bn": 5.1,
+          "pct": 1.4
+        }
+      },
+      "2001-02": {
+        "10. Social protection": {
+          "gbp_bn": 137.4,
+          "pct": 35.2
+        },
+        "7. Health": {
+          "gbp_bn": 59.8,
+          "pct": 15.3
+        },
+        "9. Education (5)": {
+          "gbp_bn": 51.2,
+          "pct": 13.1
+        },
+        "1. General public services": {
+          "gbp_bn": 45.0,
+          "pct": 11.5
+        },
+        "4. Economic affairs": {
+          "gbp_bn": 27.7,
+          "pct": 7.1
+        },
+        "2. Defence(1)": {
+          "gbp_bn": 25.4,
+          "pct": 6.5
+        },
+        "3. Public order and safety": {
+          "gbp_bn": 23.1,
+          "pct": 5.9
+        },
+        "8. Recreation, culture and religion": {
+          "gbp_bn": 8.6,
+          "pct": 2.2
+        },
+        "6. Housing and community amenities": {
+          "gbp_bn": 6.2,
+          "pct": 1.6
+        },
+        "5. Environment protection": {
+          "gbp_bn": 5.4,
+          "pct": 1.4
+        }
+      },
+      "2002-03": {
+        "10. Social protection": {
+          "gbp_bn": 145.3,
+          "pct": 35.1
+        },
+        "7. Health": {
+          "gbp_bn": 66.2,
+          "pct": 16.0
+        },
+        "9. Education (5)": {
+          "gbp_bn": 54.7,
+          "pct": 13.2
+        },
+        "1. General public services": {
+          "gbp_bn": 45.0,
+          "pct": 10.9
+        },
+        "4. Economic affairs": {
+          "gbp_bn": 30.7,
+          "pct": 7.4
+        },
+        "2. Defence(1)": {
+          "gbp_bn": 27.0,
+          "pct": 6.5
+        },
+        "3. Public order and safety": {
+          "gbp_bn": 24.4,
+          "pct": 5.9
+        },
+        "8. Recreation, culture and religion": {
+          "gbp_bn": 9.3,
+          "pct": 2.2
+        },
+        "5. Environment protection": {
+          "gbp_bn": 6.0,
+          "pct": 1.4
+        },
+        "6. Housing and community amenities": {
+          "gbp_bn": 5.4,
+          "pct": 1.3
+        }
+      },
+      "2003-04": {
+        "10. Social protection": {
+          "gbp_bn": 155.6,
+          "pct": 34.5
+        },
+        "7. Health": {
+          "gbp_bn": 74.9,
+          "pct": 16.6
+        },
+        "9. Education (5)": {
+          "gbp_bn": 61.0,
+          "pct": 13.5
+        },
+        "1. General public services": {
+          "gbp_bn": 48.7,
+          "pct": 10.8
+        },
+        "4. Economic affairs": {
+          "gbp_bn": 33.1,
+          "pct": 7.3
+        },
+        "2. Defence(1)": {
+          "gbp_bn": 28.8,
+          "pct": 6.4
+        },
+        "3. Public order and safety": {
+          "gbp_bn": 26.4,
+          "pct": 5.9
+        },
+        "8. Recreation, culture and religion": {
+          "gbp_bn": 9.7,
+          "pct": 2.2
+        },
+        "6. Housing and community amenities": {
+          "gbp_bn": 6.7,
+          "pct": 1.5
+        },
+        "5. Environment protection": {
+          "gbp_bn": 6.2,
+          "pct": 1.4
+        }
+      },
+      "2004-05": {
+        "10. Social protection": {
+          "gbp_bn": 164.1,
+          "pct": 34.0
+        },
+        "7. Health": {
+          "gbp_bn": 82.9,
+          "pct": 17.2
+        },
+        "9. Education (5)": {
+          "gbp_bn": 65.1,
+          "pct": 13.5
+        },
+        "1. General public services": {
+          "gbp_bn": 54.0,
+          "pct": 11.2
+        },
+        "4. Economic affairs": {
+          "gbp_bn": 33.6,
+          "pct": 7.0
+        },
+        "2. Defence(1)": {
+          "gbp_bn": 29.8,
+          "pct": 6.2
+        },
+        "3. Public order and safety": {
+          "gbp_bn": 28.5,
+          "pct": 5.9
+        },
+        "8. Recreation, culture and religion": {
+          "gbp_bn": 10.0,
+          "pct": 2.1
+        },
+        "6. Housing and community amenities": {
+          "gbp_bn": 8.0,
+          "pct": 1.7
+        },
+        "5. Environment protection": {
+          "gbp_bn": 7.0,
+          "pct": 1.4
+        }
+      },
+      "2005-06": {
+        "10. Social protection": {
+          "gbp_bn": 171.0,
+          "pct": 33.3
+        },
+        "7. Health": {
+          "gbp_bn": 89.8,
+          "pct": 17.5
+        },
+        "9. Education (5)": {
+          "gbp_bn": 69.8,
+          "pct": 13.6
+        },
+        "1. General public services": {
+          "gbp_bn": 58.0,
+          "pct": 11.3
+        },
+        "4. Economic affairs": {
+          "gbp_bn": 35.3,
+          "pct": 6.9
+        },
+        "2. Defence(1)": {
+          "gbp_bn": 31.0,
+          "pct": 6.0
+        },
+        "3. Public order and safety": {
+          "gbp_bn": 29.3,
+          "pct": 5.7
+        },
+        "8. Recreation, culture and religion": {
+          "gbp_bn": 10.8,
+          "pct": 2.1
+        },
+        "6. Housing and community amenities": {
+          "gbp_bn": 10.7,
+          "pct": 2.1
+        },
+        "5. Environment protection": {
+          "gbp_bn": 8.5,
+          "pct": 1.7
+        }
+      },
+      "2006-07": {
+        "10. Social protection": {
+          "gbp_bn": 177.0,
+          "pct": 32.9
+        },
+        "7. Health": {
+          "gbp_bn": 94.7,
+          "pct": 17.6
+        },
+        "9. Education (5)": {
+          "gbp_bn": 73.0,
+          "pct": 13.6
+        },
+        "1. General public services": {
+          "gbp_bn": 61.6,
+          "pct": 11.4
+        },
+        "4. Economic affairs": {
+          "gbp_bn": 37.5,
+          "pct": 7.0
+        },
+        "2. Defence(1)": {
+          "gbp_bn": 32.2,
+          "pct": 6.0
+        },
+        "3. Public order and safety": {
+          "gbp_bn": 30.4,
+          "pct": 5.6
+        },
+        "6. Housing and community amenities": {
+          "gbp_bn": 11.5,
+          "pct": 2.1
+        },
+        "8. Recreation, culture and religion": {
+          "gbp_bn": 11.4,
+          "pct": 2.1
+        },
+        "5. Environment protection": {
+          "gbp_bn": 9.4,
+          "pct": 1.7
+        }
+      },
+      "2007-08": {
+        "10. Social protection": {
+          "gbp_bn": 188.6,
+          "pct": 33.0
+        },
+        "7. Health": {
+          "gbp_bn": 101.1,
+          "pct": 17.7
+        },
+        "9. Education (5)": {
+          "gbp_bn": 78.7,
+          "pct": 13.8
+        },
+        "1. General public services": {
+          "gbp_bn": 65.6,
+          "pct": 11.5
+        },
+        "4. Economic affairs": {
+          "gbp_bn": 37.4,
+          "pct": 6.5
+        },
+        "2. Defence(1)": {
+          "gbp_bn": 33.7,
+          "pct": 5.9
+        },
+        "3. Public order and safety": {
+          "gbp_bn": 31.7,
+          "pct": 5.5
+        },
+        "6. Housing and community amenities": {
+          "gbp_bn": 13.0,
+          "pct": 2.3
+        },
+        "8. Recreation, culture and religion": {
+          "gbp_bn": 11.9,
+          "pct": 2.1
+        },
+        "5. Environment protection": {
+          "gbp_bn": 9.6,
+          "pct": 1.7
+        }
+      },
+      "2008-09": {
+        "10. Social protection": {
+          "gbp_bn": 203.4,
+          "pct": 32.7
+        },
+        "7. Health": {
+          "gbp_bn": 108.7,
+          "pct": 17.5
+        },
+        "9. Education (5)": {
+          "gbp_bn": 83.0,
+          "pct": 13.4
+        },
+        "1. General public services": {
+          "gbp_bn": 69.4,
+          "pct": 11.2
+        },
+        "4. Economic affairs": {
+          "gbp_bn": 49.7,
+          "pct": 8.0
+        },
+        "2. Defence(1)": {
+          "gbp_bn": 36.8,
+          "pct": 5.9
+        },
+        "3. Public order and safety": {
+          "gbp_bn": 33.7,
+          "pct": 5.4
+        },
+        "6. Housing and community amenities": {
+          "gbp_bn": 15.3,
+          "pct": 2.5
+        },
+        "8. Recreation, culture and religion": {
+          "gbp_bn": 12.4,
+          "pct": 2.0
+        },
+        "5. Environment protection": {
+          "gbp_bn": 9.2,
+          "pct": 1.5
+        }
+      },
+      "2009-10": {
+        "10. Social protection": {
+          "gbp_bn": 223.0,
+          "pct": 34.1
+        },
+        "7. Health": {
+          "gbp_bn": 116.9,
+          "pct": 17.9
+        },
+        "9. Education (5)": {
+          "gbp_bn": 88.5,
+          "pct": 13.5
+        },
+        "1. General public services": {
+          "gbp_bn": 65.2,
+          "pct": 10.0
+        },
+        "4. Economic affairs": {
+          "gbp_bn": 48.7,
+          "pct": 7.4
+        },
+        "2. Defence(1)": {
+          "gbp_bn": 37.7,
+          "pct": 5.8
+        },
+        "3. Public order and safety": {
+          "gbp_bn": 34.1,
+          "pct": 5.2
+        },
+        "6. Housing and community amenities": {
+          "gbp_bn": 16.3,
+          "pct": 2.5
+        },
+        "8. Recreation, culture and religion": {
+          "gbp_bn": 13.2,
+          "pct": 2.0
+        },
+        "5. Environment protection": {
+          "gbp_bn": 10.4,
+          "pct": 1.6
+        }
+      },
+      "2010-11": {
+        "10. Social protection": {
+          "gbp_bn": 230.4,
+          "pct": 34.4
+        },
+        "7. Health": {
+          "gbp_bn": 119.9,
+          "pct": 17.9
+        },
+        "9. Education (5)": {
+          "gbp_bn": 91.5,
+          "pct": 13.7
+        },
+        "1. General public services": {
+          "gbp_bn": 78.0,
+          "pct": 11.7
+        },
+        "4. Economic affairs": {
+          "gbp_bn": 40.0,
+          "pct": 6.0
+        },
+        "2. Defence(1)": {
+          "gbp_bn": 39.3,
+          "pct": 5.9
+        },
+        "3. Public order and safety": {
+          "gbp_bn": 33.1,
+          "pct": 4.9
+        },
+        "6. Housing and community amenities": {
+          "gbp_bn": 13.3,
+          "pct": 2.0
+        },
+        "8. Recreation, culture and religion": {
+          "gbp_bn": 13.0,
+          "pct": 1.9
+        },
+        "5. Environment protection": {
+          "gbp_bn": 10.9,
+          "pct": 1.6
+        }
+      },
+      "2011-12": {
+        "10. Social protection": {
+          "gbp_bn": 244.8,
+          "pct": 36.3
+        },
+        "7. Health": {
+          "gbp_bn": 121.3,
+          "pct": 18.0
+        },
+        "9. Education (5)": {
+          "gbp_bn": 86.5,
+          "pct": 12.8
+        },
+        "1. General public services": {
+          "gbp_bn": 79.3,
+          "pct": 11.8
+        },
+        "2. Defence(1)": {
+          "gbp_bn": 38.7,
+          "pct": 5.7
+        },
+        "4. Economic affairs": {
+          "gbp_bn": 37.8,
+          "pct": 5.6
+        },
+        "3. Public order and safety": {
+          "gbp_bn": 32.1,
+          "pct": 4.8
+        },
+        "8. Recreation, culture and religion": {
+          "gbp_bn": 12.5,
+          "pct": 1.9
+        },
+        "5. Environment protection": {
+          "gbp_bn": 10.5,
+          "pct": 1.6
+        },
+        "6. Housing and community amenities": {
+          "gbp_bn": 10.2,
+          "pct": 1.5
+        }
+      },
+      "2012-13": {
+        "10. Social protection": {
+          "gbp_bn": 253.4,
+          "pct": 37.6
+        },
+        "7. Health": {
+          "gbp_bn": 124.3,
+          "pct": 18.4
+        },
+        "9. Education (5)": {
+          "gbp_bn": 84.1,
+          "pct": 12.5
+        },
+        "1. General public services": {
+          "gbp_bn": 74.8,
+          "pct": 11.1
+        },
+        "4. Economic affairs": {
+          "gbp_bn": 36.7,
+          "pct": 5.4
+        },
+        "2. Defence(1)": {
+          "gbp_bn": 36.3,
+          "pct": 5.4
+        },
+        "3. Public order and safety": {
+          "gbp_bn": 31.3,
+          "pct": 4.6
+        },
+        "8. Recreation, culture and religion": {
+          "gbp_bn": 12.7,
+          "pct": 1.9
+        },
+        "5. Environment protection": {
+          "gbp_bn": 10.7,
+          "pct": 1.6
+        },
+        "6. Housing and community amenities": {
+          "gbp_bn": 10.0,
+          "pct": 1.5
+        }
+      },
+      "2013-14": {
+        "10. Social protection": {
+          "gbp_bn": 254.2,
+          "pct": 37.1
+        },
+        "7. Health": {
+          "gbp_bn": 129.4,
+          "pct": 18.9
+        },
+        "9. Education (5)": {
+          "gbp_bn": 84.7,
+          "pct": 12.4
+        },
+        "1. General public services": {
+          "gbp_bn": 76.9,
+          "pct": 11.2
+        },
+        "4. Economic affairs": {
+          "gbp_bn": 40.9,
+          "pct": 6.0
+        },
+        "2. Defence(1)": {
+          "gbp_bn": 36.4,
+          "pct": 5.3
+        },
+        "3. Public order and safety": {
+          "gbp_bn": 29.6,
+          "pct": 4.3
+        },
+        "8. Recreation, culture and religion": {
+          "gbp_bn": 11.6,
+          "pct": 1.7
+        },
+        "5. Environment protection": {
+          "gbp_bn": 11.2,
+          "pct": 1.6
+        },
+        "6. Housing and community amenities": {
+          "gbp_bn": 9.9,
+          "pct": 1.4
+        }
+      },
+      "2014-15": {
+        "10. Social protection": {
+          "gbp_bn": 261.1,
+          "pct": 37.4
+        },
+        "7. Health": {
+          "gbp_bn": 134.1,
+          "pct": 19.2
+        },
+        "9. Education (5)": {
+          "gbp_bn": 85.1,
+          "pct": 12.2
+        },
+        "1. General public services": {
+          "gbp_bn": 75.7,
+          "pct": 10.8
+        },
+        "4. Economic affairs": {
+          "gbp_bn": 41.1,
+          "pct": 5.9
+        },
+        "2. Defence(1)": {
+          "gbp_bn": 36.7,
+          "pct": 5.3
+        },
+        "3. Public order and safety": {
+          "gbp_bn": 30.2,
+          "pct": 4.3
+        },
+        "8. Recreation, culture and religion": {
+          "gbp_bn": 12.4,
+          "pct": 1.8
+        },
+        "5. Environment protection": {
+          "gbp_bn": 11.6,
+          "pct": 1.7
+        },
+        "6. Housing and community amenities": {
+          "gbp_bn": 10.3,
+          "pct": 1.5
+        }
+      },
+      "2015-16": {
+        "10. Social protection": {
+          "gbp_bn": 264.9,
+          "pct": 37.2
+        },
+        "7. Health": {
+          "gbp_bn": 138.5,
+          "pct": 19.5
+        },
+        "9. Education (5)": {
+          "gbp_bn": 84.9,
+          "pct": 11.9
+        },
+        "1. General public services": {
+          "gbp_bn": 76.4,
+          "pct": 10.7
+        },
+        "4. Economic affairs": {
+          "gbp_bn": 47.0,
+          "pct": 6.6
+        },
+        "2. Defence(1)": {
+          "gbp_bn": 36.6,
+          "pct": 5.1
+        },
+        "3. Public order and safety": {
+          "gbp_bn": 30.2,
+          "pct": 4.2
+        },
+        "5. Environment protection": {
+          "gbp_bn": 11.6,
+          "pct": 1.6
+        },
+        "8. Recreation, culture and religion": {
+          "gbp_bn": 11.4,
+          "pct": 1.6
+        },
+        "6. Housing and community amenities": {
+          "gbp_bn": 9.8,
+          "pct": 1.4
+        }
+      },
+      "2016-17": {
+        "10. Social protection": {
+          "gbp_bn": 265.4,
+          "pct": 36.7
+        },
+        "7. Health": {
+          "gbp_bn": 142.6,
+          "pct": 19.7
+        },
+        "9. Education (5)": {
+          "gbp_bn": 84.9,
+          "pct": 11.8
+        },
+        "1. General public services": {
+          "gbp_bn": 80.2,
+          "pct": 11.1
+        },
+        "4. Economic affairs": {
+          "gbp_bn": 49.2,
+          "pct": 6.8
+        },
+        "2. Defence(1)": {
+          "gbp_bn": 37.1,
+          "pct": 5.1
+        },
+        "3. Public order and safety": {
+          "gbp_bn": 30.1,
+          "pct": 4.2
+        },
+        "8. Recreation, culture and religion": {
+          "gbp_bn": 11.6,
+          "pct": 1.6
+        },
+        "5. Environment protection": {
+          "gbp_bn": 11.1,
+          "pct": 1.5
+        },
+        "6. Housing and community amenities": {
+          "gbp_bn": 10.3,
+          "pct": 1.4
+        }
+      },
+      "2017-18": {
+        "10. Social protection": {
+          "gbp_bn": 268.7,
+          "pct": 36.1
+        },
+        "7. Health": {
+          "gbp_bn": 147.3,
+          "pct": 19.8
+        },
+        "9. Education (5)": {
+          "gbp_bn": 86.1,
+          "pct": 11.6
+        },
+        "1. General public services": {
+          "gbp_bn": 84.4,
+          "pct": 11.3
+        },
+        "4. Economic affairs": {
+          "gbp_bn": 53.1,
+          "pct": 7.1
+        },
+        "2. Defence(1)": {
+          "gbp_bn": 38.7,
+          "pct": 5.2
+        },
+        "3. Public order and safety": {
+          "gbp_bn": 31.5,
+          "pct": 4.2
+        },
+        "5. Environment protection": {
+          "gbp_bn": 11.8,
+          "pct": 1.6
+        },
+        "8. Recreation, culture and religion": {
+          "gbp_bn": 11.5,
+          "pct": 1.5
+        },
+        "6. Housing and community amenities": {
+          "gbp_bn": 11.4,
+          "pct": 1.5
+        }
+      },
+      "2018-19": {
+        "10. Social protection": {
+          "gbp_bn": 274.8,
+          "pct": 35.9
+        },
+        "7. Health": {
+          "gbp_bn": 152.9,
+          "pct": 20.0
+        },
+        "9. Education (5)": {
+          "gbp_bn": 88.1,
+          "pct": 11.5
+        },
+        "1. General public services": {
+          "gbp_bn": 80.9,
+          "pct": 10.6
+        },
+        "4. Economic affairs": {
+          "gbp_bn": 60.8,
+          "pct": 8.0
+        },
+        "2. Defence(1)": {
+          "gbp_bn": 40.2,
+          "pct": 5.3
+        },
+        "3. Public order and safety": {
+          "gbp_bn": 32.4,
+          "pct": 4.2
+        },
+        "6. Housing and community amenities": {
+          "gbp_bn": 12.1,
+          "pct": 1.6
+        },
+        "8. Recreation, culture and religion": {
+          "gbp_bn": 11.4,
+          "pct": 1.5
+        },
+        "5. Environment protection": {
+          "gbp_bn": 11.1,
+          "pct": 1.5
+        }
+      },
+      "2019-20": {
+        "10. Social protection": {
+          "gbp_bn": 275.8,
+          "pct": 34.8
+        },
+        "7. Health": {
+          "gbp_bn": 164.1,
+          "pct": 20.7
+        },
+        "9. Education (5)": {
+          "gbp_bn": 90.6,
+          "pct": 11.4
+        },
+        "1. General public services": {
+          "gbp_bn": 81.3,
+          "pct": 10.2
+        },
+        "4. Economic affairs": {
+          "gbp_bn": 66.6,
+          "pct": 8.4
+        },
+        "2. Defence(1)": {
+          "gbp_bn": 42.2,
+          "pct": 5.3
+        },
+        "3. Public order and safety": {
+          "gbp_bn": 34.5,
+          "pct": 4.3
+        },
+        "6. Housing and community amenities": {
+          "gbp_bn": 14.2,
+          "pct": 1.8
+        },
+        "8. Recreation, culture and religion": {
+          "gbp_bn": 12.3,
+          "pct": 1.6
+        },
+        "5. Environment protection": {
+          "gbp_bn": 11.8,
+          "pct": 1.5
+        }
+      },
+      "2020-21": {
+        "10. Social protection": {
+          "gbp_bn": 299.3,
+          "pct": 29.8
+        },
+        "7. Health": {
+          "gbp_bn": 218.6,
+          "pct": 21.8
+        },
+        "4. Economic affairs": {
+          "gbp_bn": 196.3,
+          "pct": 19.5
+        },
+        "9. Education (5)": {
+          "gbp_bn": 95.5,
+          "pct": 9.5
+        },
+        "1. General public services": {
+          "gbp_bn": 72.0,
+          "pct": 7.2
+        },
+        "2. Defence(1)": {
+          "gbp_bn": 44.6,
+          "pct": 4.4
+        },
+        "3. Public order and safety": {
+          "gbp_bn": 38.9,
+          "pct": 3.9
+        },
+        "6. Housing and community amenities": {
+          "gbp_bn": 13.7,
+          "pct": 1.4
+        },
+        "5. Environment protection": {
+          "gbp_bn": 13.0,
+          "pct": 1.3
+        },
+        "8. Recreation, culture and religion": {
+          "gbp_bn": 12.6,
+          "pct": 1.3
+        }
+      },
+      "2021-22": {
+        "10. Social protection": {
+          "gbp_bn": 300.0,
+          "pct": 31.5
+        },
+        "7. Health": {
+          "gbp_bn": 216.2,
+          "pct": 22.7
+        },
+        "1. General public services": {
+          "gbp_bn": 109.2,
+          "pct": 11.5
+        },
+        "9. Education (5)": {
+          "gbp_bn": 100.1,
+          "pct": 10.5
+        },
+        "4. Economic affairs": {
+          "gbp_bn": 97.8,
+          "pct": 10.3
+        },
+        "2. Defence(1)": {
+          "gbp_bn": 48.7,
+          "pct": 5.1
+        },
+        "3. Public order and safety": {
+          "gbp_bn": 39.8,
+          "pct": 4.2
+        },
+        "6. Housing and community amenities": {
+          "gbp_bn": 15.2,
+          "pct": 1.6
+        },
+        "5. Environment protection": {
+          "gbp_bn": 13.8,
+          "pct": 1.4
+        },
+        "8. Recreation, culture and religion": {
+          "gbp_bn": 12.8,
+          "pct": 1.3
+        }
+      },
+      "2022-23": {
+        "10. Social protection": {
+          "gbp_bn": 322.0,
+          "pct": 29.9
+        },
+        "7. Health": {
+          "gbp_bn": 212.7,
+          "pct": 19.7
+        },
+        "1. General public services": {
+          "gbp_bn": 166.0,
+          "pct": 15.4
+        },
+        "4. Economic affairs": {
+          "gbp_bn": 124.6,
+          "pct": 11.6
+        },
+        "9. Education (5)": {
+          "gbp_bn": 107.3,
+          "pct": 9.9
+        },
+        "2. Defence(1)": {
+          "gbp_bn": 55.5,
+          "pct": 5.1
+        },
+        "3. Public order and safety": {
+          "gbp_bn": 44.2,
+          "pct": 4.1
+        },
+        "6. Housing and community amenities": {
+          "gbp_bn": 17.3,
+          "pct": 1.6
+        },
+        "8. Recreation, culture and religion": {
+          "gbp_bn": 14.5,
+          "pct": 1.3
+        },
+        "5. Environment protection": {
+          "gbp_bn": 14.4,
+          "pct": 1.3
+        }
+      },
+      "2023-24": {
+        "10. Social protection": {
+          "gbp_bn": 364.7,
+          "pct": 32.7
+        },
+        "7. Health": {
+          "gbp_bn": 222.0,
+          "pct": 19.9
+        },
+        "1. General public services": {
+          "gbp_bn": 163.1,
+          "pct": 14.6
+        },
+        "9. Education (5)": {
+          "gbp_bn": 114.2,
+          "pct": 10.2
+        },
+        "4. Economic affairs": {
+          "gbp_bn": 94.5,
+          "pct": 8.5
+        },
+        "2. Defence(1)": {
+          "gbp_bn": 56.8,
+          "pct": 5.1
+        },
+        "3. Public order and safety": {
+          "gbp_bn": 48.7,
+          "pct": 4.4
+        },
+        "6. Housing and community amenities": {
+          "gbp_bn": 20.8,
+          "pct": 1.9
+        },
+        "5. Environment protection": {
+          "gbp_bn": 16.0,
+          "pct": 1.4
+        },
+        "8. Recreation, culture and religion": {
+          "gbp_bn": 13.4,
+          "pct": 1.2
+        }
+      },
+      "2024-25": {
+        "10. Social protection": {
+          "gbp_bn": 383.9,
+          "pct": 33.2
+        },
+        "7. Health": {
+          "gbp_bn": 241.8,
+          "pct": 20.9
+        },
+        "1. General public services": {
+          "gbp_bn": 157.6,
+          "pct": 13.6
+        },
+        "9. Education (5)": {
+          "gbp_bn": 118.7,
+          "pct": 10.3
+        },
+        "4. Economic affairs": {
+          "gbp_bn": 86.8,
+          "pct": 7.5
+        },
+        "2. Defence(1)": {
+          "gbp_bn": 63.6,
+          "pct": 5.5
+        },
+        "3. Public order and safety": {
+          "gbp_bn": 51.4,
+          "pct": 4.4
+        },
+        "6. Housing and community amenities": {
+          "gbp_bn": 22.3,
+          "pct": 1.9
+        },
+        "5. Environment protection": {
+          "gbp_bn": 17.1,
+          "pct": 1.5
+        },
+        "8. Recreation, culture and religion": {
+          "gbp_bn": 14.5,
+          "pct": 1.3
+        }
+      }
+    }
+  },
+  "load_log": [
+    {
+      "edition": 2010,
+      "file": "pesa_2010_chapter4.xls",
+      "status": "ok",
+      "tme_years": 44,
+      "function_years": 23,
+      "tme_first": "1967-68",
+      "tme_last": "2010-11"
+    },
+    {
+      "edition": 2011,
+      "file": "pesa_2011_chapter4.xlsx",
+      "status": "ok",
+      "tme_years": 44,
+      "function_years": 23,
+      "tme_first": "1971-72",
+      "tme_last": "2014-15"
+    },
+    {
+      "edition": 2012,
+      "file": "pesa_2012_chapter4.xlsx",
+      "status": "ok",
+      "tme_years": 41,
+      "function_years": 24,
+      "tme_first": "1971-72",
+      "tme_last": "2011-12"
+    },
+    {
+      "edition": 2013,
+      "file": "pesa_2013_chapter4.xlsx",
+      "status": "ok",
+      "tme_years": 44,
+      "function_years": 24,
+      "tme_first": "1971-72",
+      "tme_last": "2014-15"
+    },
+    {
+      "edition": 2014,
+      "file": "pesa_2014_chapter4.xlsx",
+      "status": "ok",
+      "tme_years": 44,
+      "function_years": 24,
+      "tme_first": "1972-73",
+      "tme_last": "2015-16"
+    },
+    {
+      "edition": 2015,
+      "file": "pesa_2015_chapter4.xlsx",
+      "status": "ok",
+      "tme_years": 44,
+      "function_years": 24,
+      "tme_first": "1972-73",
+      "tme_last": "2015-16"
+    },
+    {
+      "edition": 2016,
+      "file": "pesa_2016_chapter4.xlsx",
+      "status": "ok",
+      "tme_years": 44,
+      "function_years": 24,
+      "tme_first": "1976-77",
+      "tme_last": "2019-20"
+    },
+    {
+      "edition": 2017,
+      "file": "pesa_2017_chapter4.xlsx",
+      "status": "ok",
+      "tme_years": 44,
+      "function_years": 24,
+      "tme_first": "1976-77",
+      "tme_last": "2019-20"
+    },
+    {
+      "edition": 2018,
+      "file": "pesa_2018_chapter4.ods",
+      "status": "ok",
+      "tme_years": 44,
+      "function_years": 24,
+      "tme_first": "1976-77",
+      "tme_last": "2019-20"
+    },
+    {
+      "edition": 2019,
+      "file": "pesa_2019_chapter4.ods",
+      "status": "ok",
+      "tme_years": 44,
+      "function_years": 24,
+      "tme_first": "1976-77",
+      "tme_last": "2019-20"
+    },
+    {
+      "edition": 2020,
+      "file": "pesa_2020_chapter4.ods",
+      "status": "ok",
+      "tme_years": 44,
+      "function_years": 24,
+      "tme_first": "1977-78",
+      "tme_last": "2020-21"
+    },
+    {
+      "edition": 2021,
+      "file": "pesa_2021_chapter4.xlsx",
+      "status": "ok",
+      "tme_years": 44,
+      "function_years": 24,
+      "tme_first": "1978-79",
+      "tme_last": "2021-22"
+    },
+    {
+      "edition": 2022,
+      "file": "pesa_2022_chapter4.xlsx",
+      "status": "ok",
+      "tme_years": 44,
+      "function_years": 24,
+      "tme_first": "1981-82",
+      "tme_last": "2024-25"
+    },
+    {
+      "edition": 2023,
+      "file": "pesa_2023_chapter4.xlsx",
+      "status": "ok",
+      "tme_years": 44,
+      "function_years": 24,
+      "tme_first": "1981-82",
+      "tme_last": "2024-25"
+    },
+    {
+      "edition": 2024,
+      "file": "pesa_2024_chapter4.xlsx",
+      "status": "ok",
+      "tme_years": 44,
+      "function_years": 23,
+      "tme_first": "1981-82",
+      "tme_last": "2024-25"
+    },
+    {
+      "edition": 2025,
+      "file": "pesa_2025_chapter4.xlsx",
+      "status": "ok",
+      "tme_years": 44,
+      "function_years": 23,
+      "tme_first": "1982-83",
+      "tme_last": "2025-26"
+    }
+  ]
+}
