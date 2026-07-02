@@ -21,13 +21,13 @@ export function useFiscalData() {
           functionHistoryRaw,
           regionsRaw,
         ] = await Promise.all([
-          loadCsv('/data/uk_fiscal_summary.csv'),
-          loadCsv('/data/uk_spending_by_function.csv'),
-          loadCsv('/data/regional_fiscal.csv'),
-          loadCsv('/data/regional_revenue_by_type.csv'),
-          loadCsv('/data/pesa_tme_history.csv'),
-          loadCsv('/data/pesa_spending_by_function_history.csv'),
-          loadCsv('/data/regions.csv'),
+          loadCsv('uk_fiscal_summary.csv'),
+          loadCsv('uk_spending_by_function.csv'),
+          loadCsv('regional_fiscal.csv'),
+          loadCsv('regional_revenue_by_type.csv'),
+          loadCsv('pesa_tme_history.csv'),
+          loadCsv('pesa_spending_by_function_history.csv'),
+          loadCsv('regions.csv'),
         ])
 
         if (cancelled) return
